@@ -110,7 +110,8 @@
         ],
         "dataForExampleTab": [
           {
-            "textForPage_1": "ম্যাথ নেই"
+            "textForPage_1": "ম্যাথ নেই",
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter1Math.pdf"
           }
         ],
         "dataForExerciseTab": [
