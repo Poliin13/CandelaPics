@@ -92,20 +92,7 @@
         "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
         "dataForTheoryTab": [
           {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/CH1TestPaper(1).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/CH1TestPaper(2).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/CH1TestPaper(3).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/CH1TestPaper(4).webp"
-          }
-          ,
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/CH1TestPaper(5).webp"
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter1Theory.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -115,16 +102,7 @@
         ],
         "dataForExerciseTab": [
           {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/MeasurementObjective(1).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/MeasurementObjective(2).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/MeasurementObjective(3).webp"
-          },
-          {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/MeasurementObjective(4).webp"
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter1Objective.pdf"
           }
         ]
       }
@@ -408,6 +386,24 @@
           {
             "flipCardFront":"৩। একটি বস্তুর গতি v = x^2(i) + y^2(j) + z^2(k) হলে (1, 2, -3) বিন্দুতে এর কার্ল কত?",
             "flipCardBack": "উত্তরঃ 0"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Objective.pdf"
           }
         ]
       }
@@ -790,6 +786,24 @@
           {
             "flipCardFront":"৩। একটি গাড়ির চাকার ব্যাস 0.6m। গাড়িটি স্থিরবস্থা হতে সমতরণে চলে 4s শেষে 7.5m/s বেগ লাভ করে।চাকার কৌণিক তরণ ও ঊক্ত সময়ের ঘূর্ণ্ন সংখ্যা বের কর।",
             "flipCardBack": "উত্তরঃ 6.25rad/s2 , 7.96rev "
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Objective.pdf"
           }
         ]
       }
@@ -1323,6 +1337,24 @@
             "flipCardBack": "উত্তরঃ ১.৮৪ সেমি"
           }
         ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Objective.pdf"
+          }
+        ]
       }
     ]
   },
@@ -1626,6 +1658,24 @@
           {
             "flipCardFront":"৮। 1kg ভরের পদার্থের রূপান্তরে কত ক্যালরি তাপশক্তি উৎপন্ন হবে?",
             "flipCardBack": "উত্তরঃ 2.143×10^16 Cal"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Objective.pdf"
           }
         ]
       }
@@ -2064,6 +2114,24 @@
           {
             "flipCardFront":  "২. সূর্য হতে পৃথিবীর গড় দূরত্ব বর্তমান গড় দূরত্বের অর্ধেক হয়ে গেলে এক বছরে কত দিন হবে?",
             "flipCardBack": "উত্তর: নিজে কর "
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Objective.pdf"
           }
         ]
       }
@@ -2584,6 +2652,24 @@
             "flipCardBack": "উত্তরঃ 2.37×10-4 N"
           }
         ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Objective.pdf"
+          }
+        ]
       }
     ]
   },
@@ -2836,6 +2922,24 @@
           {
             "flipCardFront":"৬। কোন স্প্রিং এর এক প্রান্তে একটি বস্তু ঝুলিয়ে বস্তুটিকে একটু ছেড়ে দিলে এটি a বিস্তারে স্পন্দিত হতে থাকে।কোথায় এর গতিশক্তি ও বিভবশক্তি সমান হবে?",
             "flipCardBack": "ঊত্তরঃ 0.707a দূরে"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Objective.pdf"
           }
         ]
       }
@@ -3231,6 +3335,24 @@
             "flipCardBack": "ঊত্তরঃ n2=2.n1"
           }
         ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Objective.pdf"
+          }
+        ]
       }
     ]
   },
@@ -3430,6 +3552,24 @@
           {
             "flipCardFront":"২। প্রাথমিক আর্দ্রতা 60% অপরিবর্তিত অবস্থায় যদি বায়ুর তাপমাত্রা 20℃ থেকে হ্রাস পেয়ে 5℃  হয় তবে বায়ুতে উপস্থিত জলীয়বাস্পের কত অংশ তরলীভুত হবে?( 5℃ ও 20℃ তাপমাত্রায় জলীয়বাস্পের চাপ যথাক্রমে 6.5mmHgP ওঁ 17.5mmHgP)",
             "flipCardBack": "উত্তরঃ 0.381 অংশ"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Objective.pdf"
           }
         ]
       }
