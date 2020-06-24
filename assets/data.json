@@ -3434,6 +3434,31 @@
         ]
       }
     ]
+  },
+  {
+    "chapterNumber": "অতিরিক্ত",
+    "chapterName": "বোর্ড প্রশ্ন ও সুত্রসমূহ",
+    "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/05.WorkEnergyPower/ChapterFiveIcon.gif",
+    "topicsData": [
+      {
+        "topicName": "প্রয়োজনীয় তথ্য",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/AllFormulas1stPaper.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
+          }
+        ]
+      }
+    ]
   }
 ]
 
