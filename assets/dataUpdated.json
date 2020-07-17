@@ -426,10 +426,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter2Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -830,6 +866,42 @@
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter3Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -1375,10 +1447,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter4Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -1698,10 +1806,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter5Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -2154,10 +2298,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter6Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -2690,10 +2870,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter7Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -2962,10 +3178,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter8Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -3373,10 +3625,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter9Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -3592,10 +3880,46 @@
         ]
       },
       {
-        "topicName": "অধ্যায়ভিত্তিক টেস্টপেপার",
+        "topicName": "সৃজনশীল টেস্টপেপার",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Theory.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Math.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Math.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Objective.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "অবজেক্টিভ টেস্টপেপার",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/Chapter10Objective.pdf"
           }
         ],
         "dataForExampleTab": [
@@ -3617,10 +3941,46 @@
     "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
     "topicsData": [
       {
-        "topicName": "বোর্ড প্রশ্ন ও সুত্রসমূহ",
+        "topicName": "সকল সুত্রসমূহ",
         "dataForTheoryTab": [
           {
             "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/AllFormulas1stPaper.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "বোর্ড প্রশ্নসমূহ",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
+          }
+        ],
+        "dataForExampleTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
+          }
+        ],
+        "dataForExerciseTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
+          }
+        ]
+      },
+      {
+        "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
+        "dataForTheoryTab": [
+          {
+            "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
           }
         ],
         "dataForExampleTab": [
