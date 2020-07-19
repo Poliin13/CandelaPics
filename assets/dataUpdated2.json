@@ -8,20 +8,20 @@
         "topicName": "ত্রুটি পরিমাপ",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+            "textTitle": "স্লাইড ক্যালিপার্স(Slide Calipers)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/SlideCalipers.gif"
           },
           {
-            "textForPage_1": "স্ফেরোমিটার(Spherometer)",
+            "textTitle": "স্ফেরোমিটার(Spherometer)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/Spherometer1.gif",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/Spherometer2.gif"
           },
           {
-            "textForPage_1": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+            "textTitle": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/ScrewGaugeNoError.gif"
           },
           {
-            "textForPage_1": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+            "textTitle": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/01.Measurement/ScrewGaugeWithError.gif"
           }
         ],
