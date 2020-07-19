@@ -2018,8 +2018,8 @@
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EandV_Theory(1).webp"
           },
           {
-            "titleText": "নিউটনের তত্ত্ব",
-            "textForPage_1": "মহাকর্ষীয় বিভব\nঅসীম দূরত্ব থেকে একক ভরের কোনো বস্তুকে মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে আনতে মহাকর্ষীয় বল দ্বারা সম্পন্ন কাজের পরিমাণকে ঐ বিন্দুর মহাকর্ষীয় বিভব বলে।\nঅসীম দূরত্ব থেকে m ভরের কোনো বস্তুকে মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে আনতে যদি W পরিমাণ কাজ সম্পন্ন হয়,তবে ঐ বিন্দুর মহাকর্ষীয় বিভব V হবে\n\nV = W/m\n\nমহাকর্ষীয় বিভব একটি স্কেলার রাশি,এর কোন দিক নেই। এর একক হলো J/kg। r=r হতে r = infinity পর্যন্ত W=GM/r কে সমাকলন করে কোনো বিন্দুর মহাকর্ষ বিভব V হলে,",
+            "titleText": "মহাকর্ষীয় বিভব",
+            "textForPage_1": "অসীম দূরত্ব থেকে একক ভরের কোনো বস্তুকে মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে আনতে মহাকর্ষীয় বল দ্বারা সম্পন্ন কাজের পরিমাণকে ঐ বিন্দুর মহাকর্ষীয় বিভব বলে।\nঅসীম দূরত্ব থেকে m ভরের কোনো বস্তুকে মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে আনতে যদি W পরিমাণ কাজ সম্পন্ন হয়,তবে ঐ বিন্দুর মহাকর্ষীয় বিভব V হবে\n\nV = W/m\n\nমহাকর্ষীয় বিভব একটি স্কেলার রাশি,এর কোন দিক নেই। এর একক হলো J/kg। r = r হতে r = infinity পর্যন্ত W=GM/r কে সমাকলন করে কোনো বিন্দুর মহাকর্ষ বিভব V হলে,",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EandV_Theory(4).webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EandV_Theory(2).webp",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EandV_Theory(3).webp"
@@ -2062,13 +2062,16 @@
         "topicName": "অভিকর্ষজ ত্বরণ",
         "dataForTheoryTab": [
           {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/g_Theory.gif",
-            "textForPage_2":"অভিকর্ষজ ত্বরণ\n\nপৃথিবী ও অন্য যে কোন বস্তুর মধ্যে যে আকর্ষণ বল তাকে অভিকর্ষ বল বলা হয়। নিউটনের ২য় সূত্র অনুযায়ী বল প্রয়োগে বস্তুর ত্বরণ হয়। সুতরাং অভিকর্ষ বলের প্রভাবেও ত্বরণ হবে। অভিকর্ষ বলের প্রভাবে ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত বস্তুর বেগ বৃদ্ধির হারকে অভিকর্ষজ ত্বরণ (Gravitational acceleration) বলে। একে g দ্বারা প্রকাশ করা হয়।",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/g_Theory.gif"},
+          {
+            "titleText": "অভিকর্ষজ ত্বরণ",
+            "textForPage_2":"পৃথিবী ও অন্য যে কোন বস্তুর মধ্যে যে আকর্ষণ বল তাকে অভিকর্ষ বল বলা হয়। নিউটনের ২য় সূত্র অনুযায়ী বল প্রয়োগে বস্তুর ত্বরণ হয়। সুতরাং অভিকর্ষ বলের প্রভাবেও ত্বরণ হবে। অভিকর্ষ বলের প্রভাবে ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত বস্তুর বেগ বৃদ্ধির হারকে অভিকর্ষজ ত্বরণ (Gravitational acceleration) বলে। একে g দ্বারা প্রকাশ করা হয়।",
             "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/gFormula.webp",
             "textForPage_3": "এখানে, G= মহাকর্ষ ধ্রুবক, M= পৃথিবীর ভর এবং d= পৃথিবীর কেন্দ্র হতে বস্তুর দুরত্ব যেহেতু অভিকর্ষজ ত্বরণ এক ধরনের ত্বরণ, সুতরাং এর মাত্রা হবে LT^−2 এবং একক হবে ms^−2।"
           },
           {
-            "textForPage_1": "আদর্শ মান\n\nভূপৃষ্ঠের বিভিন্ন স্থানে অভিকর্ষজ ত্বরণের মান বিভিন্ন বলে ৪৫° অক্ষাংশে সমুদ্র সমতলে এর মানকে আদর্শ মান ধরা হয়। এ মান হল ৯.৮০৬৬৫ ms−2। হিসাবের সুবিধার্থে একে ৯.৮ ms−2 বা ৯.৮১ ms−2 ধরা হয়।"
+            "titleText": "আদর্শ মান",
+            "textForPage_1": "ভূপৃষ্ঠের বিভিন্ন স্থানে অভিকর্ষজ ত্বরণের মান বিভিন্ন বলে ৪৫° অক্ষাংশে সমুদ্র সমতলে এর মানকে আদর্শ মান ধরা হয়। এ মান হল ৯.৮০৬৬৫ ms−2। হিসাবের সুবিধার্থে একে ৯.৮ ms−2 বা ৯.৮১ ms−2 ধরা হয়।"
           }
         ],
         "dataForExampleTab": [
@@ -2136,14 +2139,15 @@
         "topicName": "পৃথিবীর উপরে ও নিচে g এর পরিবর্তন",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"অভিকর্ষজ ত্বরণ 'g'-এর পরিবর্তন ঘটে-\n\n ক.উচ্চতর ক্রিয়ায়\n খ.পৃথিবীর অভ্যন্তরে \n গ.অক্ষাংশ ক্রিয়ায়(আলাদা টপিক)\n ঘ.পৃথিবীর ঘূর্ণন ক্রিয়ায়"
+            "titleText": "অভিকর্ষজ ত্বরণ 'g'-এর পরিবর্তন ঘটে-",
+            "textForPage_1":"   ক.উচ্চতর ক্রিয়ায়\n   খ.পৃথিবীর অভ্যন্তরে \n   গ.অক্ষাংশ ক্রিয়ায়(আলাদা টপিক)\n   ঘ.পৃথিবীর ঘূর্ণন ক্রিয়ায়"
           },
           {
-            "textForPage_1": "পৃথিবীর উপরে g এর পরিবর্তন",
+            "titleText": "পৃথিবীর উপরে g এর পরিবর্তন",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/upAndDown_Theory(1).webp"
           },
           {
-            "textForPage_1": "পৃথিবীর নিচে g এর পরিবর্তন",
+            "titleText": "পৃথিবীর নিচে g এর পরিবর্তন",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/upAndDown_Theory(1).webp"
           }
         ],
@@ -2196,16 +2200,16 @@
         "topicName": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"অক্ষাংশ ও দ্রাঘিমাংশ",
+            "titleText":"অক্ষাংশ ও দ্রাঘিমাংশ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/Latitude_theory.webp",
             "videoLink": "https://www.youtube.com/watch?v=swKBi6hHHMA"
           },
           {
-            "textForPage_1": "কেন্দ্রবিমুখী বল",
+            "titleText": "কেন্দ্রবিমুখী বল",
             "videoLink" : "https://www.youtube.com/watch?v=KvCezk9DJfk"
           },
           {
-            "textForPage_1": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন",
+            "titleText": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/Latitude_TheoryFormula.webp"
           }
         ],
@@ -2241,7 +2245,8 @@
             "videoLink": "https://www.youtube.com/watch?v=RVMZxH1TIIQ"
           },
           {
-            "textForPage_1": "মুক্তিবেগ (Escape velocity)\nমুক্তিবেগ বলতে এমন একটি বেগকে বুঝানো হয় মহাকর্ষীয় ক্ষেত্রে যে মানের বেগে নিক্ষিপ্ত কোন বস্তুর গতিশক্তি ও মহাকর্ষীয় বিভবশক্তির সমষ্টি শুন্য হয়। মুক্তিবেগে কোন বস্তুকে কোন মহাকর্ষীয় ক্ষেত্র থেকে শুন্যে ছুড়ে দেয়া হলে তা আর ঐ মহাকর্ষীয় ক্ষেত্রে ফিরে আসে না। গোলীয় প্রতিসাম্য বস্তুর ক্ষেত্রে নিম্নক্ত সমীকরন দ্বারা মুক্তিবেগের মান নির্ণয় করা হয়।",
+            "titleText": "মুক্তিবেগ (Escape velocity)",
+            "textForPage_1": "মুক্তিবেগ বলতে এমন একটি বেগকে বুঝানো হয় মহাকর্ষীয় ক্ষেত্রে যে মানের বেগে নিক্ষিপ্ত কোন বস্তুর গতিশক্তি ও মহাকর্ষীয় বিভবশক্তির সমষ্টি শুন্য হয়। মুক্তিবেগে কোন বস্তুকে কোন মহাকর্ষীয় ক্ষেত্র থেকে শুন্যে ছুড়ে দেয়া হলে তা আর ঐ মহাকর্ষীয় ক্ষেত্রে ফিরে আসে না। গোলীয় প্রতিসাম্য বস্তুর ক্ষেত্রে নিম্নক্ত সমীকরন দ্বারা মুক্তিবেগের মান নির্ণয় করা হয়।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EscapeVelocity_Theory.gif",
             "textForPage_3": "পৃথিবীর ক্ষেত্রে মুক্তিবেগের মান প্রতি সেকেন্ডে ১১.২ কি.মি.। অর্থাৎ কোনো বস্তুকে প্রতি সেকেন্ডে ১১.২ কি.মি. গতিবেগে ওপরের দিকে ছূড়তে পারলে সেটা আর নীচের দিকে না পড়ে, মহাশূন্যে পৃথিবীর চারিদিকে ঘুরতে থাকবে। রকেটের ক্ষেত্রে মুক্তি বেগ প্রযোজ্য নয় কারণ রকেটের নিজস্ব জ্বালানি আছে। তাই রকেট মুক্তি বেগের অনেক কম বেগেই পৃথিবীর আকর্ষণ কাটিয়ে যেতে পারে।",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/EscapeVelocity_Theory.webp"
@@ -2288,17 +2293,18 @@
         "topicName": "কৃত্রিম উপগ্রহ ও ভূ-স্থির উপগ্রহ",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"কৃত্রিম উপগ্রহ",
+            "titleText":"কৃত্রিম উপগ্রহ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/SatelliteTheory(1).webp",
             "textForPage_2": "টিভি ও বেতারসংকেত প্রেরণ এবং আবহাওয়া পর্যবেক্ষণকারী কৃত্রিম উপগ্রহগুলো সাধারণত পৃথিবীথেকে ৩৬ হাজার কিলোমিটার দূরে অবস্থান করে।\n\nপৃথিবী থেকে বেতার তরঙ্গ ব্যবহার করে তথ্য পাঠানো হয়, কৃত্রিম উপগ্রহ সেগুলো গ্রহণ করে এবং বিবর্ধিত (এমপ্লিফাই) করে পৃথিবীতে প্রেরণ করে । কৃত্রিম উপগ্রহ দুইটি ভিন্ন কম্পাঙ্কের তরঙ্গ ব্যবহার করে সিগনাল (তথ্য) গ্রহণ এবং পাঠানোর জন্য । কৃত্রিম উপগ্রহ থেকে পৃথিবীতে আসা সিগনাল অনেক দুর্বল বা কম শক্তিসম্পন্ন হয়ে থাকে, তাই প্রথমে ডিস এন্টেনা ব্যবহার করে সিগনালকে কেন্দ্রীভূত করা হয় এবং পরে রিসিভার দিয়ে গ্রহণ করে প্রয়োজনীয় কাজে ব্যবহার করা হয়।"
           },
           {
-            "textForPage_1": "কিভাবে কাজ করে",
+            "titleText": "কিভাবে কাজ করে?",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/SatelliteTheory(2).gif",
             "textForPage_2": "কৃত্রিম উপগ্রহ এমনভাবে পৃথিবীর চতুর্দিকে ঘূর্ণায়মান হয়, যাতে এর গতির সেন্ট্রিফিউগাল বা বহির্মুখীন শক্তি ওকে বাইরের দিকে গতি প্রদান করে - কিন্তু পৃথিবীর মধ্যাকর্ষণ শক্তি একে পৃথিবীর আওতার বাইরে যেতে দেয় না। উভয় শক্তি কৃত্রিম উপগ্রহকে ভারসাম্য প্রদান করে এবং কৃত্রিম উপগ্রহটি পৃথিবীর চতুর্দিকে প্রদক্ষিণ করতে থাকে। যেহেতু মহাকাশে বায়ুর অস্তিত্ব নেই তাই এটি বাধাহীনভাবে পরিক্রমণ করে । কৃত্রিম উপগ্রহগুলো বৃত্তাকারে পরিক্রমণ করে না, তার গতি ডিম্বাকৃতির।"
           },
           {
-            "textForPage_1": "ভূস্থির উপগ্রহ\n\nপৃথিবী যে সময়ে একবার নিজ অক্ষে আবর্তন করে ঠিক একই সময়ে কৃত্রিম উপগ্রহটি পৃথিবীকে একবার আবর্তন করে। ভূস্থির উপগ্রহগুলো যেহেতু পৃথিবীর একটি নির্দিষ্ট স্থানের উপর স্থির থাকে তাই এর সংকেত গ্রহণ করার অ্যান্টেনাগুলোকে সংকেত গ্রহণের জন্য তাদের অবস্থার পরিবর্তন করতে হয় না।",
+            "titleText": "ভূস্থির উপগ্রহ",
+            "textForPage_1": "পৃথিবী যে সময়ে একবার নিজ অক্ষে আবর্তন করে ঠিক একই সময়ে কৃত্রিম উপগ্রহটি পৃথিবীকে একবার আবর্তন করে। ভূস্থির উপগ্রহগুলো যেহেতু পৃথিবীর একটি নির্দিষ্ট স্থানের উপর স্থির থাকে তাই এর সংকেত গ্রহণ করার অ্যান্টেনাগুলোকে সংকেত গ্রহণের জন্য তাদের অবস্থার পরিবর্তন করতে হয় না।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/SatelliteTheory(1).gif"
           }
         ],
@@ -2357,16 +2363,19 @@
             "textForPage_1": "জ্যোতির্বিজ্ঞানে কেপলারের গ্রহীয় গতিসূত্র (ইংরেজি ভাষায়: Kepler's laws of planetary motion) সূর্যের চারদিকে গ্রহগুলোর গতি ব্যাখ্যা করে। অবশ্য যেকোন তারার চারপাশে গ্রহের আবর্তন বা আরও সাধারণভাবে যেকোন বস্তুর চারপাশে আরেকটি বস্তুর ঘূর্ণন ব্যাখ্যার কাজে এটি ব্যবহার করা যেতে পারে। বিখ্যাত জার্মান জ্যোতির্বিজ্ঞানী ইয়োহানেস কেপলার গ্রহের গতির তিনটি সূত্র দিয়েছিলেন।"
           },
           {
-            "textForPage_1": "প্রথম সূত্র (কক্ষপথের সূত্র): সব গ্রহগুলো সূর্যকে উপকেন্দ্রে (focus) রেখে উপবৃত্তাকার কক্ষে প্রদক্ষিণ করছে। \n\nচিত্রে উপবৃত্তের দুটি উপকেন্দ্র(Focus) দেখানো হয়েছে। উপকেন্দ্রদ্বয়ের যেকোনো একটিতে সূর্যকে রেখে গ্রহগুলো এরূপ উপবৃত্তাকার পথে সূর্যকে প্রদক্ষিণ করে।",
+            "titleText": "প্রথম সূত্র (কক্ষপথের সূত্র)",
+            "textForPage_1": "সব গ্রহগুলো সূর্যকে উপকেন্দ্রে (focus) রেখে উপবৃত্তাকার কক্ষে প্রদক্ষিণ করছে। \n\nচিত্রে উপবৃত্তের দুটি উপকেন্দ্র(Focus) দেখানো হয়েছে। উপকেন্দ্রদ্বয়ের যেকোনো একটিতে সূর্যকে রেখে গ্রহগুলো এরূপ উপবৃত্তাকার পথে সূর্যকে প্রদক্ষিণ করে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_1.gif"
           },
           {
-            "textForPage_1": "দ্বিতীয় সূত্র (ক্ষেত্রফলের সূত্র): সূর্য ও গ্রহের সংযোজক রেখা সমান সময়ে সমান ক্ষেত্রফল অতিক্রম করে। ",
+            "titleText": "দ্বিতীয় সূত্র (ক্ষেত্রফলের সূত্র)",
+            "textForPage_1": "সূর্য ও গ্রহের সংযোজক রেখা সমান সময়ে সমান ক্ষেত্রফল অতিক্রম করে। ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_2_1.gif",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_2_2.gif",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_2_3.gif"},
           {
-            "textForPage_1": "তৃতীয় সূত্র (পর্যায়কালের সূত্র): প্রতিটি গ্রহের আবর্তনকালের বর্গ সূর্য থেকে ঐ গ্রহের গড় দূরত্বের ঘনফলের সমানুপাতিক।",
+            "titleText": "তৃতীয় সূত্র (পর্যায়কালের সূত্র)",
+            "textForPage_1": "প্রতিটি গ্রহের আবর্তনকালের বর্গ সূর্য থেকে ঐ গ্রহের গড় দূরত্বের ঘনফলের সমানুপাতিক।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_3_2.gif",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_3_3.gif",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/06.Gravity/kepler_law_3_1.webp"},
@@ -2455,23 +2464,28 @@
         "topicName": "পীড়ন ও বিকৃতি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "স্থিতিস্থাপকতা\nযদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
+            "titleText": "স্থিতিস্থাপকতা",
+            "textForPage_1": "যদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ElasticityTheory.gif"
           },
           {
-            "textForPage_1": "পীড়ন\nবাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর আকার বা দৈর্ঘ্য বা আয়তনের পরিবর্তন ঘটলে স্থিতিস্থাপকতার জন্য বস্তুর ভেতর থেকে এই বলকে বাধাদানকারী একটি বলের উদ্ভব হয়। বস্তুর একক ক্ষেত্রফলের উপর লম্বভাবে উদ্ভূত এই বাধাদানকারী বলের মানকে পীড়ন বলে।\n\nবিকৃ্তি\nবাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর একক মাত্রায় যে পরিবর্তন হয়, তাকে বিকৃ্তি বলে।",
+            "titleText": "পীড়ন",
+            "textForPage_1": "বাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর আকার বা দৈর্ঘ্য বা আয়তনের পরিবর্তন ঘটলে স্থিতিস্থাপকতার জন্য বস্তুর ভেতর থেকে এই বলকে বাধাদানকারী একটি বলের উদ্ভব হয়। বস্তুর একক ক্ষেত্রফলের উপর লম্বভাবে উদ্ভূত এই বাধাদানকারী বলের মানকে পীড়ন বলে।\n\nবিকৃ্তি\nবাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর একক মাত্রায় যে পরিবর্তন হয়, তাকে বিকৃ্তি বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StressAndStrainTheory(1).webp"
           },
           {
-            "textForPage_1": "ব্যবর্তন বা মোচড় বিকৃ্তি\nএকক দূরত্বে অবস্থিত দুই তলের মধ্যবর্তী আপেক্ষিক সরণকে ব্যবর্তন বা মোচড় বিকৃ্তি বলে।\n\nθ = tanθ = x/H\n\nব্যবর্তন পীড়ন\nব্যবর্তন বা মোচড় বিকৃ্তি প্রতিরোধ করার জন্য একক ক্ষেত্রফলে যে প্রতিরোধ বলের সৃষ্টি হয়, তাকে ব্যবর্তন পীড়ন বলে।\n\nব্যবর্তন পীড়ন = F/A",
+            "titleText": "ব্যবর্তন বা মোচড় বিকৃ্তি",
+            "textForPage_1": "একক দূরত্বে অবস্থিত দুই তলের মধ্যবর্তী আপেক্ষিক সরণকে ব্যবর্তন বা মোচড় বিকৃ্তি বলে।\n\nθ = tanθ = x/H\n\nব্যবর্তন পীড়ন\nব্যবর্তন বা মোচড় বিকৃ্তি প্রতিরোধ করার জন্য একক ক্ষেত্রফলে যে প্রতিরোধ বলের সৃষ্টি হয়, তাকে ব্যবর্তন পীড়ন বলে।\n\nব্যবর্তন পীড়ন = F/A",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StressAndStrainTheory(3).webp"
           },
           {
-            "textForPage_1": "অসহ বল\nসর্বাপেক্ষা কম যে বলের ক্রিয়ায় কোন বস্তু ছিড়ে বা ভেঙ্গে যায়, তাকে অসহ বল বলে।\n\nঅসহ পীড়ন\nঅসহ বলের জন্য যে পীড়ন হয়, তাই অসহ পীড়ন।তাহলে,\n\n অসহ পীড়ন = অসহ বল/ ক্ষেত্রফল",
+            "titleText": "অসহ বল",
+            "textForPage_1": "সর্বাপেক্ষা কম যে বলের ক্রিয়ায় কোন বস্তু ছিড়ে বা ভেঙ্গে যায়, তাকে অসহ বল বলে।\n\nঅসহ পীড়ন\nঅসহ বলের জন্য যে পীড়ন হয়, তাই অসহ পীড়ন।তাহলে,\n\n অসহ পীড়ন = অসহ বল/ ক্ষেত্রফল",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/Stress&Strain(4).webp"
           },
           {
-            "textForPage_1": "স্থিতিস্থাপক ক্লান্তি\nস্থিতিস্থাপক সীমা লঙ্ঘন না করে কোনো বস্তুর উপর বার বার বল প্রয়োগ করতে থাকলে এবং অপসারণ করতে থাকলে কিছুক্ষণ পর দেখা যায় বস্তুটি স্থিতিস্থাপক ধর্ম কিছুটা হ্রাস পেয়েছে ওই ঘটনাকে স্থিতিস্থাপক ক্লান্তি বলে,।"
+            "titleText": "স্থিতিস্থাপক ক্লান্তি",
+            "textForPage_1": "স্থিতিস্থাপক সীমা লঙ্ঘন না করে কোনো বস্তুর উপর বার বার বল প্রয়োগ করতে থাকলে এবং অপসারণ করতে থাকলে কিছুক্ষণ পর দেখা যায় বস্তুটি স্থিতিস্থাপক ধর্ম কিছুটা হ্রাস পেয়েছে ওই ঘটনাকে স্থিতিস্থাপক ক্লান্তি বলে,।"
           }
         ],
         "dataForExampleTab": [
@@ -2511,12 +2525,14 @@
         "topicName": "হুকের সূত্র",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"রবার্ট হুক এর সূত্র\nস্থিতিস্থাপক সীমার মধ্যে বস্তুর উপর পীড়ন তার বিকৃতির সমানুপাতিক।",
+            "titleText": "রবার্ট হুক এর সূত্র",
+            "textForPage_1":"স্থিতিস্থাপক সীমার মধ্যে বস্তুর উপর পীড়ন তার বিকৃতির সমানুপাতিক।",
             "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/HooksLawTheory(2).webp",
             "textForPage_2": "১৬৭৬ সালে রবার্ট হুক বস্তুর পীড়ন আর বিকৃতি এর মধ্যে একটি সম্পর্ক খুঁজে পান। তিনি তার সেই সূত্রটি আমেরিকার একটি খবরের কাগজে ল্যাটিন ভাষায় একটি ধাঁধার মাধ্যমে প্রকাশ করেন, ধাঁধাটি ছিল এইরকম, \"cciiinosststuv\", তিনি বলেন এই শব্দটিকে ভালোভাবে সাজালে একটি অর্থপূর্ণ বাক্য পাওয়া যায়। অনেকে এই ধাঁধা সমাধানের চেষ্টা করে ব্যর্থ হয়। অবশেষে ১৬৯৪ সালে, প্রায় ১৮ বছর পর তিনি নিজেই ধাঁধা পুনরুদ্ধার করে দিলেন। সমাধানটি ছিলো এরকম, \"ut tensio,sic vis\"। ইংরেজিতে যার অর্থ, \"as the extension, so is the force\"। বাংলায় বস্তুর সম্প্রসারণ প্রযুক্ত বলের সমানুপাতিক। এখান থেকেই হুকের সূতের বিবৃতি নেওয়া হয়েছে অর্থাৎ \"স্থিতিস্থাপক সীমার মধ্যে বস্তুর পীড়ন বিকৃতির সমানুপাতিক। \""
           },
           {
-            "textForPage_1": "স্থিতিস্থাপক সীমা\nপ্রত্যেক বস্তুই বাহ্যিক বলের একটি নির্দিষ্ট সীমা পর্যন্ত  পূর্ণ স্থিতিস্থাপক বস্তুর ন্যায় আচরণ করে। এই সীমাকে  স্থিতিস্থাপক সীমা বলা হয়।\n\nহুকের সূত্র শুধুমাত্র স্থিতিস্থাপক সীমার মধ্যে কাজ করে। নিচের গ্রাফে তা দেখানো হল-",
+            "titleText": "স্থিতিস্থাপক সীমা",
+            "textForPage_1": "প্রত্যেক বস্তুই বাহ্যিক বলের একটি নির্দিষ্ট সীমা পর্যন্ত  পূর্ণ স্থিতিস্থাপক বস্তুর ন্যায় আচরণ করে। এই সীমাকে  স্থিতিস্থাপক সীমা বলা হয়।\n\nহুকের সূত্র শুধুমাত্র স্থিতিস্থাপক সীমার মধ্যে কাজ করে। নিচের গ্রাফে তা দেখানো হল-",
             "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/HooksLawTheory(1).webp"
           }
         ],
@@ -2591,17 +2607,19 @@
         "topicName": "স্থিতিস্থাপক গুনাংক",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "স্থিতিস্থাপকতা\nযদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
+            "titleText": "স্থিতিস্থাপকতা",
+            "textForPage_1": "যদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ElasticityTheory.gif"
           },
           {
-            "textForPage_1": "ইয়ং এর গুণাংক",
+            "titleText": "ইয়ং এর গুণাংক",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StressAndStrainTheory(1).webp",
             "textForPage_2": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর অনুদৈর্ঘ্য পীড়ন এবং অনুদৈর্ঘ্য বিকৃতির অনুপাত একটি ধ্রুব রাশি যাকে বস্তুর উপাদানের ইয়ং এর গুণাংক বলে। একে Y দ্বারা প্রকাশ করা হয়।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StressAndStrainTheory(2).webp"
           },
           {
-            "textForPage_1":"আয়তন গুণাঙ্ক\nস্থস্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা, একে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলা হয়। একে B অথবা K দিয়ে প্রকাশ করে।",
+            "titleText": "আয়তন গুণাঙ্ক",
+            "textForPage_1":"স্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা, একে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলা হয়। একে B অথবা K দিয়ে প্রকাশ করে।",
             "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/BulkModulusTheory.webp",
             "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/BulkModulusTheory.gif"
           }
@@ -2652,7 +2670,8 @@
             "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ModulusOfRigidityTheory.gif"
           },
           {
-            "textForPage_1":"আয়তন গুণাঙ্ক\nস্থস্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা, একে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলা হয়। একে B অথবা K দিয়ে প্রকাশ করে।",
+            "titleText": "আয়তন গুণাঙ্ক",
+            "textForPage_1":"স্থস্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা, একে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলা হয়। একে B অথবা K দিয়ে প্রকাশ করে।",
             "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/BulkModulusTheory.webp",
             "textForPage_2": "# পানির আয়তন গুণাঙ্ক 0.2 x 10^10 Pa বলতে কি বুঝায়?\n\nপানির আয়তন গুণাঙ্ক 0.2 x 10^10 Pa বলতে বোঝায় পানির আদি আয়তনের সমান আয়তন হ্রাস করার জন্য এর প্রতি বর্গমিটার ক্ষেত্রফলের উপর লম্বভাবে চারদিক থেকে 0.2 x 10^10 N বল প্রয়োগ করতে হবে।",
             "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/BulkModulusTheory.gif"
@@ -2699,7 +2718,8 @@
         "topicName": "বিকৃতি দ্বারা কৃতকাজ ও শক্তি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "স্থিতিস্থাপকতা\nযদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
+            "titleText": "স্থিতিস্থাপকতা",
+            "textForPage_1": "যদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ElasticityTheory.gif"
           },
           {
@@ -2750,16 +2770,19 @@
         "topicName": "পৃষ্ঠটান",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "পৃষ্ঠটান\n\nপ্রবাহীর পৃষ্ঠের একটি স্থিতিস্থাপক প্রবণতা, যা তার উপরিতলকে সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল প্রদান করে। পৃষ্ঠটানের জন্যই কিছু কীট, যাদের দেহের ঘনত্ব জল অপেক্ষা অনেক বেশি, তারা জলের উপরিতলে ভাসমান থাকতে পারে আর হেঁটে যেতে পারে।",
+            "titleText": "পৃষ্ঠটান",
+            "textForPage_1": "প্রবাহীর পৃষ্ঠের একটি স্থিতিস্থাপক প্রবণতা, যা তার উপরিতলকে সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল প্রদান করে। পৃষ্ঠটানের জন্যই কিছু কীট, যাদের দেহের ঘনত্ব জল অপেক্ষা অনেক বেশি, তারা জলের উপরিতলে ভাসমান থাকতে পারে আর হেঁটে যেতে পারে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/SurfaceTensionTheory(1).webp"
 
           },
           {
-            "textForPage_1": "কারণ\nতরলের অণুগুলির মধ্যে পারস্পরিক সংসক্তি বলই পৃষ্ঠটান বিষয়টির জন্য দায়ী। নির্দিষ্ট আয়তনের তরলের অভ্যন্তরস্থ প্রতিটি অণু তার পরিপার্শ্বে থাকা সমস্ত অণুর দ্বারা সবদিক থেকে সমানভাবে আকর্ষিত হয়, ফলে লব্ধি বলটি শূন্য হয়। কিন্তু, তরলের মুক্তপৃষ্ঠে থাকা অণুগুলির পরিপার্শ্বে সব জায়গায় তরল অণু ঘিরে থাকে না, সেই জন্য ওই অণুগুলি নিচের দিকে আকর্ষিত হয়। এর ফলে একটি অভ্যন্তরীণ চাপের উৎপত্তি ঘটে এবং তরল অণুগুলি সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল ধারণ করতে বাধ্য হয়।",
+            "titleText": "কারণ",
+            "textForPage_1": "তরলের অণুগুলির মধ্যে পারস্পরিক সংসক্তি বলই পৃষ্ঠটান বিষয়টির জন্য দায়ী। নির্দিষ্ট আয়তনের তরলের অভ্যন্তরস্থ প্রতিটি অণু তার পরিপার্শ্বে থাকা সমস্ত অণুর দ্বারা সবদিক থেকে সমানভাবে আকর্ষিত হয়, ফলে লব্ধি বলটি শূন্য হয়। কিন্তু, তরলের মুক্তপৃষ্ঠে থাকা অণুগুলির পরিপার্শ্বে সব জায়গায় তরল অণু ঘিরে থাকে না, সেই জন্য ওই অণুগুলি নিচের দিকে আকর্ষিত হয়। এর ফলে একটি অভ্যন্তরীণ চাপের উৎপত্তি ঘটে এবং তরল অণুগুলি সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল ধারণ করতে বাধ্য হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/SurfaceTensionTheory(2).webp"
           },
           {
-            "textForPage_1": "পৃষ্ঠটানের প্রভাব\n\nক. মোমের মতো পিচ্ছিল আবরণ যুক্ত তলে (গাছের পাতা) বৃষ্টির জল মুক্তোর মতো ক্ষুদ্র আকার নেয়। জল মোমের সাথে দুর্বলভাবে আকর্ষিত হয়, কিন্তু নিজের অণুর সাথে দৃঢ় সংঘবদ্ধ থাকে। তাই জল ছোটো ছোটো বিন্দুর আকারে ভেঙে যায়। পৃষ্ঠটান এদের গোলাকার আকার দিতে সাহায্য করে, কারণ সমান আয়তনের ক্ষেত্রে গোলক পৃষ্ঠের ক্ষেত্রফল সবচেয়ে কম হয়।",
+            "titleText": "পৃষ্ঠটানের প্রভাব",
+            "textForPage_1": "ক. মোমের মতো পিচ্ছিল আবরণ যুক্ত তলে (গাছের পাতা) বৃষ্টির জল মুক্তোর মতো ক্ষুদ্র আকার নেয়। জল মোমের সাথে দুর্বলভাবে আকর্ষিত হয়, কিন্তু নিজের অণুর সাথে দৃঢ় সংঘবদ্ধ থাকে। তাই জল ছোটো ছোটো বিন্দুর আকারে ভেঙে যায়। পৃষ্ঠটান এদের গোলাকার আকার দিতে সাহায্য করে, কারণ সমান আয়তনের ক্ষেত্রে গোলক পৃষ্ঠের ক্ষেত্রফল সবচেয়ে কম হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/SurfaceTensionEffect(1).webp"
           },
           {
@@ -2808,12 +2831,17 @@
         "topicName": "পৃষ্ঠটানের কাজ ও শক্তি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "পৃষ্ঠটান, বল কিংবা শক্তি – উভয়ের বিচারেই পরিমাপ করা যায়।\n\nবলের বিচারে\nতরলে পৃষ্ঠটান হল একটি বল, যা প্রতি একক দৈর্ঘ্যে প্রযুক্ত হয়।",
+            "textForPage_1": "পৃষ্ঠটান, বল কিংবা শক্তি – উভয়ের বিচারেই পরিমাপ করা যায়।"
+          },
+          {
+            "titleText": "বলের বিচারে",
+            "textForPage_1": "তরলে পৃষ্ঠটান হল একটি বল, যা প্রতি একক দৈর্ঘ্যে প্রযুক্ত হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/SurfaceEnergyTheory(1).webp",
             "textForPage_2": "\nT = F/2L \n\nচিত্রে দেখা যাচ্ছে যে বস্তুটির উপর ২টি রেখা ক্রিয়া করছে। তাই L না হয়ে 2L হবে।"
           },
           {
-            "textForPage_1": "শক্তির বিচারে\nকোনো তরলের পৃষ্ঠটান হল ওই তরলটির স্থিতিশক্তির পরিবর্তন এবং পৃষ্ঠ ক্ষেত্রফল পরিবর্তনের (যার জন্য স্থিতিশক্তির পরিবর্তন ঘটে) অনুপাত। ",
+            "titleText": "শক্তির বিচারে",
+            "textForPage_1": "কোনো তরলের পৃষ্ঠটান হল ওই তরলটির স্থিতিশক্তির পরিবর্তন এবং পৃষ্ঠ ক্ষেত্রফল পরিবর্তনের (যার জন্য স্থিতিশক্তির পরিবর্তন ঘটে) অনুপাত। ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/SurfaceEnergyTheory(2).webp",
             "textForPage_2": "\nT = W/A* \n\nA* = Change of Area"
           }
@@ -2855,20 +2883,24 @@
         "topicName": "কৈশিক নল",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "কৈশিক ক্রিয়া বা ক্যাপিলারি অ্যাকশন\nকোনো তরলকে সংকীর্ণ পথে প্রবাহিত করার ক্ষমতা। এই ঘটনার সময় কোনো বল সেখানে কাজ করে না; এমনকী মধ্যাকর্ষণ শক্তির মতো বহিস্থ: কোনো শক্তিও নয়।  রঙতুলিতে তরল উঠিয়ে আনার সময় এমনটা দেখা যায়।\n\nনলের ব্যাস যথেষ্ট ক্ষুদ্র হলে তরল আর পাত্রের দেওয়ালের পৃষ্ঠটান এবং সংযুক্তি বলের সমন্বয়ে তরল ওপরে উঠে আসার ঘটনা পরিলক্ষিত হয়।",
+            "titleText": "কৈশিক ক্রিয়া বা ক্যাপিলারি অ্যাকশন",
+            "textForPage_1": "কোনো তরলকে সংকীর্ণ পথে প্রবাহিত করার ক্ষমতা। এই ঘটনার সময় কোনো বল সেখানে কাজ করে না; এমনকী মধ্যাকর্ষণ শক্তির মতো বহিস্থ: কোনো শক্তিও নয়।  রঙতুলিতে তরল উঠিয়ে আনার সময় এমনটা দেখা যায়।\n\nনলের ব্যাস যথেষ্ট ক্ষুদ্র হলে তরল আর পাত্রের দেওয়ালের পৃষ্ঠটান এবং সংযুক্তি বলের সমন্বয়ে তরল ওপরে উঠে আসার ঘটনা পরিলক্ষিত হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityTheory(1).webp"
           },
           {
-            "textForPage_1": "তরলের তল উপরে বা নিচে নামার ব্যাখ্যা\nএজন্য আমাদের দুটি বল সম্পর্কে জানতে হবে-\n     ক) সংশক্তি বল(cohesive force)\n     খ) আসঞ্জন বল(adhesive force)\n\nসংশক্তি বল(cohesive force)\nএকই পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে।\n\nআসঞ্জন বল(adhesive force)\nভিন্ন পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে ।",
+            "titleText": "তরলের তল উপরে বা নিচে নামার ব্যাখ্যা",
+            "textForPage_1": "এজন্য আমাদের দুটি বল সম্পর্কে জানতে হবে-\n     ক) সংশক্তি বল(cohesive force)\n     খ) আসঞ্জন বল(adhesive force)\n\nসংশক্তি বল(cohesive force)\nএকই পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে।\n\nআসঞ্জন বল(adhesive force)\nভিন্ন পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে ।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityTheoryCohesionAdhesion(1).webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityTheoryCohesionAdhesion(2).webp"
           },
           {
-            "textForPage_1": "স্পর্শ কোণ(Angle of contact)\nকঠিন ও তরলের স্পর্শ বিন্দু থেকে বক্র তরল তলে অংকিত স্পর্শক কঠিন পদার্থের সাথে তরলের ভেতরে যে কোণ উৎপন্ন করে তাকে উক্ত কঠিন ও তরলের মধ্যকার স্পর্শ কোণ বলে। ",
+            "titleText": "স্পর্শ কোণ(Angle of contact)",
+            "textForPage_1": "কঠিন ও তরলের স্পর্শ বিন্দু থেকে বক্র তরল তলে অংকিত স্পর্শক কঠিন পদার্থের সাথে তরলের ভেতরে যে কোণ উৎপন্ন করে তাকে উক্ত কঠিন ও তরলের মধ্যকার স্পর্শ কোণ বলে। ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityAngleOfContact.webp"
           },
           {
-            "textForPage_1": "সূত্রের প্রমাণ\nঊপরের দিকের বল(F) = ওজন(mg)",
+            "titleText": "সূত্রের প্রমাণ",
+            "textForPage_1": "ঊপরের দিকের বল(F) = ওজন(mg)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityTheory(2).webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/CapillarityTheory(3).webp"
           }
@@ -2902,19 +2934,24 @@
         "topicName": "সান্দ্রতা",
         "dataForTheoryTab": [
           {
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ViscosityTheory.webp",
-            "textForPage_2": "সান্দ্রতা\nতরল পদার্থের অভ্যন্তরীণ ঘর্ষণের ফলে প্রবাহে (বয়ে যেতে) বাধা দেবার প্রবণতাকে সান্দ্রতা বলা হয়। \n\nতরল পদার্থ বলতে বস্তুত পদার্থের সেই দশাকে বোঝায় যাতে তার উপর ব্যাবর্তন পীড়ন প্রয়োগ করলে তা বইতে আরম্ভ করে, যেখানে \n\nবয়ে যাওয়া বলতে তার বিভিন্ন তলের মধ্যে আপেক্ষিক গতিকেই বর্ণনা করা হয়।",
+            "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ViscosityTheory.webp"
+          },
+          {
+            "titleText": "সান্দ্রতা",
+            "textForPage_2": "তরল পদার্থের অভ্যন্তরীণ ঘর্ষণের ফলে প্রবাহে (বয়ে যেতে) বাধা দেবার প্রবণতাকে সান্দ্রতা বলা হয়। \n\nতরল পদার্থ বলতে বস্তুত পদার্থের সেই দশাকে বোঝায় যাতে তার উপর ব্যাবর্তন পীড়ন প্রয়োগ করলে তা বইতে আরম্ভ করে, যেখানে \n\nবয়ে যাওয়া বলতে তার বিভিন্ন তলের মধ্যে আপেক্ষিক গতিকেই বর্ণনা করা হয়।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ViscosityTheory.gif",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/ViscosityTheoryFormula.webp",
             "textForPage_3": "উদাহরণস্বরূপ বলা যায় মধুর সান্দ্রতা water থেকে বেশি।"
           },
           {
-            "textForPage_1": "স্টোকসের সূত্র\nকোন তরলের মধ্যে দিয়ে চলমান বস্তু তার গতির বিপরীত দিকে একটি বল অনুভব করে। এই বলের মান স্টোকসের সূত্র হতে পাওয়া যায়।",
+            "titleText": "স্টোকসের সূত্র",
+            "textForPage_1": "কোন তরলের মধ্যে দিয়ে চলমান বস্তু তার গতির বিপরীত দিকে একটি বল অনুভব করে। এই বলের মান স্টোকসের সূত্র হতে পাওয়া যায়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StokesLawTheory.webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/StokesLawFormula.webp"
           },
           {
-            "textForPage_1": "অন্ত্য-বেগ\nযেকোন প্রবাহীর মধ্য দিয়ে একটি বস্তু নিচে পরতে থাকলে, তার ওপর তিনটা বল কাজ করে:\n     বস্তুটির ওজন, W [নিম্নমুখী]\n     ঊর্ধ্বমুখী প্লবতা, U\n     ঊর্ধ্বমুখী সান্দ্র বল, F",
+            "titleText": "অন্ত্য-বেগ",
+            "textForPage_1": "যেকোন প্রবাহীর মধ্য দিয়ে একটি বস্তু নিচে পরতে থাকলে, তার ওপর তিনটা বল কাজ করে:\n     বস্তুটির ওজন, W [নিম্নমুখী]\n     ঊর্ধ্বমুখী প্লবতা, U\n     ঊর্ধ্বমুখী সান্দ্র বল, F",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/TerminalVelocityTheory.webp",
             "textForPage_2": "বস্তুটি যখন প্রবাহীর মধ্যে দিয়ে পরতে থাকে, একসময় ওপরের দিকের বল আর নিচে ওজন ক্রমান্বয়ে সমান হতে থাকে, অর্থাৎ ত্বরণ শূণ্য হয় আর বেগ সমবেগ হয়। এই সমবেগটার নাম অন্ত্য-বেগ।\nএকটা গোলকের ক্ষেত্রে তার অন্ত্যবেগের সমীকরণঃ",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/07.StructuralPropertiesOfMatter/TerminalVelocityTheoryProof.webp",
@@ -3027,21 +3064,24 @@
         "topicName": "সরল ছন্দিত স্পন্দন",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "পর্যাবৃত্ত গতি\nকোন গতিশীল কণার গতি যদি এমন হয় যে এটি এর গতিপথের কোন নির্দিষ্ট বিন্দুকে একটি নির্দিষ্ট সময় পর পর একই দিক হতে অতিক্রম করে তবে সে গতিকে পর্যাবৃত্ত গতি বলে। এ গতি বৃত্তাকার, উপবৃত্তাকার, সরল রৈখিক বা আরো জটিল হতে পারে।",
+            "titleText": "পর্যাবৃত্ত গতি",
+            "textForPage_1": "কোন গতিশীল কণার গতি যদি এমন হয় যে এটি এর গতিপথের কোন নির্দিষ্ট বিন্দুকে একটি নির্দিষ্ট সময় পর পর একই দিক হতে অতিক্রম করে তবে সে গতিকে পর্যাবৃত্ত গতি বলে। এ গতি বৃত্তাকার, উপবৃত্তাকার, সরল রৈখিক বা আরো জটিল হতে পারে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory1.gif",
             "textForPage_2": "ঘড়ির কাটা, বৈদ্যুতিক পাখা, সাইকেলের চাকা ইত্যাদির গতি পর্যায়বৃত্ত গতির উদাহরণ। কম্পন/স্পন্দন গতিও এক ধরনের পর্যাবৃত্ত গতি। পর্যায়বৃত্ত গতি সম্পন্ন কণা একটি নির্দিষ্ট বিন্দুকে নির্দিষ্ট সময় পর পর একই দিক থেকে অতিক্রম করে। সকল স্পন্দন গতিই পর্যায়বৃত্ত গতি।"
           },
           {
-            "textForPage_1": "স্পন্দন গতি\nপর্যাবৃত্ত গতি সম্পন্ন কোন বস্তুকণা যদি এর পর্যায়কালের অর্ধেক সময় একটি নির্দিষ্ট দিকে এবং বাকি অর্ধেক সময় পূর্বগতির বিপরীত দিকে চলে তবে তার সে গতিকে স্পন্দন (Oscillation) গতি বলে। অর্থাৎ, স্পন্দন গতিকে অগ্র পশ্চাৎ পর্যাবৃত্ত গতিও বলা যেতে পারে।",
+            "titleText": "স্পন্দন গতি",
+            "textForPage_1": "পর্যাবৃত্ত গতি সম্পন্ন কোন বস্তুকণা যদি এর পর্যায়কালের অর্ধেক সময় একটি নির্দিষ্ট দিকে এবং বাকি অর্ধেক সময় পূর্বগতির বিপরীত দিকে চলে তবে তার সে গতিকে স্পন্দন (Oscillation) গতি বলে। অর্থাৎ, স্পন্দন গতিকে অগ্র পশ্চাৎ পর্যাবৃত্ত গতিও বলা যেতে পারে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory2.gif",
             "textForPage_2": "সরল দোলকের গতি, কম্পনশীল সুর শলাকা, গীটারের তারের গতি ইত্যাদি স্পন্দন/কম্পন গতির উদাহরণ। এছাড়া, কঠিন বস্তুসমূহের অভ্যন্তরে পরমাণু স্পন্দিত হয়।\n\nসাধারণভাবে বলা যায়, সকল শব্দের উদ্ভবই কোন না কোন স্পন্দন গতি থেকে হয়।"
           },
           {
-            "textForPage_1": "কৌণিক কম্পাঙ্ক\nসময়ের সাথে দশার পরিবর্তনের হারকে কৌণিক কম্পাঙ্ক ω বলে।T সময়ে দশার পার্থক্য হয় 2π. তাই,",
+            "titleText": "কৌণিক কম্পাঙ্ক",
+            "textForPage_1": "সময়ের সাথে দশার পরিবর্তনের হারকে কৌণিক কম্পাঙ্ক ω বলে।T সময়ে দশার পার্থক্য হয় 2π. তাই,",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/OmegaFormula.webp"
           },
           {
-            "textForPage_1": "পর্যাবৃত্ত গতির সাথে স্পন্দন গতির সম্পর্ক",
+            "titleText": "পর্যাবৃত্ত গতির সাথে স্পন্দন গতির সম্পর্ক",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory3.gif",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory4.gif",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory5.gif"
@@ -3084,21 +3124,22 @@
         "topicName": "অন্তরক সমীকরণ ও সমাধান",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "সরল ছন্দিত গতির বৈশিষ্ট্য\nত্বরণ(a) সরণের(x) সমানুপাতিক; এখানে সরণ একটি নির্দিষ্ট বিন্দু থেকে গণনা করা হয় এবং ত্বরণ সর্বদাই এ নির্দিষ্ট বিন্দু ( যা তার সাম্যাবস্থা নির্দেশ করে ) অভিমুখী এবং সরণের বিপরীতমুখী।\n\na ∝ -x\nযেহেতু, a ∝ F,\nF ∝ −x\nF = -kx",
+            "titleText": "সরল ছন্দিত গতির বৈশিষ্ট্য",
+            "textForPage_1": "ত্বরণ(a) সরণের(x) সমানুপাতিক; এখানে সরণ একটি নির্দিষ্ট বিন্দু থেকে গণনা করা হয় এবং ত্বরণ সর্বদাই এ নির্দিষ্ট বিন্দু ( যা তার সাম্যাবস্থা নির্দেশ করে ) অভিমুখী এবং সরণের বিপরীতমুখী।\n\na ∝ -x\nযেহেতু, a ∝ F,\nF ∝ −x\nF = -kx",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheory.webp"
           },
           {
-            "textForPage_1": "সমীকরণের সমাধান",
+            "titleText": "সমীকরণের সমাধান",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryProof1.webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryProof2.webp",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryAllFormula.webp"
           },
           {
-            "textForPage_1": "বৃত্তাকার গতির সাথে সম্পর্ক",
+            "titleText": "বৃত্তাকার গতির সাথে সম্পর্ক",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SHMtheory4.gif"
           },
           {
-            "textForPage_1": "বেগ, ত্বরণ ও কৌণিক কম্পাঙ্কের সূত্রসমূহ",
+            "titleText": "বেগ, ত্বরণ ও কৌণিক কম্পাঙ্কের সূত্রসমূহ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryVelocityFormula.webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryAccelerationFormula.webp",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/DifferentialEquationTheoryOmegaFormula.webp"
@@ -3142,21 +3183,24 @@
         "topicName": "সরল দোলন গতির ক্ষেত্রে শক্তি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "সরল দোলন গতির ক্ষেত্রে শক্তি",
+            "titleText": "সরল দোলন গতির ক্ষেত্রে শক্তি",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/EnergyTheory(1).gif",
             "textForPage_2": "সরল ছন্দিত গতিসম্পন্ন যেকোন কণার মোট যান্ত্রিক শক্তি স্থিতিশক্তি ও গতিশক্তির সমষ্টির সমান।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/EnergyTheory(3).webp"
           },
           {
-            "textForPage_1": "স্থিতিশক্তি\nকোন বস্তুর স্বাভাবিক অবস্থান বা স্থানাংক পরিবর্তনের ফলে বস্তুটি যে শক্তি অর্জন করে তাকে স্থিতিশক্তি বলে। তাহলে স্থিতিশক্তি অবস্থানের ফাংশন হওয়া উচিত।",
+            "titleText": "স্থিতিশক্তি",
+            "textForPage_1": "কোন বস্তুর স্বাভাবিক অবস্থান বা স্থানাংক পরিবর্তনের ফলে বস্তুটি যে শক্তি অর্জন করে তাকে স্থিতিশক্তি বলে। তাহলে স্থিতিশক্তি অবস্থানের ফাংশন হওয়া উচিত।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/EnergyTheory(1).webp"
           },
           {
-            "textForPage_1": "গতিশক্তি\nকোন গতিশীল বস্তু তার গতির কারণে যে শক্তি অর্জন করে তাকে গতিশক্তি বলে। তাহলে গতিশক্তি বেগের ফাংশন হওয়া উচিত।",
+            "titleText": "গতিশক্তি",
+            "textForPage_1": "কোন গতিশীল বস্তু তার গতির কারণে যে শক্তি অর্জন করে তাকে গতিশক্তি বলে। তাহলে গতিশক্তি বেগের ফাংশন হওয়া উচিত।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/EnergyTheory(2).webp"
           },
           {
-            "textForPage_1": "সুত্র",
+
+            "titleText": "সুত্র",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/EnergyTheory(4).webp"
           }
         ],
@@ -3193,13 +3237,15 @@
         "topicName": "সরল দোলক ও স্প্রিং এর দোলন",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"সরল দোলক\nএকটি ভারী আয়তনহীন বস্তুকে অপ্রসারণশীল, ওজনহীন ও নমনীয় সুতার সাহায্যে ঝুলিয়ে দিলে এটি যদি ঘর্ষন এড়িয়ে স্বাধীনভাবে দুলতে থাকে তবে তাকে সরল দোলক বলে। বাস্তবে সরল দোলক পাওয়া সম্ভব নয়।",
+            "titleText": "সরল দোলক",
+            "textForPage_1":"একটি ভারী আয়তনহীন বস্তুকে অপ্রসারণশীল, ওজনহীন ও নমনীয় সুতার সাহায্যে ঝুলিয়ে দিলে এটি যদি ঘর্ষন এড়িয়ে স্বাধীনভাবে দুলতে থাকে তবে তাকে সরল দোলক বলে। বাস্তবে সরল দোলক পাওয়া সম্ভব নয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimpleOscillatorTheory.gif",
             "textForPage_2": "বাস্তবে, একটি দৃঢ় অবলম্বন থেকে একটি সুতার সাহায্যে একটি গোলকাকৃতির বস্তু ঝুলিয়ে দিলে সেই সিস্টেমটিকে বলা হয় সরল দোলক। ",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimplePendulumTheory.webp"
           },
           {
-            "textForPage_1":"সরল দোলকের গতি\nমনে করি, একটি সরল দোলকের ববের ভর m ও কার্যকরী দৈর্ঘ্য L. চিত্র থেকে, যখন OA সাম্যাবস্থানে থাকে তখন এর উপর mg বল খাড়া নিচের দিকে ক্রিয়া করে যা সুতার টান দ্বারা প্রশমিত হয়। OA হতে θ কোণে OB তে আসলে mg বল পরস্পর লম্ব দুটো উপাংশে বিভাজিত হয়।",
+            "titleText": "সরল দোলকের গতি",
+            "textForPage_1":"মনে করি, একটি সরল দোলকের ববের ভর m ও কার্যকরী দৈর্ঘ্য L. চিত্র থেকে, যখন OA সাম্যাবস্থানে থাকে তখন এর উপর mg বল খাড়া নিচের দিকে ক্রিয়া করে যা সুতার টান দ্বারা প্রশমিত হয়। OA হতে θ কোণে OB তে আসলে mg বল পরস্পর লম্ব দুটো উপাংশে বিভাজিত হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimplePendulumTheory(2).webp",
             "textForPage_2": " একটি উপাংশ সুতা বরাবর নিম্নমুখে (mg cos θ) ক্রিয়া করে এবং অপরাট এর লম্ব অভিমুখে (mg sinθ) ক্রিয়া করে। উপাংশ mg cos θ সুতার নবসমন্বিত টান দ্বারা প্রশমিত হয়। অপর উপাংশ mg sinθ, যাকে প্রত্যায়নী বল বলা হয়, তা A এর দিকে ক্রিয়া করে। ",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimplePendulumTheory(3).gif",
@@ -3207,17 +3253,18 @@
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimplePendulumTheory(4).gif"
           },
           {
-            "textForPage_1":"সরল দোলকের সূত্রাবলি \n\n১ম সূত্র বা সমকাল সূত্র: কৌণিক বিস্তার অল্প হলে ( চার ডিগ্রীর কম) এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে একটি সরল দোলকের প্রতিটি দোলনের জন্য সমান সময় লাগবে। সুতরাং, g ও L ধ্রুব হলে ,T ধ্রুব ।\n\n২য় সূত্র বা দৈর্ঘ্যের সূত্র: কৌণিক বিস্তার অল্প হলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল, এর কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক। সুতরাং \nT α √L, যখন g অপরিবর্তিত।\n\n৩য় সূত্র বা ত্বরণের সূত্র: কৌণিক বিস্তার অল্প হলে এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে এর দোলনকাল অভিকর্ষজ ত্বরণের বর্গমূলের ব্যস্তানুপাতিক।\nT α 1/√g\n\n৪র্থ সূত্র বা ভরের সূত্র: কৌণিক বিস্তার অল্প হলে এবং কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল ববের ভর, আয়তন, উপাদান ইত্যাদির উপর নির্ভর করে না।",
+            "titleText": "সরল দোলকের সূত্রাবলি",
+            "textForPage_1":"১ম সূত্র বা সমকাল সূত্র: কৌণিক বিস্তার অল্প হলে ( চার ডিগ্রীর কম) এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে একটি সরল দোলকের প্রতিটি দোলনের জন্য সমান সময় লাগবে। সুতরাং, g ও L ধ্রুব হলে ,T ধ্রুব ।\n\n২য় সূত্র বা দৈর্ঘ্যের সূত্র: কৌণিক বিস্তার অল্প হলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল, এর কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক। সুতরাং \nT α √L, যখন g অপরিবর্তিত।\n\n৩য় সূত্র বা ত্বরণের সূত্র: কৌণিক বিস্তার অল্প হলে এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে এর দোলনকাল অভিকর্ষজ ত্বরণের বর্গমূলের ব্যস্তানুপাতিক।\nT α 1/√g\n\n৪র্থ সূত্র বা ভরের সূত্র: কৌণিক বিস্তার অল্প হলে এবং কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল ববের ভর, আয়তন, উপাদান ইত্যাদির উপর নির্ভর করে না।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SimplePendulumTheory(5).webp"
           },
           {
-            "textForPage_1":"স্প্রিং এর দোলন",
+            "titleText":"স্প্রিং এর দোলন",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SpringTheory(1).webp",
             "textForPage_2": "যা একটি সরল ছন্দিত স্পন্দনের জন্যেও সত্য। তাই স্প্রিং এর দোলন হল সরল ছন্দিত গতি।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SpringTheory(3).gif"
           },
           {
-            "textForPage_1":"স্প্রিং এর দোলনের সাথে বৃত্তাকার গতির সম্পর্ক",
+            "titleText":"স্প্রিং এর দোলনের সাথে বৃত্তাকার গতির সম্পর্ক",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/08.PeriodicMotion/SpringTheory(2).gif"
           }
         ],
@@ -3335,33 +3382,48 @@
         "topicName": "তরঙ্গ সংক্রান্ত রাশিসমূহ",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "তরঙ্গ\nযে আন্দোলন কোন জড় মাধ্যমের কণাগুলোর পর্যাবৃত্ত কম্পনের সাহায্যে মাধ্যমের এক স্থান থেকে অন্য স্থানে শক্তির প্রবাহ ঘটায় কিন্তু কণাগুলোর স্থায়ী স্থানান্তর ঘটায় না তাকেই তরঙ্গ বলে।",
+            "titleText": "তরঙ্গ",
+            "textForPage_1": "যে আন্দোলন কোন জড় মাধ্যমের কণাগুলোর পর্যাবৃত্ত কম্পনের সাহায্যে মাধ্যমের এক স্থান থেকে অন্য স্থানে শক্তির প্রবাহ ঘটায় কিন্তু কণাগুলোর স্থায়ী স্থানান্তর ঘটায় না তাকেই তরঙ্গ বলে।",
             "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(2).gif"
           },
           {
-            "textForPage_1": "আড় তরঙ্গ\nমাধ্যমের কণাগুলোর কম্পনের দিকের সাথে লম্বভাবে যে তরঙ্গ এগিয়ে চলে তাকে আড় বা তির্যক তরঙ্গ বলে",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(5).gif",
-            "textForPage_2": "লম্বিক তরঙ্গ\nতরঙ্গ প্রবাহের অভিমুখের সমান্তরালে যদি মাধ্যমের কণাগুলো অগ্রপশ্চাৎ কাঁপতে থাকে তবে সেই তরঙ্গকে লম্বিক বা অনুদৈর্ঘ্য বা দীঘল তরঙ্গ বলে। এ ধরনের তরঙ্গ প্রসারণ ও সংকোচনের মাধ্যমে অগ্রসর হয়।",
+            "titleText": "আড় তরঙ্গ",
+            "textForPage_1": "মাধ্যমের কণাগুলোর কম্পনের দিকের সাথে লম্বভাবে যে তরঙ্গ এগিয়ে চলে তাকে আড় বা তির্যক তরঙ্গ বলে",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(5).gif"
+          },
+          {
+            "titleText": "লম্বিক তরঙ্গ",
+            "textForPage_2": "তরঙ্গ প্রবাহের অভিমুখের সমান্তরালে যদি মাধ্যমের কণাগুলো অগ্রপশ্চাৎ কাঁপতে থাকে তবে সেই তরঙ্গকে লম্বিক বা অনুদৈর্ঘ্য বা দীঘল তরঙ্গ বলে। এ ধরনের তরঙ্গ প্রসারণ ও সংকোচনের মাধ্যমে অগ্রসর হয়।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(1).gif"
           },
           {
-            "textForPage_1": "দশা\nযেকোন মূহুর্তে একটা কণার দশা বলতে আসলে তার গতির সম্যক অবস্থা বোঝানো হয়।\nসরল ছন্দিত গতি আর বৃত্তীয় গতির মধ্যকার সম্পর্ক থেকে, একটা কণা যদি একটা বৃত্ত বরাবর চলতে চলতে বৃত্তের পরিধি ঘুরে আসে তাহলে ব্যাসের উপর তার ছায়ার কিন্তু একটা পূর্ণ কম্পন সম্পন্ন হয় এভাবে:",
+            "titleText": "দশা",
+            "textForPage_1": "যেকোন মূহুর্তে একটা কণার দশা বলতে আসলে তার গতির সম্যক অবস্থা বোঝানো হয়।\nসরল ছন্দিত গতি আর বৃত্তীয় গতির মধ্যকার সম্পর্ক থেকে, একটা কণা যদি একটা বৃত্ত বরাবর চলতে চলতে বৃত্তের পরিধি ঘুরে আসে তাহলে ব্যাসের উপর তার ছায়ার কিন্তু একটা পূর্ণ কম্পন সম্পন্ন হয় এভাবে:",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(3).gif",
             "textForPage_2": "তাহলে ছায়ার দশার পরিবর্তন হয় 2π। এইজন্য 2π দশা পার্থক্য বিশিষ্ট দুটো কণাকে সমদশাসম্পন্ন বলা হয়।"
           },
           {
-            "textForPage_1": "তরঙ্গ দৈর্ঘ্য\nযে মাধ্যমের কণার পর্যাবৃত্ত কম্পনের মধ্য দিয়ে তরঙ্গ প্রবাহিত হয়। কণাগুলো যখন একটা পূর্ণ কম্পন সম্পন্ন করে সেই সময়ে তরঙ্গ যতটুকু দূরত্ব অতিক্রম করে তাকে তরঙ্গ দৈর্ঘ্য বলে।",
+            "titleText": "তরঙ্গ দৈর্ঘ্য",
+            "textForPage_1": "যে মাধ্যমের কণার পর্যাবৃত্ত কম্পনের মধ্য দিয়ে তরঙ্গ প্রবাহিত হয়। কণাগুলো যখন একটা পূর্ণ কম্পন সম্পন্ন করে সেই সময়ে তরঙ্গ যতটুকু দূরত্ব অতিক্রম করে তাকে তরঙ্গ দৈর্ঘ্য বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(2).webp",
-            "textForPage_2": "এখানে A,A’(শীর্ষবিন্দু); B,B’(পাদবিন্দু); C,C’(শূণ্য বিন্দু) বিন্দুগুলোর কণাগুলো সমদশাসম্পন্ন, তাই তাদের মধ্যকার দূরত্ব তরঙ্গ দৈর্ঘ্য।\n\nবিস্তার\nসাম্যাবস্থান থেকে যেকোন একদিকে কম্পমান কণার সর্বাধিক সরণকে বিস্তার বলে।",
-            "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(1).webp",
-            "textForPage_3": "কম্পাংক\nএক সেকেন্ডে কম্পমান কণা যতগুলো পূর্ণ স্পন্দন সম্পন্ন করে তাকে কম্পাঙ্ক বলে। সাধারনত f বা n দিয়ে কম্পাঙ্ককে প্রকাশ করা হয়।\nএকটা পূর্ণ কম্পনের ফলে যেহেতু একটা তরঙ্গ উৎপন্ন হয় তাই এক সেকেন্ডে যতগুলো পূর্ণ তরঙ্গ উৎপন্ন হয় তা-ও কম্পাঙ্কের সমানই হবে।কম্পাঙ্কের একক হল vibrations per second বা cycles per second বা Hertz(Hz)।এক সেকেন্ডে একটা পূর্ণ কম্পন হলে সে তরঙ্গের কম্পাঙ্ক হয় 1Hz।"
+            "textForPage_2": "এখানে A,A’(শীর্ষবিন্দু); B,B’(পাদবিন্দু); C,C’(শূণ্য বিন্দু) বিন্দুগুলোর কণাগুলো সমদশাসম্পন্ন, তাই তাদের মধ্যকার দূরত্ব তরঙ্গ দৈর্ঘ্য।"
           },
           {
-            "textForPage_1": "তীব্রতা",
+            "titleText": "বিস্তার",
+            "textForPage_1": "সাম্যাবস্থান থেকে যেকোন একদিকে কম্পমান কণার সর্বাধিক সরণকে বিস্তার বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(1).webp"
           },
           {
-            "textForPage_1": "তরঙ্গমুখ\nতরঙ্গের ওপর অবস্থিত সমদশা সম্পন্ন কণাগুলোর গতিপথকে তরঙ্গমুখ বলে। তরঙ্গমুখের সাহায্যে ভূমিকম্পের উৎস নির্ণয় করা যায়।",
+            "titleText": "কম্পাংক",
+            "textForPage_1": "এক সেকেন্ডে কম্পমান কণা যতগুলো পূর্ণ স্পন্দন সম্পন্ন করে তাকে কম্পাঙ্ক বলে। সাধারনত f বা n দিয়ে কম্পাঙ্ককে প্রকাশ করা হয়।\nএকটা পূর্ণ কম্পনের ফলে যেহেতু একটা তরঙ্গ উৎপন্ন হয় তাই এক সেকেন্ডে যতগুলো পূর্ণ তরঙ্গ উৎপন্ন হয় তা-ও কম্পাঙ্কের সমানই হবে।কম্পাঙ্কের একক হল vibrations per second বা cycles per second বা Hertz(Hz)।এক সেকেন্ডে একটা পূর্ণ কম্পন হলে সে তরঙ্গের কম্পাঙ্ক হয় 1Hz।"
+          },
+          {
+            "titleText": "তীব্রতা",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(1).webp"
+          },
+          {
+            "titleText": "তরঙ্গমুখ",
+            "textForPage_1": "তরঙ্গের ওপর অবস্থিত সমদশা সম্পন্ন কণাগুলোর গতিপথকে তরঙ্গমুখ বলে। তরঙ্গমুখের সাহায্যে ভূমিকম্পের উৎস নির্ণয় করা যায়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/WaveTheory(4).gif"
           }
         ],
@@ -3422,15 +3484,18 @@
         "topicName": "অগ্রগামী তরঙ্গ",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "অগ্রগামী তরঙ্গ\nমাধ্যমের মধ্যে সৃষ্ট কোন আলোড়ন যখন মাধ্যমের এক স্তর থেকে অন্য স্তরে শক্তি সঞ্চালন করে বিস্তারের কোনরকম হ্রাস বা বৃদ্ধি না ঘটিয়ে সামনের দিকে একটি নির্দিষ্ট বেগে অগ্রসর হয় থাকে অগ্রগামী তরঙ্গ বলে।",
+            "titleText": "অগ্রগামী তরঙ্গ",
+            "textForPage_1": "মাধ্যমের মধ্যে সৃষ্ট কোন আলোড়ন যখন মাধ্যমের এক স্তর থেকে অন্য স্তরে শক্তি সঞ্চালন করে বিস্তারের কোনরকম হ্রাস বা বৃদ্ধি না ঘটিয়ে সামনের দিকে একটি নির্দিষ্ট বেগে অগ্রসর হয় থাকে অগ্রগামী তরঙ্গ বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWave1.gif",
             "textForPage_2": "মাধ্যমের যেকোন অংশেই সৃষ্টি হোক না কেন, এই তরঙ্গ স্থির থাকে না। সময়ের সাথে সাথে মাধ্যমের মধ্য দিয়ে অগ্রসর হতে থাকে। মাধ্যমের মধ্যে সৃষ্ট কোন আলোড়ন যখন মাধ্যমের এক স্তর থেকে অন্য স্তরে শক্তি সঞ্চালন করতে করতে বিস্তারের কোনরকম হ্রাস না ঘটিয়ে সামনের দিকে একটি নির্দিষ্ট বেগে অগ্রসর হয়, তখন তাকে অগ্রগামী তরঙ্গ বলে। একে চলমান তরঙ্গও বলে।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWave2.gif"
           },
           {
             "textForPage_1": "অগ্রগামী তরঙ্গ আড় বা দীঘল হতে পারে। পানির তরঙ্গও আড় বা দীঘল হতে পারে। যেকোন ক্ষেত্রেই অনুক্রমিক কণাগুলোর মধ্যে দশা পার্থক্যের সৃষ্টি হবে।",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWave3.webp",
-            "textForPage_2": "অগ্রগামী তরঙ্গের সমীকরণ",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWave3.webp"
+          },
+          {
+            "titleText": "অগ্রগামী তরঙ্গের সমীকরণ",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWaveFormula1.webp",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/ProgressiveWaveFormula2.webp"
           }
@@ -3476,15 +3541,18 @@
         "topicName": "তরঙ্গের উপরিপাতন নীতি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "তরঙ্গের উপরিপাতন নীতি\nযখন দুটি বা তার বেশি তরঙ্গ একই সাথে একই মাধ্যমের ভেতর দিয়ে এগোতে থাকে তখন এরা একটি অপরটি সাপেক্ষে স্বাধীনভাবে সঞ্চালিত হয়। মাধ্যমের যে অংশে তরঙ্গ গুলো উপরিপাতিত হয়, সেই অংশে যেকোনো কণার লব্ধি সরণ প্রতিটি তরঙ্গ পৃথকভাবে ওই কণার যে সরণ সৃষ্টি করে তাদের ভেক্টরের যোগফলের সমান হয়। এটিই তরঙ্গের ঊপরিপাতন নীতি।\n",
+            "titleText": "তরঙ্গের উপরিপাতন নীতি",
+            "textForPage_1": "যখন দুটি বা তার বেশি তরঙ্গ একই সাথে একই মাধ্যমের ভেতর দিয়ে এগোতে থাকে তখন এরা একটি অপরটি সাপেক্ষে স্বাধীনভাবে সঞ্চালিত হয়। মাধ্যমের যে অংশে তরঙ্গ গুলো উপরিপাতিত হয়, সেই অংশে যেকোনো কণার লব্ধি সরণ প্রতিটি তরঙ্গ পৃথকভাবে ওই কণার যে সরণ সৃষ্টি করে তাদের ভেক্টরের যোগফলের সমান হয়। এটিই তরঙ্গের ঊপরিপাতন নীতি।\n",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/SuperPositionTheory.gif"
           },
           {
-            "textForPage_1": "নীতি ১\nকোনো কণার লব্ধি সরণ (ধরি ) প্রত্যেক তরঙ্গ কণাটিতে নিজে যে সরণ সৃষ্টি করবে তাদের ভেক্টর যোগফলের সমান হবে। অর্থাৎ, Y = Y1+Y2",
+            "titleText": "নীতি ১",
+            "textForPage_1": "কোনো কণার লব্ধি সরণ (ধরি ) প্রত্যেক তরঙ্গ কণাটিতে নিজে যে সরণ সৃষ্টি করবে তাদের ভেক্টর যোগফলের সমান হবে। অর্থাৎ, Y = Y1+Y2",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/SuperPositionTheory2.gif"
           },
           {
-            "textForPage_1": "নীতি ২\nমাধ্যমের কোন কণায় যখন দুই বা ততোধিক তরঙ্গ উপরিপাতিত হয়ে একই সময়ে ক্রিয়া করে তখন কোন তরঙ্গই একে অপরের দ্বারা বাধাপ্রাপ্ত বা প্রভাবিত হয় না। উপরিপাতনের পরেও তরঙ্গগুলোর নিজ নিজ বৈশিষ্ট্য বজায় থাকবে অর্থাৎ নিজ নিজ বিস্তার, কম্পাঙ্ক, তরঙ্গ বেগ, ইত্যাদি বৈশিষ্ট্য বজায় থাকে। উপরিপাতনের আগে যে নির্দিষ্ট দিকে যাচ্ছিল পরেও সেই নির্দিষ্ট দিকে যেতে থাকবে। মনে হবে যে এরা কখনো উপরিপাতিত হয়নি!",
+            "titleText": "নীতি ২",
+            "textForPage_1": "মাধ্যমের কোন কণায় যখন দুই বা ততোধিক তরঙ্গ উপরিপাতিত হয়ে একই সময়ে ক্রিয়া করে তখন কোন তরঙ্গই একে অপরের দ্বারা বাধাপ্রাপ্ত বা প্রভাবিত হয় না। উপরিপাতনের পরেও তরঙ্গগুলোর নিজ নিজ বৈশিষ্ট্য বজায় থাকবে অর্থাৎ নিজ নিজ বিস্তার, কম্পাঙ্ক, তরঙ্গ বেগ, ইত্যাদি বৈশিষ্ট্য বজায় থাকে। উপরিপাতনের আগে যে নির্দিষ্ট দিকে যাচ্ছিল পরেও সেই নির্দিষ্ট দিকে যেতে থাকবে। মনে হবে যে এরা কখনো উপরিপাতিত হয়নি!",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/BeatTheory2.gif"
           }
         ],
@@ -3505,26 +3573,33 @@
         "topicName": "স্থির তরঙ্গ",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"স্থির তরঙ্গ\nএকই বিস্তার এবং পর্যায়কাল বা সম-তরঙ্গ দৈর্ঘ্য বিশিষ্ট দুটি অভিন্ন তীর্যক বা অনুদৈর্ঘ্য তরঙ্গ যখন কোন বিস্তৃত মাধ্যমের সীমিত অংশে বিপরীত দিক থেকে সমবেগে একে অপরের উপর আপতিত হয় তখন একটি লব্ধি তরঙ্গের সৃষ্টি হয়। এই তরঙ্গ কোন দিকে অগ্রসর না হয়ে সৃষ্ট স্থানেই পর্যায়ক্রমে সংকুচিত ও প্রসারিত হতে থাকে। এ ধরনের তরঙ্গকে স্থির তরঙ্গ বা নিশ্চল তরঙ্গ বলে।",
+            "titleText": "স্থির তরঙ্গ",
+            "textForPage_1":"একই বিস্তার এবং পর্যায়কাল বা সম-তরঙ্গ দৈর্ঘ্য বিশিষ্ট দুটি অভিন্ন তীর্যক বা অনুদৈর্ঘ্য তরঙ্গ যখন কোন বিস্তৃত মাধ্যমের সীমিত অংশে বিপরীত দিক থেকে সমবেগে একে অপরের উপর আপতিত হয় তখন একটি লব্ধি তরঙ্গের সৃষ্টি হয়। এই তরঙ্গ কোন দিকে অগ্রসর না হয়ে সৃষ্ট স্থানেই পর্যায়ক্রমে সংকুচিত ও প্রসারিত হতে থাকে। এ ধরনের তরঙ্গকে স্থির তরঙ্গ বা নিশ্চল তরঙ্গ বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheory1.gif",
             "textForPage_2": "স্থির তরঙ্গ দুটো তরঙ্গের উপরিপাতনের ফলে তৈরী হয়। যেহেতু তরঙ্গ প্রবাহের অর্থই হচ্ছে শক্তির এক স্থান থেকে অন্য স্থানে স্থানান্তর, তাই স্থির তরঙ্গের ক্ষেত্রে সাধারণভাবে বলা যায় যে, শক্তি সীমিত অংশে সীমাবদ্ধ থেকে পর্যায়ক্রমে গতিশক্তি থেকে স্থিতিশক্তিতে পরিবর্তিত হয়।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheory2.gif"
           },
           {
-            "textForPage_1":"সুস্পন্দ বিন্দু\nস্থির তরঙ্গের উপরস্থ কোনো কোনো বিন্দুতে বস্তুকণার বিস্তার শূন্য এবং কোনো কণ বিন্দুতে বিস্তার সর্বাধিক। যে বিন্দুতে বিস্তার সর্বাধিক তাদেরকে সুস্পন্দ বিন্দু বলে।",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryNode.webp",
-            "textForPage_2": "নিস্পন্দ বিন্দু\nস্থির তরঙ্গের উপরস্থ যে সকল বিন্দুতে বিস্তার শূন্য তাদেরকে নিস্পন্দ বিন্দু বলে।",
+            "titleText": "সুস্পন্দ বিন্দু",
+            "textForPage_1": "স্থির তরঙ্গের উপরস্থ কোনো কোনো বিন্দুতে বস্তুকণার বিস্তার শূন্য এবং কোনো কণ বিন্দুতে বিস্তার সর্বাধিক। যে বিন্দুতে বিস্তার সর্বাধিক তাদেরকে সুস্পন্দ বিন্দু বলে।",
+            "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryNode.webp"
+          },
+          {
+            "titleText": "নিস্পন্দ বিন্দু",
+            "textForPage_2": "স্থির তরঙ্গের উপরস্থ যে সকল বিন্দুতে বিস্তার শূন্য তাদেরকে নিস্পন্দ বিন্দু বলে।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryAntiNode.webp"
           },
           {
-            "textForPage_1":"স্থির তরঙ্গের সূত্র",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryFormula.webp",
-            "textForPage_2": "স্থির তরঙ্গের সূত্রের প্রমাণ",
+            "titleText": "স্থির তরঙ্গের সূত্র",
+            "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryFormula.webp"
+          },
+          {
+            "titleText": "স্থির তরঙ্গের সূত্রের প্রমাণ",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/SuperPositionTheory2.gif",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryFormulaProof.webp"
           },
           {
-            "textForPage_1":"বদ্ধ নলে স্থির তরঙ্গ",
+            "titleText":"বদ্ধ নলে স্থির তরঙ্গ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryTube1.webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/StaticWaveTheoryTube2.gif"
           }
@@ -3558,15 +3633,18 @@
         "topicName": "বীট",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "বীট\nএকই ধরনের এবং প্রায় সমান কম্পাঙ্কের দুইটি শব্দ তরঙ্গের উপরিপাতনের ফলে শব্দের তীব্রতার যে পর্যায়ক্রমিক হ্রাস-বৃদ্ধি হয়, তাকে বীট বলে। আর প্রতি সেকেন্ডে এরকম যেকয়টি পর্যায়ক্রমিক হ্রাসবৃদ্ধি শুনা যা, তাকে বীটের হার বলে",
+            "titleText": "বীট",
+            "textForPage_1": "একই ধরনের এবং প্রায় সমান কম্পাঙ্কের দুইটি শব্দ তরঙ্গের উপরিপাতনের ফলে শব্দের তীব্রতার যে পর্যায়ক্রমিক হ্রাস-বৃদ্ধি হয়, তাকে বীট বলে। আর প্রতি সেকেন্ডে এরকম যেকয়টি পর্যায়ক্রমিক হ্রাসবৃদ্ধি শুনা যা, তাকে বীটের হার বলে",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/BeatTheory1.gif"
           },
           {
-            "textForPage_1": "বীট উৎপন্নের শর্ত\n১) বীট উৎপন্নকারী শব্দ তরঙ্গ দুটি একই সময়ে উৎপন্ন হতে হবে।\n২) তরঙ্গ দুটির কম্পাঙ্ক ও তীব্রতা প্রায় সমান হতে হবে।\n৩) শব্দের প্রাবল্য সময়ের সাথে পরিবর্তিত হতে হবে।",
+            "titleText": "বীট উৎপন্নের শর্ত",
+            "textForPage_1": "১) বীট উৎপন্নকারী শব্দ তরঙ্গ দুটি একই সময়ে উৎপন্ন হতে হবে।\n২) তরঙ্গ দুটির কম্পাঙ্ক ও তীব্রতা প্রায় সমান হতে হবে।\n৩) শব্দের প্রাবল্য সময়ের সাথে পরিবর্তিত হতে হবে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/BeatTheory2.gif"
           },
           {
-            "textForPage_1": "সুরশলাকার অঙ্ক করার নিয়ম\n\n১) কম্পাঙ্ক বাড়ে - ঘষে ফেললে\n    কম্পাঙ্ক কমে - মোম লাগালে \n২) সুরশলাকা দুটির কম্পাঙ্ক গ্রাফে বসানো \n৩) পরিবর্তিত কম্পাঙ্ক গ্রাফে বসানো।",
+            "titleText": "সুরশলাকার অঙ্ক করার নিয়ম",
+            "textForPage_1": "১) কম্পাঙ্ক বাড়ে - ঘষে ফেললে\n    কম্পাঙ্ক কমে - মোম লাগালে \n২) সুরশলাকা দুটির কম্পাঙ্ক গ্রাফে বসানো \n৩) পরিবর্তিত কম্পাঙ্ক গ্রাফে বসানো।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/Beat1.webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/Beat2.webp"
           }
@@ -3612,9 +3690,13 @@
         "topicName": "অনুনাদ ও তীব্রতা লেভেল",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "মুক্ত কম্পন:\nযেকোন বস্তু যখন তার নিজের কম্পাঙ্কে আন্দোলিত হয়, তাকে মুক্ত কম্পন বলে।",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/FreeVibration.webp",
-            "textForPage_2": "পরবশ বা আরোপিত কম্পন।\nকোন বস্তুর ওপর যদি একটা পর্যাবৃত্ত স্পন্দন আরোপিত হয়, যার কম্পাঙ্ক সেই বস্তুটির নিজের কম্পাঙ্ক থেকে আলাদা। তাহলে, বস্তুটা প্রথমে অনিয়মিতভাবে কাঁপে আর এরপর সেই আরোপিত বলের কম্পাঙ্কে কাঁপে। এই কম্পন হল পরবশ বা আরোপিত কম্পন।",
+            "titleText": "মুক্ত কম্পন",
+            "textForPage_1": "যেকোন বস্তু যখন তার নিজের কম্পাঙ্কে আন্দোলিত হয়, তাকে মুক্ত কম্পন বলে।",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/FreeVibration.webp"
+          },
+          {
+            "titleText": "পরবশ বা আরোপিত কম্পন",
+            "textForPage_2": "কোন বস্তুর ওপর যদি একটা পর্যাবৃত্ত স্পন্দন আরোপিত হয়, যার কম্পাঙ্ক সেই বস্তুটির নিজের কম্পাঙ্ক থেকে আলাদা। তাহলে, বস্তুটা প্রথমে অনিয়মিতভাবে কাঁপে আর এরপর সেই আরোপিত বলের কম্পাঙ্কে কাঁপে। এই কম্পন হল পরবশ বা আরোপিত কম্পন।",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/InducedVibration.webp"
           },
           {
@@ -3623,15 +3705,18 @@
             "textForPage_2": "গতি ধীর হওয়া মানে হল, আস্তে আস্তে শক্তি কমে যাওয়া বা ক্ষয় হওয়া। এই ক্ষয় পূরণ করার জন্য দরকার হয় একটা পদ্ধতি। অনেক সময় এই কাজেই পরবশ কম্পন লাগে। তবে, পরবশ কম্পন ছাড়াও এটা সম্ভব। পেন্ডুলাম ঘড়িতে এরকম একটা যান্ত্রিক পদ্ধতি ব্যবহার করে গতি অব্যাহত রাখা হয়।\nএই পদ্ধতিটার নাম হল “Escapement”। এটা মুক্ত কম্পনও নয়, পরবশ কম্পনও নয়। (মতান্তরে-এটা পরবশ কম্পন)"
           },
           {
-            "textForPage_1": "অনুনাদ\nকোনো বস্তুর ওপর প্রযুক্ত পর্যাবৃত্ত বলের কম্পাংক বস্তুটির স্বাভাবিক কম্পাংকের সমান হলে বস্তুটি সর্বোচ্চ বিস্তারে কম্পিত হয়।এ ধরনের কম্পনকে অনুনাদ বলে।",
+            "titleText": "অনুনাদ",
+            "textForPage_1": "কোনো বস্তুর ওপর প্রযুক্ত পর্যাবৃত্ত বলের কম্পাংক বস্তুটির স্বাভাবিক কম্পাংকের সমান হলে বস্তুটি সর্বোচ্চ বিস্তারে কম্পিত হয়।এ ধরনের কম্পনকে অনুনাদ বলে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/Resonance.gif"
           },
           {
-            "textForPage_1": "শব্দের তীব্রতা\nশব্দ চলার পথে একক ক্ষেত্রফল হতে লম্বভাবে প্রতি সেকেন্ডে নির্গত শব্দ শক্তিই হলো শব্দের তীব্রতা।",
+            "titleText": "শব্দের তীব্রতা",
+            "textForPage_1": "শব্দ চলার পথে একক ক্ষেত্রফল হতে লম্বভাবে প্রতি সেকেন্ডে নির্গত শব্দ শক্তিই হলো শব্দের তীব্রতা।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/SoundIntensity.webp"
           },
           {
-            "textForPage_1": "তীব্রতা লেভেল\nপ্রমাণ তীব্রতার শব্দের সাথে তুলনা করে অন্য শব্দের তীব্রতাকে প্রকাশ করলে তাকে শব্দের তীব্রতা লেভেল বলে। এর একক ডেসিবেল। প্রমাণ তীব্রতার শব্দের কম্পাঙ্ক 1000 Hz ধরা হয়।",
+            "titleText": "তীব্রতা লেভেল",
+            "textForPage_1": "প্রমাণ তীব্রতার শব্দের সাথে তুলনা করে অন্য শব্দের তীব্রতাকে প্রকাশ করলে তাকে শব্দের তীব্রতা লেভেল বলে। এর একক ডেসিবেল। প্রমাণ তীব্রতার শব্দের কম্পাঙ্ক 1000 Hz ধরা হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/09.Wave/IntensityLevel.webp"
           }
         ],
@@ -3664,7 +3749,8 @@
         "topicName": "হারমোনিক ও স্বরগ্রাম,তারের কম্পন",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "হারমোনিক ও স্বরগ্রাম\nসুর যেহেতু শব্দ বা শব্দের সমষ্টি, কাজেই সুরের উচ্চ ও নিম্ন কম্পাঙ্ক থাকে। সবচেয়ে কম কম্পাঙ্কের সুর হল সূচনা সুর বা মূল সুর বা টোনিক (Fundamental Tone)। এর চেয়ে বড় কম্পাঙ্কগুলোর মান হয় সূচনা সুরের সাথে নির্দিষ্ট অনুপাত বজায় রেখে। সূচনা সুর 200 Hz হলে অন্যান্য কম্পাঙ্ক হবে 300 Hz, 350 Hz এভাবে। এইসব কম্পাঙ্ক পরপর ধ্বনিত হলেই শ্রুতিমধুর শব্দ উৎপন্ন হবে। এই সাজানো সুরগুলোকে  স্বরগ্রাম (Musical Scale) বলে।",
+            "titleText": "হারমোনিক ও স্বরগ্রাম",
+            "textForPage_1": "সুর যেহেতু শব্দ বা শব্দের সমষ্টি, কাজেই সুরের উচ্চ ও নিম্ন কম্পাঙ্ক থাকে। সবচেয়ে কম কম্পাঙ্কের সুর হল সূচনা সুর বা মূল সুর বা টোনিক (Fundamental Tone)। এর চেয়ে বড় কম্পাঙ্কগুলোর মান হয় সূচনা সুরের সাথে নির্দিষ্ট অনুপাত বজায় রেখে। সূচনা সুর 200 Hz হলে অন্যান্য কম্পাঙ্ক হবে 300 Hz, 350 Hz এভাবে। এইসব কম্পাঙ্ক পরপর ধ্বনিত হলেই শ্রুতিমধুর শব্দ উৎপন্ন হবে। এই সাজানো সুরগুলোকে  স্বরগ্রাম (Musical Scale) বলে।",
             "videoLink" : "https://www.youtube.com/watch?v=w6EGyFAGpXU"
           }
         ],
@@ -3782,27 +3868,30 @@
         "topicName": "গ্যাসের গতিতত্ত্ব",
         "dataForTheoryTab": [
           {
-            "textForPage_1":"গ্যাসের গতিতত্ত্ব",
+            "titleText":"গ্যাসের গতিতত্ত্ব",
             "videoLink": "https://www.youtube.com/watch?v=1Jtw8g795Us"
           },
           {
-            "textForPage_1": "ব্যাপন(Diffusion): \nএকই তাপমাত্রা ও বায়ুমন্ডলীয় চাপে কোনো পর্দাথের অধিক ঘনস্থান থেকে কম ঘনস্থানের দিকে বিস্তার লাভ করার ক্ষমতাকে ব্যাপন বলে।",
+            "titleText": "ব্যাপন(Diffusion)",
+            "textForPage_1": "একই তাপমাত্রা ও বায়ুমন্ডলীয় চাপে কোনো পর্দাথের অধিক ঘনস্থান থেকে কম ঘনস্থানের দিকে বিস্তার লাভ করার ক্ষমতাকে ব্যাপন বলে।",
             "videoLink" : "https://www.youtube.com/watch?v=c_IYK8sy0QA"
           },
           {
-            "textForPage_1": "অভিস্রবণ(Osmosis): \nঅভিস্রবণ বলতে দুটো ভিন্ন ঘনত্বের দ্রবণ একটি অর্ধভেদ্য পর্দা দিয়ে পাশাপাশি আলাদা করে রাখলে পর্দা ভেদ করে কম ঘন দ্রবণ থেকে অধিক ঘন দ্রবণের দিকে দ্রাবক অণু প্রবেশ করার প্রক্রিয়াকে বোঝায়। দুটো দ্রবণের ঘনত্ব সমান না হওয়া পর্যন্ত এই প্রক্রিয়া চলতে থাকে।",
+            "titleText": "অভিস্রবণ(Osmosis)",
+            "textForPage_1": "অভিস্রবণ বলতে দুটো ভিন্ন ঘনত্বের দ্রবণ একটি অর্ধভেদ্য পর্দা দিয়ে পাশাপাশি আলাদা করে রাখলে পর্দা ভেদ করে কম ঘন দ্রবণ থেকে অধিক ঘন দ্রবণের দিকে দ্রাবক অণু প্রবেশ করার প্রক্রিয়াকে বোঝায়। দুটো দ্রবণের ঘনত্ব সমান না হওয়া পর্যন্ত এই প্রক্রিয়া চলতে থাকে।",
             "videoLink" : "https://www.youtube.com/watch?v=SD1AKWUazPU"
           },
           {
-            "textForPage_1": "ব্রাউনীয় গতিঃ \nকোনো মাধ্যমে অতি ক্ষুদ্র কণার ইতঃস্তত ভ্রমণকে ব্রাউনীয় গতি বলা হয়।",
+            "titleText": "ব্রাউনীয় গতি",
+            "textForPage_1": "কোনো মাধ্যমে অতি ক্ষুদ্র কণার ইতঃস্তত ভ্রমণকে ব্রাউনীয় গতি বলা হয়।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/KineticTheoryOfGas/gas.gif"
           },
           {
-            "textForPage_1": "গ্যাসের গতিতত্তের প্রমাণ",
+            "titleText": "গ্যাসের গতিতত্তের প্রমাণ",
             "videoLink" : "https://www.youtube.com/watch?v=YSTRa27a3BQ"
           },
           {
-            "textForPage_1": "গ্যাসের গতিতত্তের প্রমাণ",
+            "titleText": "গ্যাসের গতিতত্তের প্রমাণ",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/KineticTheoryOfGas/theory(1).webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/KineticTheoryOfGas/theory(2).webp",
             "imageName_3" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/KineticTheoryOfGas/theory(3).webp",
@@ -3878,22 +3967,26 @@
         "topicName": "গ্যাস সূত্রাবলি",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "বয়েলের সুত্র(Boyle’s Law)\nস্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের আয়তন তার চাপের ব্যস্তানুপাতিক।\nযদি স্থির তাপমাত্রায় কোন নির্দিষ্ট ভরের গ্যাসের আয়তন V এব চাপ P হয় তবে,\n\nV ∝ 1/P, যখন তাপমাত্রা স্থির থাকে।",
+            "titleText":"বয়েলের সুত্র(Boyle’s Law)",
+            "textForPage_1": "স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের আয়তন তার চাপের ব্যস্তানুপাতিক।\nযদি স্থির তাপমাত্রায় কোন নির্দিষ্ট ভরের গ্যাসের আয়তন V এব চাপ P হয় তবে,\n\nV ∝ 1/P, যখন তাপমাত্রা স্থির থাকে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/boyleslaw(1).webp",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/boyleslaw(2).webp"
           },
           {
-            "textForPage_1": "চার্লসের সূত্র (Charle’s Law) \nস্থির চাপে কোন নির্দিষ্ট ভরের গ্যাসের আয়তন 0° সেলসিয়াস থেকে প্রতি ডিগ্রী সেলসিয়াস তাপমাত্রা পরিবর্তনের জন্য 0° সেলসিয়াসের আয়তনের 1/273 বা 0.00366 অংশ পরিবর্তিত হয়।\nচার্লসের সূত্রানুসারে, (স্থির চাপে)\n\nV∝T",
+            "titleText":"চার্লসের সূত্র (Charle’s Law)",
+            "textForPage_1": "স্থির চাপে কোন নির্দিষ্ট ভরের গ্যাসের আয়তন 0° সেলসিয়াস থেকে প্রতি ডিগ্রী সেলসিয়াস তাপমাত্রা পরিবর্তনের জন্য 0° সেলসিয়াসের আয়তনের 1/273 বা 0.00366 অংশ পরিবর্তিত হয়।\nচার্লসের সূত্রানুসারে, (স্থির চাপে)\n\nV∝T",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/charles_law_1.gif",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/charles_law_2.webp"
           },
           {
-            "textForPage_1": "অ্যাভোগাড্রোর সূত্র \nস্থির তাপমাত্রায় ও চাপে সমআয়তনের মৌলিক ও যৌগিক সকল গ্যাসে সমান সংখ্যক অণু থাকে।\nএ সূত্র থেকে পরীক্ষা দ্বারা সহজেই প্রমাণ করা যায় যে, স্থির তাপমাত্রায় ও চাপে সকল গ্যাসেরই আয়তন সমান এবং প্রমাণ তাপমাত্রায় ও চাপে তা 22.4L। অ্যাভোগাড্রোর সূত্রমতে,\n\nV ∝ n (যখন চাপ ও তাপমাত্রা স্থির)",
+            "titleText":"অ্যাভোগাড্রোর সূত্র",
+            "textForPage_1": "স্থির তাপমাত্রায় ও চাপে সমআয়তনের মৌলিক ও যৌগিক সকল গ্যাসে সমান সংখ্যক অণু থাকে।\nএ সূত্র থেকে পরীক্ষা দ্বারা সহজেই প্রমাণ করা যায় যে, স্থির তাপমাত্রায় ও চাপে সকল গ্যাসেরই আয়তন সমান এবং প্রমাণ তাপমাত্রায় ও চাপে তা 22.4L। অ্যাভোগাড্রোর সূত্রমতে,\n\nV ∝ n (যখন চাপ ও তাপমাত্রা স্থির)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/AvogadrosLaw.webp",
             "textForPage_2" : "চিত্রে ভিন্ন ভিন্ন গ্যাসগুলোর ভর আলাদা হলেও এদের অণুর সংখ্যা সমান"
           },
           {
-            "textForPage_1": "অ্যাভোগাড্রোর সূত্রের গুরুত্ব\nঅ্যাভোগাড্রোর সূত্রের কারনে সার্বজনীন গ্যাস ধ্রুবক R পাওয়া যায়। অন্যথায় প্রতিটি গ্যাসের জন্য এর মান আলাদা হত।",
+            "titleText":"অ্যাভোগাড্রোর সূত্রের গুরুত্ব",
+            "textForPage_1": "অ্যাভোগাড্রোর সূত্রের কারনে সার্বজনীন গ্যাস ধ্রুবক R পাওয়া যায়। অন্যথায় প্রতিটি গ্যাসের জন্য এর মান আলাদা হত।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/GasLaws/avogardos-hypothesis-gas.webp"
           },
           {
@@ -3934,18 +4027,27 @@
         "topicName": "আর্দ্রতা",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "আর্দ্রতা\nকোনো স্থানের বায়ুতে কতটুকু জলীয়বাষ্প আছে অর্থাৎ বায়ু কতখানি শুষ্ক বা ভিজা আর্দ্রতা দিয়ে তাই নির্দেশ করা হয় ৷",
-            "textForPage_2" : "শিশিরাঙ্ক\nনির্দিষ্ট তাপমাত্রায় নির্দিষ্ট আয়তনের বায়ুর জলীয়বাষ্প ধারণ করার ক্ষমতা সীমাবদ্ধ ৷ তাপমাত্রা বাড়লে ঐ স্থানের জলীয়বাষ্প ধারণ করার ক্ষমতা বেড়ে যায় ৷ কোনো স্থানের তাপমাত্রা কমলে ঐ স্থানের জলীয়বাষ্প ধারণ ক্ষমতা কমে যায় ৷ তাপমাত্রা ক্রমশ কমতে থাকলে নির্দিষ্ট তাপমাত্রায় বায়ুমন্ডল এ স্থানের জলীয়বাষ্প দ্বারাই সম্পৃক্ত হয় ৷ ঐ তাপমাত্রায় বায়ুতে অবস্থিত জলীয়বাষ্প তখন শিশিরে পরিনত হয় ৷ এই তাপমাত্রাই শিশিরাঙ্ক ৷"
+            "titleText": "আর্দ্রতা",
+            "textForPage_1": "কোনো স্থানের বায়ুতে কতটুকু জলীয়বাষ্প আছে অর্থাৎ বায়ু কতখানি শুষ্ক বা ভিজা আর্দ্রতা দিয়ে তাই নির্দেশ করা হয় ৷"
           },
           {
-            "textForPage_1": "পরম আদ্রতা\nএকক আয়তনের বায়ুতে যে পরিমাণ জলীয় বাষ্প থাকে তাকে বায়ুর পরম আর্দ্রতা বলে। অর্থাৎ, প্রতি ঘনমিটার আয়তনের বায়ুতে বিদ্যমান জলীয় বাষ্পের ভরই হল পরম আর্দ্রতা। এর একক kg/m³।"
+            "titleText": "শিশিরাঙ্ক",
+            "textForPage_2" : "নির্দিষ্ট তাপমাত্রায় নির্দিষ্ট আয়তনের বায়ুর জলীয়বাষ্প ধারণ করার ক্ষমতা সীমাবদ্ধ ৷ তাপমাত্রা বাড়লে ঐ স্থানের জলীয়বাষ্প ধারণ করার ক্ষমতা বেড়ে যায় ৷ কোনো স্থানের তাপমাত্রা কমলে ঐ স্থানের জলীয়বাষ্প ধারণ ক্ষমতা কমে যায় ৷ তাপমাত্রা ক্রমশ কমতে থাকলে নির্দিষ্ট তাপমাত্রায় বায়ুমন্ডল এ স্থানের জলীয়বাষ্প দ্বারাই সম্পৃক্ত হয় ৷ ঐ তাপমাত্রায় বায়ুতে অবস্থিত জলীয়বাষ্প তখন শিশিরে পরিনত হয় ৷ এই তাপমাত্রাই শিশিরাঙ্ক ৷"
           },
           {
-            "textForPage_1": "আপেক্ষিক আর্দ্রতা\nকোন তাপমাত্রায় কোন আয়তনের বায়ুতে বিদ্যমান জলীয় বাষ্পের ভর এবং ঐ তাপমাত্রায় ঐ আয়তনের বায়ুকে সম্পৃক্ত করতে যে পরিমাণ জলীয় বাষ্প দরকার হয় তার ভরের অনুপাতকে আপেক্ষিক আর্দ্রতা বলে।",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/Humidity/image01.webp",
-            "textForPage_2": "\n∴ আপেক্ষিক আর্দ্রতা,R=(f/F)×100%"
-          },{
-            "textForPage_1": "আর্দ্রতা পরিমাপক যন্ত্র(Hygrometer)",
+            "titleText":"পরম আদ্রতা",
+            "textForPage_1": "একক আয়তনের বায়ুতে যে পরিমাণ জলীয় বাষ্প থাকে তাকে বায়ুর পরম আর্দ্রতা বলে। অর্থাৎ, প্রতি ঘনমিটার আয়তনের বায়ুতে বিদ্যমান জলীয় বাষ্পের ভরই হল পরম আর্দ্রতা। এর একক kg/m³।"
+          },
+          {
+            "titleText": "আপেক্ষিক আর্দ্রতা",
+            "textForPage_1": "কোন তাপমাত্রায় কোন আয়তনের বায়ুতে বিদ্যমান জলীয় বাষ্পের ভর এবং ঐ তাপমাত্রায় ঐ আয়তনের বায়ুকে সম্পৃক্ত করতে যে পরিমাণ জলীয় বাষ্প দরকার হয় তার ভরের অনুপাতকে আপেক্ষিক আর্দ্রতা বলে।",
+            "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/Humidity/image01.webp"
+          },
+          {
+            "titleText": "∴ আপেক্ষিক আর্দ্রতা,R=(f/F)×100%"
+          },
+          {
+            "titleText": "আর্দ্রতা পরিমাপক যন্ত্র(Hygrometer)",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/Humidity/hygrometer(1).webp",
             "textForPage_2": "এ যন্ত্রের সাহায্যে শিশিরাংক বের করা হয়. এখানে θ = শিশিরাংক, G = গ্লেসিয়ার ধ্রুবক.",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/10.Gas/Humidity/hygrometer(2).webp"
