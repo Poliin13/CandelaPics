@@ -153,31 +153,36 @@
         "topicName": "ভেক্টর রাশির লব্ধি নির্ণয়",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "ভেক্টর",
+            "titleText": "ভেক্টর",
             "videoLink" : "https://www.youtube.com/watch?v=ml4NSzCQobk"
           },
           {
             "textForPage_1":"ভেক্টর রাশির লব্ধি নির্ণয় করার উপায়-\n     ক) ত্রিভুজ সূত্র\n     খ)সামান্তরিক সূত্র\n     গ)ঊপাংশের নিয়ম"
           },
-          {
-            "textForPage_1": "সামন্তরিক সূত্রঃ\nকোনো সামন্তরিকের একই বিন্দু হতে অঙ্কিত সন্নিহিত বাহু দুটি যদি কোনো কণার উপর একই সময়ে ক্রিয়ারত দুটি ভেক্টর রাশির মান ও দিক নির্দেশ করে, তা হলে ওই বিন্দু হতে অঙ্কিত সামন্তরিকের কর্ণই এদের লব্ধির মান ও দিক নির্দেশ করে।",
+          { "titleText": "সামন্তরিক সূত্র",
+            "textForPage_1": "কোনো সামন্তরিকের একই বিন্দু হতে অঙ্কিত সন্নিহিত বাহু দুটি যদি কোনো কণার উপর একই সময়ে ক্রিয়ারত দুটি ভেক্টর রাশির মান ও দিক নির্দেশ করে, তা হলে ওই বিন্দু হতে অঙ্কিত সামন্তরিকের কর্ণই এদের লব্ধির মান ও দিক নির্দেশ করে।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/VectorTheory.webp"
           },
           {
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/VectorTheoryFormula.webp"
           },
           {
-            "textForPage_1": "লব্ধি, বিভাজন ও উপাংশ\n\nযেকোনো ভেক্টর রাশিকে দুই ভাগে ভাগ করা যাবে! এই ভেক্টর রাশিকে দুই ভাগে ভাগ করার ঘটনাকে বলা হয় “উপাংশে বিভাজন” ।",
+            "titleText": "লব্ধি, বিভাজন ও উপাংশ",
+            "textForPage_1": "যেকোনো ভেক্টর রাশিকে দুই ভাগে ভাগ করা যাবে! এই ভেক্টর রাশিকে দুই ভাগে ভাগ করার ঘটনাকে বলা হয় “উপাংশে বিভাজন” ।",
             "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(1).webp",
             "textForPage_2": "একটি ভেক্টর দুই ভাগে অর্থাৎ অনুভূমিক উপাংশ এবং লম্বিক উপাংশে ভাগ করতে পারি!",
             "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(2).webp"
           },
           {
-            "textForPage_1": "3D জগতে ভেক্টর\n\nএখানে x অক্ষ এবং y অক্ষ এর পাশাপাশি z অক্ষ ও রয়েছে, যা আমাদের আয়তমাত্রিক জগতকে বুঝতে সাহায্য করে। ",
-            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(4).webp",
-            "textForPage_2": "|OP| = √(x² + y² + z²)\n\nএখন আমরা এই OP ভেক্টরকে |OP| দিয়ে ভাগ করে দিলেই আমাদের উদ্দেশ্য সফল হবে, অর্থাৎ\n",
-            "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(5).webp",
-            "textForPage_3": "এই ভেক্টর রাশিকে বলে একক ভেক্টর!"
+            "titleText": "3D জগতে ভেক্টর",
+            "textForPage_1": "এখানে x অক্ষ এবং y অক্ষ এর পাশাপাশি z অক্ষ ও রয়েছে, যা আমাদের আয়তমাত্রিক জগতকে বুঝতে সাহায্য করে। ",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(4).webp"
+          },
+          {
+            "titleText": "|OP| = √(x² + y² + z²)",
+            "textForPage_1": "এখন আমরা এই OP ভেক্টরকে |OP| দিয়ে ভাগ করে দিলেই আমাদের উদ্দেশ্য সফল হবে, অর্থাৎ\n",
+            "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/02.Vector/ResultantTheory(5).webp",
+            "textForPage_2": "এই ভেক্টর রাশিকে বলে একক ভেক্টর!"
           }
         ],
         "dataForExampleTab": [
@@ -255,7 +260,15 @@
         "topicName": "ভেক্টর গুন",
         "dataForTheoryTab": [
           {
-            "textForPage_1": "ভেক্টর গুন দুই রকম-\n     ক) ডট গুণন\n     খ) ক্রস গুণন\n\nডট গুণ/স্কেলার গুণ\nদুটি ভেক্টর রাশির গুণফল যদি একটি স্কেলার হয় তবে তাকে ডট গুণ অথবা স্কেলার গুণ বলা হয়ে থাকে। এবং এই গুণফলের মান রাশিদ্বয়ের মান এবং এদের অন্তর্গত কোণের কোসাইনের (cosine) গুণফলের সমান। গাণিতিকভাবে এটিকে নিম্নরূপে উপস্থাপন করা যায়-\n\nA.B = |A||B| cos(x)\n\nক্রস গুণন/ভেক্টর গুণন\nদুটি ভেক্টর রাশির গুণফল যদি একটি ভেক্টর হয় তবে তাকে ক্রস গুণন অথবা ভেক্টর গুণন বলা হয়ে থাকে।এবং এই গুণফলের মান রাশিদ্বয়ের মান এসং এদের অন্তর্গত কোণের sine-এর গুণফলের সমান। এবং এই গুণফল এর দিক ডানহাতি স্ক্রু-র নিয়ম অনুসরন করে। গাণিতিক ভাবে এটিকে নিম্নরূপে উপস্থাপন করা যায়-\n\nAxB = |A||B|sin(x). η"
+            "titleText": "ভেক্টর গুন দুই রকম-\n     ক) ডট গুণন\n     খ) ক্রস গুণন\n\nডট গুণ/স্কেলার গুণ(Scalar Multiplication)",
+            "textForPage_1": "দুটি ভেক্টর রাশির গুণফল যদি একটি স্কেলার হয় তবে তাকে ডট গুণ অথবা স্কেলার গুণ বলা হয়ে থাকে। এবং এই গুণফলের মান রাশিদ্বয়ের মান এবং এদের অন্তর্গত কোণের কোসাইনের (cosine) গুণফলের সমান। গাণিতিকভাবে এটিকে নিম্নরূপে উপস্থাপন করা যায়-"
+          },
+          {
+            "titleText": "A.B = |A||B| cos(x)\n\nক্রস গুণন/ভেক্টর গুণন(Vector Multiplication)",
+            "textForPage_1": "দুটি ভেক্টর রাশির গুণফল যদি একটি ভেক্টর হয় তবে তাকে ক্রস গুণন অথবা ভেক্টর গুণন বলা হয়ে থাকে।এবং এই গুণফলের মান রাশিদ্বয়ের মান এসং এদের অন্তর্গত কোণের sine-এর গুণফলের সমান। এবং এই গুণফল এর দিক ডানহাতি স্ক্রু-র নিয়ম অনুসরন করে। গাণিতিক ভাবে এটিকে নিম্নরূপে উপস্থাপন করা যায়-"
+          },
+          {
+            "titleText": "AxB = |A||B|sin(x). η"
           }
         ],
         "dataForExampleTab": [
