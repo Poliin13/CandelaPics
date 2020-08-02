@@ -4212,17 +4212,18 @@
             "topicName": "কুলম্বের সূত্র",
             "dataForTheoryTab": [
               {
-                "textForPage_1":"কুলম্বের সূত্র",
+                "titleText":"কুলম্বের সূত্র",
                 "videoLink": "https://www.youtube.com/watch?v=a4fd2HhD7h4"
               },
               {
-                "textForPage_1": "কুলম্বের সূত্র \nনির্দিষ্ট মাধ্যমে দুটি বিন্দু আধান এর মধ্যে ক্রিয়াশীল আকর্ষণ বা বিকর্ষণ বলের মান আধানদ্বয়ের গুণফলের সমানুপাতিক, এদের মধ্যবর্তী দূরত্বের বর্গের ব্যস্তানুপাতিক এবং এই বল আধানদ্বয়ের সংযোজক সরলরেখা বরাবর ক্রিয়া করে।",
+                "titleText":"কুলম্বের সূত্র",
+                "textForPage_1": "নির্দিষ্ট মাধ্যমে দুটি বিন্দু আধান এর মধ্যে ক্রিয়াশীল আকর্ষণ বা বিকর্ষণ বলের মান আধানদ্বয়ের গুণফলের সমানুপাতিক, এদের মধ্যবর্তী দূরত্বের বর্গের ব্যস্তানুপাতিক এবং এই বল আধানদ্বয়ের সংযোজক সরলরেখা বরাবর ক্রিয়া করে।",
                 "imageName_1" : "images/staticElectricity/CulombsLaw/culombs_Law_1.webp",
                 "textForPage_2" : "ধরে নেই, একটা মাধ্যমে d দুরত্বে দুটি আধান q1 ও q2 রাখা। যেহেতু, দূরত্বের তুলনায় তাদের আকার অনেক ছোট কাজেই তারা বিন্দু আধান। দুটি আধানই নিজেদের উপর F বল প্রয়োগ করবে।",
                 "imageName_2" : "images/staticElectricity/CulombsLaw/culombs_Law_2.webp"
               },
               {
-                "textForPage_1": "কুলম্বের সূত্রের গাণিতিক প্রকাশ",
+                "titleText": "কুলম্বের সূত্রের গাণিতিক প্রকাশ",
                 "imageName_1" : "images/staticElectricity/CulombsLaw/culombs_law_equation.webp",
                 "textForPage_2" : "K হচ্ছে সমানুপাতিক ধ্রুবক যা কুলম্ব ধ্রুবক (Coulomb's Constant) নামে পরিচিত। ধ্রুবকটি মাধ্যমের প্রকৃতি ও যথাক্রমে F, d, ও q এর এককের উপর নির্ভর করে। একে লেখা যায়\n",
                 "imageName_2" : "images/staticElectricity/CulombsLaw/k.webp",
@@ -4258,11 +4259,11 @@
             "topicName": "তড়িৎক্ষেত্র",
             "dataForTheoryTab": [
               {
-                "textForPage_1": "তড়িৎক্ষেত্র",
+                "titleText": "তড়িৎক্ষেত্র",
                 "videoLink": "https://www.youtube.com/watch?v=LB8Rhcb4eQM"
               },
               {
-                "textForPage_1": "তড়িৎক্ষেত্র ",
+                "titleText": "তড়িৎক্ষেত্র ",
                 "imageName_1" : "images/staticElectricity/ElectricField/Electric_field_1.gif",
                 "textForPage_2" : "একটি চার্জিত বস্তু তার চারদিকে যতদুর পর্যন্ত তার প্রভাব বিস্তার করে বা অন্য একটি চার্জের উপর আকর্ষন বা বিকর্ষন বল প্রয়োগ করে সেই অঞ্চলকে চার্জিত বস্তুর তড়িৎক্ষেত্র বলে।"
               },
@@ -4283,7 +4284,7 @@
                 "imageName_3" : "images/staticElectricity/ElectricField/E_equation_1.webp"
               },
               {
-                "textForPage_1": "বিভবের স্কেলার ধর্ম",
+                "titleText": "বিভবের স্কেলার ধর্ম",
                 "textForPage_2" : "বল একটি ভেক্টর রাশি। তাই তড়িৎ প্রাবল্য একটি ভেক্টর রাশি। তাই এর যোগ ভেক্টর যোগের নিয়ম অনুসারে হয়। অর্থাৎ,",
                 "imageName_2": "images/staticElectricity/ElectricField/e_vector.webp"
               }
@@ -4329,24 +4330,24 @@
             "topicName": "তড়িৎ ক্ষেত্রের বিভব",
             "dataForTheoryTab": [
               {
-                "textForPage_1":"তড়িৎ ক্ষেত্রের বিভব",
+                "titleText":"তড়িৎ ক্ষেত্রের বিভব",
                 "videoLink": "https://www.youtube.com/watch?v=SNlOPxZ-Ev4&t=5s"
               },
               {
-                "textForPage_1": "তড়িৎ ক্ষেত্রের বিভব",
+                "titleText": "তড়িৎ ক্ষেত্রের বিভব",
                 "imageName_1" : "images/staticElectricity/PotentialEnergy/potentialEnergy1.gif",
                 "textForPage_2" : "অসীম দূরত্ব থেকে একটি একক ধনাত্মক আধানকে তড়িৎক্ষেত্রের কোনো বিন্দুতে আনতে যে পরিমান কার্য করতে হয় তাকে তড়িৎক্ষেত্রের ওই বিন্দুতে তড়িৎবিভব (Electric Potential) বলে।",
                 "imageName_2" : "images/staticElectricity/PotentialEnergy/potentialEnergy2.gif",
                 "textForPage_3": "যদি অসীম বা শূণ্য বিভবের স্থান থেকে q ধণাত্মক চার্জ তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে W পরিমাণ কাজ করতে হয় তাহলে,\nW = V × q\nঅর্থাৎ, সম্পাদিত কার্য = বিভব × আধান"
               },
               {
-                "textForPage_1": "বিভবের গাণিতিক প্রকাশ",
+                "titleText": "বিভবের গাণিতিক প্রকাশ",
                 "imageName_1" : "images/staticElectricity/PotentialEnergy/V_equation(1).webp",
                 "textForPage_2" : "বিভবের SI একক হল ভোল্ট [volt]। যদি অসীম বা শূণ্য বিভবের স্থান থেকে q ধণাত্মক চার্জ তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে W পরিমাণ কাজ করতে হয় তাহলে অসীম বা শূণ্য বিভবের স্থান থেকে যদি 1C(কুলম্ব) ধণাত্মক চার্জকে তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে 1J(জুল) কাজ করতে হয় তাহলে ঐ বিন্দুর বিভবকে 1V(ভোল্ট) বলে।",
                 "imageName_2" : "images/staticElectricity/PotentialEnergy/V_equation(2).webp"
               },
               {
-                "textForPage_1": "বিভবের স্কেলার ধর্ম",
+                "titleText": "বিভবের স্কেলার ধর্ম",
                 "textForPage_2" : "কাজ একটি স্কেলার রাশি। তাই বিভবও একটি স্কেলার রাশি। তাই এর যোগ স্কেলার নিয়ম অনুসারে হয়। অর্থাৎ,",
                 "imageName_2" : "images/staticElectricity/PotentialEnergy/V_scalar.webp"
               }
