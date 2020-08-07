@@ -4206,7 +4206,7 @@
       {
         "chapterNumber": "প্রথম অধ্যায়",
         "chapterName": "তাপগতিবিদ্যা",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.01.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.01.Thermodynamics/Ch.01.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4497,7 +4497,7 @@
       {
         "chapterNumber": "তৃতীয় অধ্যায়",
         "chapterName": "চল তড়িৎ",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.03.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.03.CurrentElectricity/Ch.03.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4558,7 +4558,7 @@
       {
         "chapterNumber": "চতুর্থ অধ্যায়",
         "chapterName": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.04.Icon.webp",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.04.Magnetism/Ch.04.Icon.webp",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4619,7 +4619,7 @@
       {
         "chapterNumber": "পঞ্চম অধ্যায়",
         "chapterName": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.05.Icon.webp",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.05.MagneticInduction/Ch.05.Icon.webp",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4680,7 +4680,7 @@
       {
         "chapterNumber": "ষষ্ঠ অধ্যায়",
         "chapterName": "জ্যামিতিক আলোকবিজ্ঞান",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.06.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.06.GeometricOptics/Ch.06.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4741,7 +4741,7 @@
       {
         "chapterNumber": "সপ্তম অধ্যায়",
         "chapterName": "ভৌত আলোকবিজ্ঞান",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.07.Icon.webp",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.07.PhysicalOptics/Ch.07.Icon.webp",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4802,7 +4802,7 @@
       {
         "chapterNumber": "অষ্টম অধ্যায়",
         "chapterName": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.08.Icon.webp",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.08.ModernPhysics/Ch.08.Icon.webp",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4863,7 +4863,7 @@
       {
         "chapterNumber": "নবম অধ্যায়",
         "chapterName": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.09.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.09.AtomicModel/Ch.09.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4924,7 +4924,7 @@
       {
         "chapterNumber": "দশম অধ্যায়",
         "chapterName": "সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.10.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.10.Electronics/Ch.10.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
@@ -4985,7 +4985,7 @@
       {
         "chapterNumber": "একাদশ অধ্যায়",
         "chapterName": "জ্যোতির্বিজ্ঞান",
-        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.11.Icon.gif",
+        "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.11.Astronomy/Ch.11.Icon.gif",
         "topicsData": [
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
