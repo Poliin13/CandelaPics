@@ -100,14 +100,15 @@
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
-              "dataForExampleTab": [
-                {
-                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
-                }
-              ]
+                "dataForTheoryTab": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+                  }
+                ]
               }
             ]
           }
+        ]
       }
     ]
   }
@@ -115,3 +116,6 @@
 
 
 
+{
+  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+}
