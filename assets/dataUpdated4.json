@@ -95,6 +95,95 @@
                 ]
               }
             ]
+          },
+          {
+            "topicName": "ত্রুটি পরিমাপ",
+            "dataForPage": [
+              {
+                "dataForTheoryTab": [
+                  {
+                    "titleText": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                  },
+                  {
+                    "titleText": "স্ফেরোমিটার(Spherometer)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
+                    "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                  }
+                ]
+              },
+              {
+                "dataForTheoryTab": [
+                  {
+                    "titleText": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                  },
+                  {
+                    "titleText": "স্ফেরোমিটার(Spherometer)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
+                    "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                  }
+                ]
+              },
+              {
+                "dataForTheoryTab": [
+                  {
+                    "titleText": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                  },
+                  {
+                    "titleText": "স্ফেরোমিটার(Spherometer)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
+                    "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                  }
+                ]
+              },
+              {
+                "dataForTheoryTab": [
+                  {
+                    "titleText": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                  },
+                  {
+                    "titleText": "স্ফেরোমিটার(Spherometer)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
+                    "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                  },
+                  {
+                    "titleText": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+                    "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
