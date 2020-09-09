@@ -95,7 +95,7 @@
             "option3": "<div>(গ)$\\overrightarrow{\\mathrm{AB}}$ + $\\overrightarrow{\\mathrm{AC}}$ =$\\overrightarrow{\\mathrm{BC}}$</div>",
             "option4": "<div>(ঘ)$\\overrightarrow{\\mathrm{AC}}$ - $\\overrightarrow{\\mathrm{AB}}$ =$\\overrightarrow{\\mathrm{CB}}$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>12.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/12.webp"
         },
         {
             "mcqQuestion": "<div>13. চিত্রানুযায়ী $\\overrightarrow{\\mathrm{Q}}$ এর উপর$\\overrightarrow{\\mathrm{P}}$ এর অভিক্ষেপ কত?</div>",
@@ -104,7 +104,7 @@
             "option3": "<div>(গ)$\\frac{\\overrightarrow{P}.\\overrightarrow{Q}}{P}$</div>",
             "option4": "<div>(ঘ)$\\frac{\\overrightarrow{P}\\times \\overrightarrow{Q}}{P}$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>13.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/13.webp"
         },
         {
             "mcqQuestion": "<div>14. $\\overrightarrow{\\mathrm{M}}$ ও $\\overrightarrow{\\mathrm{N}}$ ভেক্টরদ্বারা গঠিত তলের উপর লম্ব একক ভেক্টর-</div>",
@@ -121,7 +121,7 @@
             "option3": "<div>(গ) 9N</div>",
             "option4": "<div>(ঘ) 11.2N</div>",
             "mcqAnswer": "b",
-            "mcqImage": "15.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/15.webp"
         },
         {
             "mcqQuestion": "<div>16.উদ্দীপকের আলোকে কোনটি সঠিক?</div>",
@@ -130,7 +130,7 @@
             "option3": "<div>(গ)$\\overrightarrow{L}$ + $\\overrightarrow{M}$ - $\\overrightarrow{N}$ = 0</div>",
             "option4": "<div>(ঘ)$\\overrightarrow{M}$ + $\\overrightarrow{N}$ - $\\overrightarrow{L}$ = 0</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>16.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/16.webp"
         },
         {
             "mcqQuestion": "<div>17. ${\\left|\\overrightarrow{A}\\times \\overrightarrow{B}\\right|}^2$ = নিচেরকোনটি?</div>",
@@ -203,7 +203,7 @@
             "option3": "<div>(গ) 13.23N</div>",
             "option4": "<div>(ঘ) 11.23N</div>",
             "mcqAnswer": "c",
-            "mcqImage": "25.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/25.webp"
         },
         {
             "mcqQuestion": "<div>26.উপরের চিত্রে দুটি ভেক্টর $\\overrightarrow{\\mathrm{A}}$ ও$\\overrightarrow{\\mathrm{B}}$ এর প্রত্যেকের মান 5 একক।তাদের মধ্যকার কোণ60${}^{0}$।$\\left|\\overrightarrow{\\mathrm{A}}-\\overrightarrow{\\mathrm{B}}\\right|$নির্ণয় কর।</div>",
@@ -212,7 +212,7 @@
             "option3": "<div>(গ) 7.07 একক</div>",
             "option4": "<div>(ঘ) 8.66 একক</div>",
             "mcqAnswer": "a",
-            "mcqImage": "26.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/26.webp"
         },
         {
             "mcqQuestion": "<div>27. $\\overrightarrow{\\mathrm{A}}=$(px+y)$\\hat{i}$+ (y-2z)$\\\\hat{j}$+(x+3z)$\\ \\hat{k}$ ভেক্টরটি সলিনয়ডাল হবে যদি p =?</div>",
@@ -277,7 +277,7 @@
             "option3": "<div>(গ) P sin$\\theta $</div>",
             "option4": "<div>(ঘ) O sin$\\theta $</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>34.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/34.webp"
         },
         {
             "mcqQuestion": "<div>35.চিত্রটি একটি ভেক্টর ক্ষেত্রের ডাইভারজেন্স হলে কোনটি সঠিক?</div>",
@@ -286,7 +286,7 @@
             "option3": "<div>(গ)$\\overrightarrow{\\mathrm{\\nabla }}.\\overrightarrow{\\mathrm{V}}=^'+'ve$</div>",
             "option4": "<div>(ঘ)$\\overrightarrow{\\mathrm{\\nabla }}.\\overrightarrow{\\mathrm{V}}=^'-'ve$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "35.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/35.webp"
         },
         {
             "mcqQuestion": "<div>36. $\\overrightarrow{\\mathrm{A}}$ ও $\\overrightarrow{\\mathrm{B}}$ কেসন্নিহিত বাহু ধরে অঙ্কিত ত্রিভূজের ক্ষেত্রফল-</div>",
@@ -431,7 +431,7 @@
             "option3": "<div>(গ)$\\frac{\\hat{i}+\\hat{j}}{2}$</div>",
             "option4": "<div>(ঘ)$\\frac{\\hat{j}-\\hat{i}}{2}$</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>53.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/53.webp"
         },
         {
             "mcqQuestion": "<div>54. ABCD সামান্তরিকটির ক্ষেত্রফল কত?</div>",
@@ -448,7 +448,7 @@
             "option3": "<div>(গ)$\\hat{i}+\\hat{k}$</div>",
             "option4": "<div>(ঘ)$\\hat{i}$+$\\hat{j}+\\hat{k}$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>55.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/55.webp"
         },
         {
             "mcqQuestion": "<div>56. OABC ক্ষেত্রের ক্ষেত্রফল-</div>",
@@ -497,7 +497,7 @@
             "option3": "<div>(গ) 11.22</div>",
             "option4": "<div>(ঘ) 11.52</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>61.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/61.webp"
         },
         {
             "mcqQuestion": "<div>62. নৌকাটির ক্ষেত্রে কোনটি প্রযোজ্য?</div>",
@@ -1066,7 +1066,7 @@
             "option3": "<div>(গ) 64</div>",
             "option4": "<div>(ঘ) 88.04</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>134.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/134.webp"
         },
         {
             "mcqQuestion": "<div>133. OS = ?</div>",
@@ -1155,7 +1155,7 @@
             "option3": "<div>(গ) 1.25</div>",
             "option4": "<div>(ঘ) 14.25</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>143.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/143.webp"
         },
         {
             "mcqQuestion": "<div>144. $\\overrightarrow{A}$-$\\overrightarrow{B}$ =?</div>",
@@ -1484,7 +1484,7 @@
             "option3": "<div>(গ) 3N</div>",
             "option4": "<div>(ঘ) 1N</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>184.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/184.webp"
         },
         {
             "mcqQuestion": "<div>185. একটি প্রাস 10ms${}^{-1}$ বেগে ভূমির সাথে 40${}^{0}$ কোণে চললে অনুভূমিকবরাবর বেগের উপাংশ কত?</div>",
@@ -1949,7 +1949,7 @@
             "option3": "<div>(গ) 69${}^{0}$</div>",
             "option4": "<div>(ঘ) 79${}^{0}$</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>243.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/243.webp"
         },
         {
             "mcqQuestion": "<div>243. $\\overrightarrow{A}$.$\\ \\overrightarrow{B}$ = কত?</div>",
@@ -1998,7 +1998,7 @@
             "option3": "<div>(গ)$\\hat{k}$+$\\hat{i}$</div>",
             "option4": "<div>(ঘ)$\\hat{i}$+$\\hat{j}$+$\\hat{k}$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>248.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/248.webp"
         },
         {
             "mcqQuestion": "<div>249. OABC ক্ষেত্রের ক্ষেত্রফল কত?</div>",
@@ -2111,7 +2111,7 @@
             "option3": "<div>(গ) $\\frac{sin\\theta }{cos\\theta }$</div>",
             "option4": "<div>(ঘ) $\\frac{cos\\theta }{sin\\theta }$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>262.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/262.webp"
         },
         {
             "mcqQuestion": "<div>263. B cos$\\theta $ হচ্ছে-<br>i. $\\overrightarrow{A}$ এর দিকে $\\overrightarrow{B}$ এর উপাংশ<br>ii. $\\overrightarrow{B}$ এর দিকে $\\overrightarrow{A}$ এর উপাংশ<br>iii. $\\overrightarrow{A}$ এর উপর $\\overrightarrow{B}$ এর লম্ব অভিক্ষেপ<br>নিচের কোনটি সঠিক?</div>",
@@ -2360,7 +2360,7 @@
             "option3": "<div>(গ) ii ও iii</div>",
             "option4": "<div>(ঘ) i, ii ও iii</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>294.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/294.webp"
         },
         {
             "mcqQuestion": "<div>$\\overrightarrow{A}$ ও $\\overrightarrow{B}$ ভেক্টরদ্বয় পরস্পর O বিন্দুতে$\\theta $ কোণে ক্রিয়াশীল। এদের স্কেলার গুণন A.B এবং ভেক্টর গুণনA$\\mathrm{\\times}$B দ্বারা প্রকাশ করা হয়।<br>তথ্যটি থেকে 295 ও 296নং প্রশ্নের উত্তর দাও:<br>295. $\\overrightarrow{A}$= -$\\overrightarrow{B}$ হলে $\\overrightarrow{A}$ ও$\\overrightarrow{B}$ এর মান 0 (শূন্য) হলে যখন ভেক্টরদ্বয়ের মধ্যবর্তী কোণ-</div>",
@@ -2745,7 +2745,7 @@
             "option3": "<div>(গ) R = Q cos $\\propto $</div>",
             "option4": "<div>(ঘ) Q = R cos $\\propto $</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>12-2.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Mcq/12-2.webp"
         },
         {
             "mcqQuestion": "<div>13. একক ভেক্টরের ক্ষেত্রে নিচের কোনটি সঠিক?</div>",

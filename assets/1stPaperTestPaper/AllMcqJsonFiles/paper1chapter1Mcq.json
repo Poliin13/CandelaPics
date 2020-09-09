@@ -41,11 +41,11 @@
             "mcqAnswer": "d"
         },
         {
-            "mcqQuestion": "<div>6. একটি বৃত্তের পরিমাপ্য ব্যাসার্ধ (5 $\\pm $ 2\\%) cm হলে ক্ষেত্রফল পরিমাপেশতকরা কত ত্রুটি?</div>",
-            "option1": "<div>(ক) 0.8\\%</div>",
-            "option2": "<div>(খ) 0.5\\%</div>",
-            "option3": "<div>(গ) 0.4\\%</div>",
-            "option4": "<div>(ঘ) 0.2\\%</div>",
+            "mcqQuestion": "<div>6. একটি বৃত্তের পরিমাপ্য ব্যাসার্ধ (5 $\\pm $ 2%) cm হলে ক্ষেত্রফল পরিমাপেশতকরা কত ত্রুটি?</div>",
+            "option1": "<div>(ক) 0.8%</div>",
+            "option2": "<div>(খ) 0.5%</div>",
+            "option3": "<div>(গ) 0.4%</div>",
+            "option4": "<div>(ঘ) 0.2%</div>",
             "mcqAnswer": "a"
         },
         {
@@ -106,18 +106,18 @@
         },
         {
             "mcqQuestion": "<div>14. কোনো গোলকের ব্যাসার্ধের প্রকৃত মান 3cm এবং পরিমাপ্য মান 2.98cm। গোলকটিরআয়তন পরিমাপে শতকরা ত্রুটি কত?</div>",
-            "option1": "<div>(ক) 0.02\\%</div>",
-            "option2": "<div>(খ) 0.066\\%</div>",
-            "option3": "<div>(গ) 0.66\\%</div>",
-            "option4": "<div>(ঘ) 2\\%</div>",
+            "option1": "<div>(ক) 0.02%</div>",
+            "option2": "<div>(খ) 0.066%</div>",
+            "option3": "<div>(গ) 0.66%</div>",
+            "option4": "<div>(ঘ) 2%</div>",
             "mcqAnswer": "d"
         },
         {
             "mcqQuestion": "<div>15. একটি গোলকের ব্যাসার্ধ d - (10 $\\pm $ 0.1) cm হলে, এর আয়তনের শতকরাত্রুটি কত?</div>",
-            "option1": "<div>(ক) 1\\%</div>",
-            "option2": "<div>(খ) 2\\%</div>",
-            "option3": "<div>(গ) 3\\%</div>",
-            "option4": "<div>(ঘ) 4\\%</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 3%</div>",
+            "option4": "<div>(ঘ) 4%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -178,10 +178,10 @@
         },
         {
             "mcqQuestion": "<div>23. V নির্ণয়ে ত্রুটি হবে-</div>",
-            "option1": "<div>(ক) 1\\%</div>",
-            "option2": "<div>(খ) 2\\%</div>",
-            "option3": "<div>(গ) 4\\%</div>",
-            "option4": "<div>(ঘ) 6\\%</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 4%</div>",
+            "option4": "<div>(ঘ) 6%</div>",
             "mcqAnswer": "d"
         },
         {
@@ -242,10 +242,10 @@
         },
         {
             "mcqQuestion": "<div>31. একটি গোলকের পরিমাপ্য ব্যাসার্ধ (2.5 $\\pm $ 0.2) cm হলে এর আয়তন পরিমাপেশতকরা ত্রুটি কত?</div>",
-            "option1": "<div>(ক) 0.08\\%</div>",
-            "option2": "<div>(খ) 0.24\\%</div>",
-            "option3": "<div>(গ) 8\\%</div>",
-            "option4": "<div>(ঘ) 24\\%</div>",
+            "option1": "<div>(ক) 0.08%</div>",
+            "option2": "<div>(খ) 0.24%</div>",
+            "option3": "<div>(গ) 8%</div>",
+            "option4": "<div>(ঘ) 24%</div>",
             "mcqAnswer": "d"
         },
         {
@@ -313,7 +313,7 @@
             "mcqAnswer": "d"
         },
         {
-            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\pm $ 2\\%) এবং আয়তন (100 $\\pm $ 3\\% m${}^{3}$)<br>নির্দেশনার আলোকে 40 ও 41নং প্রশ্নের উত্তর দাও:<br>40. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
+            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\pm $ 2%) এবং আয়তন (100 $\\pm $ 3% m${}^{3}$)<br>নির্দেশনার আলোকে 40 ও 41নং প্রশ্নের উত্তর দাও:<br>40. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
             "option1": "<div>(ক) 10</div>",
             "option2": "<div>(খ) 5</div>",
             "option3": "<div>(গ) 0.5</div>",
@@ -1095,7 +1095,7 @@
             "option3": "<div>(গ)$\\frac{3}{4}\\pi \\ r^3$</div>",
             "option4": "<div>(ঘ)$\\pi \\ r^3$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>137.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Mcq/137.webp"
         },
         {
             "mcqQuestion": "<div>138. ক ও খ চিত্রের আয়তনের অনুপাত-</div>",
@@ -1152,7 +1152,7 @@
             "option3": "<div>(গ) A বিন্দুতে ঝুলিয়ে</div>",
             "option4": "<div>(ঘ) B বিন্দুতে ঝুলিয়ে</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>144.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Mcq/144.webp"
         },
         {
             "mcqQuestion": "<div>145. AB দণ্ডটির মধ্যস্থলে ত্রিকোণাকৃতির যে বস্তুটি থাকে সেটি কিসের তৈরি?</div>",
@@ -1555,11 +1555,11 @@
             "mcqAnswer": "a"
         },
         {
-            "mcqQuestion": "<div>195. কোন গোলকের ব্যাসার্ধ নির্ণয়ে 0.3\\% ত্রুটি হয়। ঐ গোলকের ক্ষেত্রফলনির্ণয়ে সর্বোচ্চ শতকরা কত ত্রুটি হতে পারে?</div>",
-            "option1": "<div>(ক) 0.9\\%</div>",
-            "option2": "<div>(খ) 0.6\\%</div>",
-            "option3": "<div>(গ) 0.09\\%</div>",
-            "option4": "<div>(ঘ) 0.06\\%</div>",
+            "mcqQuestion": "<div>195. কোন গোলকের ব্যাসার্ধ নির্ণয়ে 0.3% ত্রুটি হয়। ঐ গোলকের ক্ষেত্রফলনির্ণয়ে সর্বোচ্চ শতকরা কত ত্রুটি হতে পারে?</div>",
+            "option1": "<div>(ক) 0.9%</div>",
+            "option2": "<div>(খ) 0.6%</div>",
+            "option3": "<div>(গ) 0.09%</div>",
+            "option4": "<div>(ঘ) 0.06%</div>",
             "mcqAnswer": "b"
         },
         {
@@ -1580,50 +1580,50 @@
         },
         {
             "mcqQuestion": "<div>198. কোন একটি দন্ডের পরিমাপকৃত দৈর্ঘ্য 10cm এবং প্রকৃত মান 10.40cm হলেপরিমাপের শতকরা ত্রুটি কত?</div>",
-            "option1": "<div>(ক)4\\%</div>",
-            "option2": "<div>(খ) 3.84\\%</div>",
-            "option3": "<div>(গ) 0.398\\%</div>",
-            "option4": "<div>(ঘ) 0.04\\%</div>",
+            "option1": "<div>(ক)4%</div>",
+            "option2": "<div>(খ) 3.84%</div>",
+            "option3": "<div>(গ) 0.398%</div>",
+            "option4": "<div>(ঘ) 0.04%</div>",
             "mcqAnswer": "a"
         },
         {
             "mcqQuestion": "<div>199. একটি গোলকের ব্যাসার্ধ (7.5 $\\pm $ 0.3) cm। গোলকের আয়তন নির্ণয়ে শতকরাত্রুটি কত?</div>",
-            "option1": "<div>(ক) 4\\%</div>",
-            "option2": "<div>(খ) 6\\%</div>",
-            "option3": "<div>(গ) 12\\%</div>",
-            "option4": "<div>(ঘ) 24\\%</div>",
+            "option1": "<div>(ক) 4%</div>",
+            "option2": "<div>(খ) 6%</div>",
+            "option3": "<div>(গ) 12%</div>",
+            "option4": "<div>(ঘ) 24%</div>",
             "mcqAnswer": "c"
         },
         {
             "mcqQuestion": "<div>200. 1cm দৈর্ঘ্য পরিমাপে ভুলের পরিমাণ 2mm হলে ভুলের শতকরা হার কত?</div>",
-            "option1": "<div>(ক) 10\\%</div>",
-            "option2": "<div>(খ) 15\\%</div>",
-            "option3": "<div>(গ) 20\\%</div>",
-            "option4": "<div>(ঘ) 25\\%</div>",
+            "option1": "<div>(ক) 10%</div>",
+            "option2": "<div>(খ) 15%</div>",
+            "option3": "<div>(গ) 20%</div>",
+            "option4": "<div>(ঘ) 25%</div>",
             "mcqAnswer": "c"
         },
         {
             "mcqQuestion": "<div>201. একটি গোলকের পরিমাপ্য ব্যাসার্ধ R = 5.3 $\\pm $ 0.1 হলে আয়তনে শতকরাত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 2.5\\%</div>",
-            "option2": "<div>(খ) 5.7\\%</div>",
-            "option3": "<div>(গ) 8.2\\%</div>",
-            "option4": "<div>(ঘ) 10\\%</div>",
+            "option1": "<div>(ক) 2.5%</div>",
+            "option2": "<div>(খ) 5.7%</div>",
+            "option3": "<div>(গ) 8.2%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
             "mcqAnswer": "b"
         },
         {
             "mcqQuestion": "<div>202. পদার্থ বিজ্ঞান ল্যাবরেটরিতে তুমি সরল দোলকের সাহায্যে g এর মান নির্ণয়করে পেয়েছ 9.89ms${}^{-2}$g এর প্রকৃত মান 9.81ms${}^{-2}$ ধরে তোমার প্রাপ্তমানের শতকরা ত্রুটি নির্ণয় কর।</div>",
-            "option1": "<div>(ক) 1.008\\%</div>",
-            "option2": "<div>(খ) 0.991\\%</div>",
-            "option3": "<div>(গ) 0.08\\%</div>",
-            "option4": "<div>(ঘ) 0.815\\%</div>",
+            "option1": "<div>(ক) 1.008%</div>",
+            "option2": "<div>(খ) 0.991%</div>",
+            "option3": "<div>(গ) 0.08%</div>",
+            "option4": "<div>(ঘ) 0.815%</div>",
             "mcqAnswer": "d"
         },
         {
             "mcqQuestion": "<div>203. একটি গোলকের পরিমাপ্য ব্যাসার্ধ, R = 10 $\\pm $ .1 হলে এর আয়তনের শতকরাত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 1\\%</div>",
-            "option2": "<div>(খ) 2\\%</div>",
-            "option3": "<div>(গ) 3\\%</div>",
-            "option4": "<div>(ঘ) 10\\%</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 3%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -1636,10 +1636,10 @@
         },
         {
             "mcqQuestion": "<div>205. একটি রাশির প্রকৃত মান x এবং পরিমাপ মান y হলে ত্রুটির শতকরা হার কত হবে?</div>",
-            "option1": "<div>(ক) $\\frac{x-y}{x}\\times 100\\%$</div>",
-            "option2": "<div>(খ)$\\frac{x+y}{x}\\times 100\\%$</div>",
-            "option3": "<div>(গ)$\\frac{x\\approx y}{x}\\times 100\\%$</div>",
-            "option4": "<div>(ঘ)$\\frac{x\\approx y}{x}\\times 100\\%$</div>",
+            "option1": "<div>(ক) $\\frac{x-y}{x}\\times 100%$</div>",
+            "option2": "<div>(খ)$\\frac{x+y}{x}\\times 100%$</div>",
+            "option3": "<div>(গ)$\\frac{x\\approx y}{x}\\times 100%$</div>",
+            "option4": "<div>(ঘ)$\\frac{x\\approx y}{x}\\times 100%$</div>",
             "mcqAnswer": "d"
         },
         {
@@ -1667,7 +1667,7 @@
             "mcqAnswer": "b"
         },
         {
-            "mcqQuestion": "<div>209. 2mm প্রস্থচ্ছেদ বিশিষ্ট একটি তারের দৈর্ঘ্য 10m; তারটিকে 1kg ওজনের বলদ্বারা টানা হয়, এতে তারটির দৈর্ঘ্য 0.001\\% হয়। উদ্দীপকের তারের দৈর্ঘ্যকতটুকু বৃদ্ধি করতে হয়েছে?</div>",
+            "mcqQuestion": "<div>209. 2mm প্রস্থচ্ছেদ বিশিষ্ট একটি তারের দৈর্ঘ্য 10m; তারটিকে 1kg ওজনের বলদ্বারা টানা হয়, এতে তারটির দৈর্ঘ্য 0.001% হয়। উদ্দীপকের তারের দৈর্ঘ্যকতটুকু বৃদ্ধি করতে হয়েছে?</div>",
             "option1": "<div>(ক) 1$\\mathrm{\\times}$10${}^{-5}$m</div>",
             "option2": "<div>(খ) 1$\\mathrm{\\times}$10${}^{-4}$m</div>",
             "option3": "<div>(গ)1$\\mathrm{\\times}$10${}^{-3}$m</div>",
@@ -1788,10 +1788,10 @@
         },
         {
             "mcqQuestion": "<div>224. রাফির ত্রুটির হার কত?</div>",
-            "option1": "<div>(ক) 1\\%</div>",
-            "option2": "<div>(খ) 2\\%</div>",
-            "option3": "<div>(গ) 10\\%</div>",
-            "option4": "<div>(ঘ) 20\\%</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 10%</div>",
+            "option4": "<div>(ঘ) 20%</div>",
             "mcqAnswer": "d"
         },
         {
@@ -1803,7 +1803,7 @@
             "mcqAnswer": "c"
         },
         {
-            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\boldsymbol{\\pm }$ 2\\%) এবং আয়তন(100m${}^{3}$ }$\\boldsymbol{\\pm }$ 3\\%){\\textbar}<br> উদ্দীপকের আলোকে 226-227নং প্রশ্নের উত্তর দাও:<br>226. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
+            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\boldsymbol{\\pm }$ 2%) এবং আয়তন(100m${}^{3}$ }$\\boldsymbol{\\pm }$ 3%){\\textbar}<br> উদ্দীপকের আলোকে 226-227নং প্রশ্নের উত্তর দাও:<br>226. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
             "option1": "<div>(ক) 10</div>",
             "option2": "<div>(খ) 5</div>",
             "option3": "<div>(গ) 0.5</div>",
@@ -1932,10 +1932,10 @@
         },
         {
             "mcqQuestion": "<div>242. একটি গোলকের পরিমাপ্য ব্যাসার্ধ R = 5.3 $\\pm $ 0.1 হলে আয়তনে শতকরাত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 2.5\\%</div>",
-            "option2": "<div>(খ) 5.7\\%</div>",
-            "option3": "<div>(গ) 8.2\\%</div>",
-            "option4": "<div>(ঘ) 10\\%</div>",
+            "option1": "<div>(ক) 2.5%</div>",
+            "option2": "<div>(খ) 5.7%</div>",
+            "option3": "<div>(গ) 8.2%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
             "mcqAnswer": "b"
         },
         {
@@ -2148,10 +2148,10 @@
         },
         {
             "mcqQuestion": "<div>269. একটি দন্ডের পরিমাপকৃত দৈর্ঘ্য 10cm এবং প্রকৃত মান 10.40cm হলে পরিমাপেরশতকরা ত্রুটি কত?</div>",
-            "option1": "<div>(ক) 4\\%</div>",
-            "option2": "<div>(খ) 3.84\\%</div>",
-            "option3": "<div>(গ) 0.398\\%</div>",
-            "option4": "<div>(ঘ) 0.04\\%</div>",
+            "option1": "<div>(ক) 4%</div>",
+            "option2": "<div>(খ) 3.84%</div>",
+            "option3": "<div>(গ) 0.398%</div>",
+            "option4": "<div>(ঘ) 0.04%</div>",
             "mcqAnswer": "b"
         },
         {
@@ -2364,10 +2364,10 @@
         },
         {
             "mcqQuestion": "<div>296. 10m দৈর্ঘ্য পরিমাপে ত্রুটির পরিমাণ 10m হলে ত্রুটির হার কত?</div>",
-            "option1": "<div>(ক) 0.01\\%</div>",
-            "option2": "<div>(খ) 0.1\\%</div>",
-            "option3": "<div>(গ) 1\\%</div>",
-            "option4": "<div>(ঘ) 10\\%</div>",
+            "option1": "<div>(ক) 0.01%</div>",
+            "option2": "<div>(খ) 0.1%</div>",
+            "option3": "<div>(গ) 1%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -2723,11 +2723,11 @@
             "mcqAnswer": "c"
         },
         {
-            "mcqQuestion": "<div>6. কোন বস্তুর ভর 100kg $\\pm $ 2\\% এবং আয়তন 10m${}^{3}$ $\\pm $ 3\\% হলে ঐবস্তুর ঘনত্বের শতকরা ত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 0.1\\%</div>",
-            "option2": "<div>(খ) 0.5\\%</div>",
-            "option3": "<div>(গ) 5\\%</div>",
-            "option4": "<div>(ঘ) 32\\%</div>",
+            "mcqQuestion": "<div>6. কোন বস্তুর ভর 100kg $\\pm $ 2% এবং আয়তন 10m${}^{3}$ $\\pm $ 3% হলে ঐবস্তুর ঘনত্বের শতকরা ত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 0.1%</div>",
+            "option2": "<div>(খ) 0.5%</div>",
+            "option3": "<div>(গ) 5%</div>",
+            "option4": "<div>(ঘ) 32%</div>",
             "mcqAnswer": "d"
         },
         {
@@ -2740,18 +2740,18 @@
         },
         {
             "mcqQuestion": "<div>8. চট্টগ্রামে অভিকর্ষজ ত্বরণের আদর্শ মান 9.8MS${}^{-2}$। একজন ছাত্রল্যাবরেটরিতে এর মান পেলো 9.7MS${}^{-2}$। মান নির্ণয়ে ছাত্রটির শতকরা ত্রুটিকত?</div>",
-            "option1": "<div>(ক) 1.02\\%</div>",
-            "option2": "<div>(খ) 10.2\\%</div>",
-            "option3": "<div>(গ) 12\\%</div>",
-            "option4": "<div>(ঘ) 10\\%</div>",
+            "option1": "<div>(ক) 1.02%</div>",
+            "option2": "<div>(খ) 10.2%</div>",
+            "option3": "<div>(গ) 12%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
             "mcqAnswer": "a"
         },
         {
             "mcqQuestion": "<div>9. একটি গোলকের ব্যাসার্ধ পরিমাপ করে পাওয়া গেল [1.5 $\\pm $ 0.1] cm। এরভিত্তিতে গোলকটির আয়তন পরিমাপ করলে শতকরা ত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 20\\%</div>",
-            "option2": "<div>(খ) 2.0\\%</div>",
-            "option3": "<div>(গ) 2.2\\%</div>",
-            "option4": "<div>(ঘ) 22\\%</div>",
+            "option1": "<div>(ক) 20%</div>",
+            "option2": "<div>(খ) 2.0%</div>",
+            "option3": "<div>(গ) 2.2%</div>",
+            "option4": "<div>(ঘ) 22%</div>",
             "mcqAnswer": "a"
         },
         {
@@ -2779,11 +2779,11 @@
             "mcqAnswer": "b"
         },
         {
-            "mcqQuestion": "<div>13. V = $\\frac{4}{3}\\pi r^3$ সমীকরণে r এর মান পরিমাপে যদি 2\\% ত্রুটি হয় তবেV নির্ণয়ের ত্রুটি কত হবে?</div>",
-            "option1": "<div>(ক) 1\\%</div>",
-            "option2": "<div>(খ) 6\\%</div>",
-            "option3": "<div>(গ) 5\\%</div>",
-            "option4": "<div>(ঘ) 2\\%</div>",
+            "mcqQuestion": "<div>13. V = $\\frac{4}{3}\\pi r^3$ সমীকরণে r এর মান পরিমাপে যদি 2% ত্রুটি হয় তবেV নির্ণয়ের ত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 6%</div>",
+            "option3": "<div>(গ) 5%</div>",
+            "option4": "<div>(ঘ) 2%</div>",
             "mcqAnswer": "b"
         },
         {
@@ -2843,11 +2843,11 @@
             "mcqAnswer": "d"
         },
         {
-            "mcqQuestion": "<div>21. একটি গোলকের ব্যাসার্ধ পরিমাপে 1.2\\% ভুল করলে, ঐ গোলকের আয়তনে শতকরা কতভুল হবে?</div>",
-            "option1": "<div>(ক) 8.6\\%</div>",
-            "option2": "<div>(খ) 6.6\\%</div>",
-            "option3": "<div>(গ) 5.6\\%</div>",
-            "option4": "<div>(ঘ) 3.6\\%</div>",
+            "mcqQuestion": "<div>21. একটি গোলকের ব্যাসার্ধ পরিমাপে 1.2% ভুল করলে, ঐ গোলকের আয়তনে শতকরা কতভুল হবে?</div>",
+            "option1": "<div>(ক) 8.6%</div>",
+            "option2": "<div>(খ) 6.6%</div>",
+            "option3": "<div>(গ) 5.6%</div>",
+            "option4": "<div>(ঘ) 3.6%</div>",
             "mcqAnswer": "d"
         },
         {

@@ -7,7 +7,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ</div>",
             "mcqAnswer": "<div>a</div>",
-            "mcqImage": "<div>image 1.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/1.webp"
         },
         {
             "mcqQuestion": "<div>২. কোন ধর্মের কারণে পানির ফোঁটা গোলাকৃতি হয়?</div>",
@@ -64,7 +64,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ</div>",
             "mcqAnswer": "<div>d</div>",
-            "mcqImage": "<div>image 8.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/8.webp"
         },
         {
             "mcqQuestion": "<div>৯. কোনো তারের অসহপীড়ন নির্ভর করে তারের --</div>",
@@ -433,7 +433,7 @@
             "option3": "<div>(গ) $4.8\\times {10}^{10}\\ {Nm}^{-2}$</div>",
             "option4": "<div>(ঘ $1.8\\times {10}^{11}\\ {Nm}^{-2}$</div>",
             "mcqAnswer": "<div>d</div>",
-            "mcqImage": "<div>image 54.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/54.webp"
         },
         {
             "mcqQuestion": "<div>৫৫. তারটির উপর পীড়ন --<br>i. $4.8\\times {10}^{10}\\ {Nm}^{-2}$ এর চেয়ে বেশি হলে তারটি ছিড়ে যাবে<br>ii. $4.2\\times {10}^{10}\\ {Nm}^{-2}$ হলে তারটির স্থায়ী বিকৃতি হবে<br>iii. $3.6\\times {10}^{10}\\ {Nm}^{-2}$ এর চেয়ে কম হলে কোনো বিকৃতি ঘটবে না<br>নিচেরে কোনটি সঠিক?</div>",
@@ -1234,7 +1234,7 @@
             "option3": "<div>(গ) i ও iii</div>",
             "option4": "<div>(ঘ i, ii ও iii</div>",
             "mcqAnswer": "<div>a</div>",
-            "mcqImage": "<div>image 154.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/154.webp"
         },
         {
             "mcqQuestion": "<div>১৫৫. B বিন্দুর অবনমন কত হবে?</div>",
@@ -1251,7 +1251,7 @@
             "option3": "<div>(গ) $21.85\\ N$</div>",
             "option4": "<div>(ঘ $31.85\\ N$</div>",
             "mcqAnswer": "<div>d</div>",
-            "mcqImage": "<div>image 156.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/156.webp"
         },
         {
             "mcqQuestion": "<div>১৫৭. তারটির --<br>i. AO অংশের দৈর্ঘ্য $13\\ m$<br>ii. পীড়ন $6.34\\times {10}^7\\ {Nm}^{-2}$<br>iii. বিকৃতি $3.52\\times {10}^{-4}$<br>নিচের কোনটি সঠিক?</div>",
@@ -1412,7 +1412,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ</div>",
             "mcqAnswer": "<div>a</div>",
-            "mcqImage": "<div>image 176.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/176.webp"
         },
         {
             "mcqQuestion": "<div>১৭৭. যদি কোনো তারের দৈর্ঘ্য দ্বিগুণ করা হয় তবে এর বিকৃতি কিরূপ হবে?</div>",
@@ -1493,7 +1493,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ</div>",
             "mcqAnswer": "<div>b</div>",
-            "mcqImage": "<div>image 186.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/186.webp"
         },
         {
             "mcqQuestion": "<div>১৮৭. পীড়ন ও বিকৃতির মধ্যে সম্পর্ক নির্ধারণকারী সূত্রের নাম কি?</div>",
@@ -1630,7 +1630,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ)</div>",
             "mcqAnswer": "<div>b</div>",
-            "mcqImage": "<div>image 203.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/203.webp"
         },
         {
             "mcqQuestion": "<div>২০৪. লোহার তৈরি দুটি গোলক A ও B । A এর আয়তন B এর আটগুণ। কোন নির্দিষ্ট তরলস্তম্ভে গোলকগুলোর অন্ত:বেগের সম্পর্ক নিজের কোনটি হবে?</div>",
@@ -1671,7 +1671,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ)</div>",
             "mcqAnswer": "<div>a</div>",
-            "mcqImage": "<div>image 208.webp</div>"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/208.webp"
         },
         {
             "mcqQuestion": "<div>২০৯. কোনটির সান্দ্রতা বেশি?</div>",

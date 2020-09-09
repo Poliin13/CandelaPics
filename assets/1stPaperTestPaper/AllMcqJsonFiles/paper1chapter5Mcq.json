@@ -15,7 +15,7 @@
             "option3": "<div>(গ) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{m}{k_1-k_2}}$</div>",
             "option4": "<div>(ঘ) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{k_1+k_2}{m}}$</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>2.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/2.webp"
         },
         {
             "mcqQuestion": "<div>৩. কেন্দ্রমুখী বল দ্বারা কৃতকাজ --</div>",
@@ -96,7 +96,7 @@
             "option3": "<div>(গ) $5\\ W$</div>",
             "option4": "<div>(ঘ) $6\\ W$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>12.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/12.webp"
         },
         {
             "mcqQuestion": "<div>১৩. সংকুচিত অবস্থায় স্প্রিং এর ভিতর কোন শক্তি সঞ্চিত থাকে?</div>",
@@ -107,11 +107,11 @@
             "mcqAnswer": "a"
         },
         {
-            "mcqQuestion": "<div>১৪. একটি বস্তুর রৈখিক ভরবেগ 50\\% বৃদ্ধি করলে গতিশক্তি বৃদ্ধি পায় কত?</div>",
-            "option1": "<div>(ক) 25\\%</div>",
-            "option2": "<div>(খ) 50\\%</div>",
-            "option3": "<div>(গ) 125\\%</div>",
-            "option4": "<div>(ঘ) 225\\%</div>",
+            "mcqQuestion": "<div>১৪. একটি বস্তুর রৈখিক ভরবেগ 50% বৃদ্ধি করলে গতিশক্তি বৃদ্ধি পায় কত?</div>",
+            "option1": "<div>(ক) 25%</div>",
+            "option2": "<div>(খ) 50%</div>",
+            "option3": "<div>(গ) 125%</div>",
+            "option4": "<div>(ঘ) 225%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -193,7 +193,7 @@
             "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$</div>",
             "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>24.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/24.webp"
         },
         {
             "mcqQuestion": "<div>২৫. ধনাত্মক কাজের ক্ষেত্রে কোন বস্তুর --</div>",
@@ -229,10 +229,10 @@
         },
         {
             "mcqQuestion": "<div>২৯. স্থিতিস্থাপক বলের বিরুদ্ধে সরণের মান দ্বিগুণ করলে কাজ বৃদ্ধি পাবে --</div>",
-            "option1": "<div>(ক) 100\\%</div>",
-            "option2": "<div>(খ) 200\\%</div>",
-            "option3": "<div>(গ) 300\\%</div>",
-            "option4": "<div>(ঘ) 400\\%</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 200%</div>",
+            "option3": "<div>(গ) 300%</div>",
+            "option4": "<div>(ঘ) 400%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -410,7 +410,7 @@
             "option3": "<div>(গ) $35.1\\ {ms}^{-1}$</div>",
             "option4": "<div>(ঘ) $39.3\\ {ms}^{-1}$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>51.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/51.webp"
         },
         {
             "mcqQuestion": "<div>৫২. উদ্দীপেকের আলোকে --<br>i. $A$ থেকে $C-$ তে যেতে শক্তির অপচয় ঘটে<br>ii. $B$ বিন্দুতে ও $C$ বিন্দুতে মোট শক্তির পরিমাণ সমান<br>iii. $A$ বিন্দু ও $C$ বিন্দুতে বেগ সমান<br>নিচের কোনটি সঠিক?</div>",
@@ -427,7 +427,7 @@
             "option3": "<div>(গ) $mgx\\ cos\\theta $</div>",
             "option4": "<div>(ঘ) $mgh\\ sin\\theta $</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>53.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/53.webp"
         },
         {
             "mcqQuestion": "<div>৫৪. এখন যদি বক্সটিকে $v$ বেগে গতিশীল রাখার জন্য বলের দিকে $'a'$ ত্বরণসৃষ্টি করতে হয়, তবে কত ক্ষমতা প্রয়োগ করতে হবে?</div>",
@@ -468,7 +468,7 @@
             "option3": "<div>(গ) ঋণাত্মক কাজ</div>",
             "option4": "<div>(ঘ) সর্বোচ্চ কাজ</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>58.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/58.webp"
         },
         {
             "mcqQuestion": "<div>৫৯. $1\\ kWh$ সমান কত জুল?</div>",
@@ -679,7 +679,7 @@
             "mcqAnswer": "a"
         },
         {
-            "mcqQuestion": "<div>৮৫. কোনো একটি স্থান হতে এক মিনিটে একটি ইঞ্জিন $100\\ kg$ ভরের একটি বস্তুকে$20\\ m$ উপরে তুলতে পারে। যদি ইঞ্জিনটির ক্ষমতা $30\\%$ নষ্ট হয়, তবে ইঞ্জিনটিরক্ষমতা কত?</div>",
+            "mcqQuestion": "<div>৮৫. কোনো একটি স্থান হতে এক মিনিটে একটি ইঞ্জিন $100\\ kg$ ভরের একটি বস্তুকে$20\\ m$ উপরে তুলতে পারে। যদি ইঞ্জিনটির ক্ষমতা $30%$ নষ্ট হয়, তবে ইঞ্জিনটিরক্ষমতা কত?</div>",
             "option1": "<div>(ক) $466.67\\ Watt$</div>",
             "option2": "<div>(খ) $566.67\\ Watt$</div>",
             "option3": "<div>(গ) $666.67\\ Watt$</div>",
@@ -925,7 +925,7 @@
             "option3": "<div>(গ) সমান</div>",
             "option4": "<div>(ঘ) দ্বিগুণ</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>115.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/115.webp"
         },
         {
             "mcqQuestion": "<div>১১৬. উদ্দীপকের বস্তুটির ক্ষেত্রে --<br>i. $A$ বিন্দুতে মোটশক্তি $1000\\ J$<br>ii. $B$ বিন্দুতে বেগ $31.6\\ {ms}^{-1}$<br>iii. $C$ বিন্দুতে গতিশক্তি $500\\ J$<br>নিচের কোনটি সঠিক?</div>",
@@ -942,7 +942,7 @@
             "option3": "<div>(গ) $15\\ m$</div>",
             "option4": "<div>(ঘ) $50\\ m$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>117.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/117.webp"
         },
         {
             "mcqQuestion": "<div>১১৮. উদ্দীপকের কৃতকাজের পরিমাণ --</div>",
@@ -975,7 +975,7 @@
             "option3": "<div>(গ) $mg\\ sin\\theta $</div>",
             "option4": "<div>(ঘ) $mg\\ cos\\theta $</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>121.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/121.webp"
         },
         {
             "mcqQuestion": "<div>১২২. অবস্থানের ক্ষেত্রে বস্তুটির --<br>i. $গতিশক্তি=mgx{\\mathrm{sin} \\theta \\ }$<br>ii. $স্থিতিশক্তি\\mathrm{\\ }=mg(h-x{\\mathrm{sin} \\theta \\ })$<br>iii. $মোট\\mathrm{\\ }শক্তি\\mathrm{\\ }=mgx$<br>নিচের কোনটি সঠিক?</div>",
@@ -1056,7 +1056,7 @@
             "option3": "<div>(গ) $R=w{\\mathrm{cos} \\theta \\ },\\ f=w{\\mathrm{sin} \\theta \\ }$</div>",
             "option4": "<div>(ঘ) $w{\\mathrm{sin} \\theta \\ }=w{\\mathrm{cos} \\theta \\ },\\ R=w{\\mathrm{cos}\\theta \\ }$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>131.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/131.webp"
         },
         {
             "mcqQuestion": "<div>১৩২. চিত্রে কৃতকাজ কত একক?</div>",
@@ -1065,7 +1065,7 @@
             "option3": "<div>(গ) $25\\ \\pi $</div>",
             "option4": "<div>(ঘ) $12.5\\pi $</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>132.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/132.webp"
         },
         {
             "mcqQuestion": "<div>১৩৩. শক্তির একক নিচের কোনটি?</div>",
@@ -1228,11 +1228,11 @@
             "mcqAnswer": "b"
         },
         {
-            "mcqQuestion": "<div>১৫৩. কোন বস্তুর ভরবেগ 20\\% বদ্ধি করলে গতিশক্তি কত বৃদ্ধি পায়?</div>",
-            "option1": "<div>(ক) 36\\%</div>",
-            "option2": "<div>(খ) 40\\%</div>",
-            "option3": "<div>(গ) 44\\%</div>",
-            "option4": "<div>(ঘ) 80\\%</div>",
+            "mcqQuestion": "<div>১৫৩. কোন বস্তুর ভরবেগ 20% বদ্ধি করলে গতিশক্তি কত বৃদ্ধি পায়?</div>",
+            "option1": "<div>(ক) 36%</div>",
+            "option2": "<div>(খ) 40%</div>",
+            "option3": "<div>(গ) 44%</div>",
+            "option4": "<div>(ঘ) 80%</div>",
             "mcqAnswer": "c"
         },
         {
@@ -1292,11 +1292,11 @@
             "mcqAnswer": "c"
         },
         {
-            "mcqQuestion": "<div>১৬১. কোন বস্তুর গতিশক্তি 100\\% বৃদ্ধি পেলে, ভরবেগ বৃদ্ধি পাবে?</div>",
-            "option1": "<div>(ক) 100\\%</div>",
-            "option2": "<div>(খ) 150\\%</div>",
-            "option3": "<div>(গ) 200\\%</div>",
-            "option4": "<div>(ঘ) 400\\%</div>",
+            "mcqQuestion": "<div>১৬১. কোন বস্তুর গতিশক্তি 100% বৃদ্ধি পেলে, ভরবেগ বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 150%</div>",
+            "option3": "<div>(গ) 200%</div>",
+            "option4": "<div>(ঘ) 400%</div>",
             "mcqAnswer": "a"
         },
         {
@@ -1314,7 +1314,7 @@
             "option3": "<div>(গ) $4900\\ J$</div>",
             "option4": "<div>(ঘ) $6275\\ J$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>163.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/163.webp"
         },
         {
             "mcqQuestion": "<div>১৬৪. আমরা চলাফেরার জন্য যে শক্তি পাই সেটি আসে --</div>",
@@ -1515,10 +1515,10 @@
             "option3": "<div>(গ) $\\frac{mv^2}{2FS}$</div>",
             "option4": "<div>(ঘ) $\\frac{mg{\\mathrm{sin} \\alpha \\ }}{F}$</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>188.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/188.webp"
         },
         {
-            "mcqQuestion": "<div>১৮৯. একটি যন্ত্রের প্রযুক্ত শক্তি $E_1$ এং সিস্টেমে নষ্ট শক্তি $E_2$ হলেযন্ত্রটির কর্মদক্ষতা 100\\% হওয়ার শর্ত কোনটি?</div>",
+            "mcqQuestion": "<div>১৮৯. একটি যন্ত্রের প্রযুক্ত শক্তি $E_1$ এং সিস্টেমে নষ্ট শক্তি $E_2$ হলেযন্ত্রটির কর্মদক্ষতা 100% হওয়ার শর্ত কোনটি?</div>",
             "option1": "<div>(ক) $E_1=0$</div>",
             "option2": "<div>(খ) $E_2=0$</div>",
             "option3": "<div>(গ) $E_1+E_2=0$</div>",
@@ -1644,7 +1644,7 @@
             "option3": "<div>(গ) 196 J</div>",
             "option4": "<div>(ঘ) 10 J</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>204.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/204.webp"
         },
         {
             "mcqQuestion": "<div>২০৫. ব্লকটিকে যদি দাড় করানো হয় তাহলে বিভব শক্তির পরিবর্তন কত?</div>",
@@ -1733,7 +1733,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ)</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>215.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/215.webp"
         },
         {
             "mcqQuestion": "<div>২১৬. স্প্রিং সংকোচন ও প্রসারণের ক্ষেত্রে কাজ ও স্থিতিশক্তি প্রকাশেরসমীকরণ---<br>i. $W=\\frac{1}{2}{kx}^2$<br>ii. $U=\\frac{1}{2}\\ {kx}^2$<br>iii. $U=mgx$<br>নিচের কোনটি সঠিক?</div>",
@@ -1750,7 +1750,7 @@
             "option3": "<div>(গ) 2.2 ${m\\ s}^{-1}$</div>",
             "option4": "<div>(ঘ) 2.3 ${m\\ s}^{-1}$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>217.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/217.webp"
         },
         {
             "mcqQuestion": "<div>২১৮. উক্ত অবস্থানে ববের গতিশক্তি কত?</div>",
@@ -1825,10 +1825,10 @@
             "mcqAnswer": "c"
         },
         {
-            "mcqQuestion": "<div>২২৭. কোন বস্তুর গতিশক্তি 300\\% বৃদ্ধি করা হলে, উক্ত বস্তুর ভরবেগ বাড়বে---</div>",
-            "option1": "<div>(ক) 100\\%</div>",
-            "option2": "<div>(খ) 150\\%</div>",
-            "option3": "<div>(গ) 200\\%</div>",
+            "mcqQuestion": "<div>২২৭. কোন বস্তুর গতিশক্তি 300% বৃদ্ধি করা হলে, উক্ত বস্তুর ভরবেগ বাড়বে---</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 150%</div>",
+            "option3": "<div>(গ) 200%</div>",
             "option4": "<div>(ঘ) 400</div>",
             "mcqAnswer": "a"
         },
@@ -1871,7 +1871,7 @@
             "option3": "<div>(গ) mg sin $\\mathrm{\\theta }$</div>",
             "option4": "<div>(ঘ) mg cos $\\mathrm{\\theta }$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>232.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/232.webp"
         },
         {
             "mcqQuestion": "<div>২৩৩. $\\mathrm{\\theta }$ এর মান ক্ষেত্রে---<br>i. $0{}^\\circ &lt;\\theta \\ge 90{}^\\circ $ হলে বলের দ্বারা কাজ সম্পন্ন হবে<br>ii. $90{}^\\circ &lt;\\theta \\ge 135{}^\\circ $ হলে বলের বিরুদ্ধে কাজ সম্পন্নহবে<br>iii. $135{}^\\circ &lt;\\theta \\ge 180{}^\\circ $ হলে ঋণাত্মক কাজ সম্পন্ন হবে<br>নিচের কোনটি সঠিক?</div>",
@@ -1928,7 +1928,7 @@
             "option3": "<div>(গ) 980 J</div>",
             "option4": "<div>(ঘ) 1960 J</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>239.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/239.webp"
         },
         {
             "mcqQuestion": "<div>■ নিচের তথ্যের আলোকে ২৪০ ও ২৪১ নং প্রশ্নের উত্তর দাওঃ<br>লেখচিত্রটিতে একটি স্প্রিং-এ প্রযুক্ত বলের সাথে দৈর্ঘ্য বৃদ্ধির পরিবর্তনদেখানো হয়েছে।<br>২৪০. ${Nm}^{-1}$ এককে স্প্রিং ধ্রবক কত?</div>",
@@ -1937,7 +1937,7 @@
             "option3": "<div>(গ) 0.5</div>",
             "option4": "<div>(ঘ) 18</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>240.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/240.webp"
         },
         {
             "mcqQuestion": "<div>২৪১. স্প্রিংটির দৈর্ঘ্য বৃদ্ধি 3 cm হলে স্প্রিং এ সঞ্চিত শক্তির পরিমাপ কত?</div>",
@@ -2196,7 +2196,7 @@
             "mcqAnswer": "a"
         },
         {
-            "mcqQuestion": "<div>২. একটি পাম্প প্রতি মিনিটে 550 গ্যালন পানি 30ft গড় উচ্চতায় তুলতে পারে।পাম্পের ক্ষমতা 80\\% কার্যকর হলে H.P $\\left[\\mathrm{1\\ }গ্যালন\\mathrm{=10\\lb}\\right]$ কত?</div>",
+            "mcqQuestion": "<div>২. একটি পাম্প প্রতি মিনিটে 550 গ্যালন পানি 30ft গড় উচ্চতায় তুলতে পারে।পাম্পের ক্ষমতা 80% কার্যকর হলে H.P $\\left[\\mathrm{1\\ }গ্যালন\\mathrm{=10\\lb}\\right]$ কত?</div>",
             "option1": "<div>(ক) 6.21 H.P</div>",
             "option2": "<div>(খ) 7.81 H.P</div>",
             "option3": "<div>(গ) 10 H.P</div>",
@@ -2362,7 +2362,7 @@
             "option3": "<div>(গ) ধ্রববল</div>",
             "option4": "<div>(ঘ) পরিবর্তনশীল বল</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>22.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/22.webp"
         },
         {
             "mcqQuestion": "<div>■ 500 g ভরের একটি বল 9 m উচ্চতায় অবস্থিত 3 তলার ছাদ থেকে গড়িয়ে পড়ল<br>উপরের তথ্য ও চিত্রের আলোকে ২৩-২৫ নং প্রশ্নের উত্তর দাও:<br>২৩. ২য় তলার ছাদ বরাবর পৌঁছলে বলটির বিভব শক্তি কত হবে?</div>",
@@ -2371,7 +2371,7 @@
             "option3": "<div>(গ) 4.9 J</div>",
             "option4": "<div>(ঘ) 12.9 J</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>23.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/23.webp"
         },
         {
             "mcqQuestion": "<div>২৪. 2-তলার ছাদ বরাবর অবস্থানে বলটির গতিশক্তি কত হবে?</div>",
@@ -2486,7 +2486,7 @@
             "mcqAnswer": "d"
         },
         {
-            "mcqQuestion": "<div>২৭. 80m (৮০ মি.) উচ্চতা থেকে যদি একটি বল মেঝেতে পড়ে এবং বলটির 20\\% শক্তিমেঝের সাথে প্রতিঘাতে হ্রা্স পায়, তবে বলটি মেঝেতে বাড়ি খেয়ে যে উচ্চতায় উঠবে-</div>",
+            "mcqQuestion": "<div>২৭. 80m (৮০ মি.) উচ্চতা থেকে যদি একটি বল মেঝেতে পড়ে এবং বলটির 20% শক্তিমেঝের সাথে প্রতিঘাতে হ্রা্স পায়, তবে বলটি মেঝেতে বাড়ি খেয়ে যে উচ্চতায় উঠবে-</div>",
             "option1": "<div>(ক)$\\ 60\\ \\mathrm{m}$ </div>",
             "option2": "<div>(খ)$\\ 64\\ \\mathrm{m}$</div>",
             "option3": "<div>(গ) $68\\ \\mathrm{m}$</div>",
@@ -2550,7 +2550,7 @@
             "mcqAnswer": "b"
         },
         {
-            "mcqQuestion": "<div>৩৫.2 kW ক্ষমতার একটি পাম্পের দক্ষতা 80\\% । এটি 30 m উপরে প্রতি সেকেন্ডকতটুকু পানি তুলতে পারবে ?</div>",
+            "mcqQuestion": "<div>৩৫.2 kW ক্ষমতার একটি পাম্পের দক্ষতা 80% । এটি 30 m উপরে প্রতি সেকেন্ডকতটুকু পানি তুলতে পারবে ?</div>",
             "option1": "<div>(ক)$\\ 5.44\\ \\mathrm{kg}$</div>",
             "option2": "<div>(খ)$\\ 54.4\\ \\mathrm{kg}$</div>",
             "option3": "<div>(গ)$\\ 0.054\\ \\mathrm{kg}$</div>",
@@ -2636,7 +2636,7 @@
             "option3": "<div>(গ)$\\ \\ 280\\ J$</div>",
             "option4": "<div>(ঘ)$\\ \\ \\ 1200\\ J$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>45.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/45.webp"
         },
         {
             "mcqQuestion": "<div>৪৬.একটি তারের উপর টান F হলে দৈর্ঘ্য বৃদ্ধি হয় x. তারটি যদি হুকের সুত্র মেনেচলে এবং তারের উপাদানের ইয়ং গুণাংক Y হয় তবে তারে সঞ্চিত বিভব শক্তি কত ?</div>",
@@ -2679,11 +2679,11 @@
             "mcqAnswer": "c"
         },
         {
-            "mcqQuestion": "<div>৫১. রৈখিক ভরবেগ 60\\% বাড়লে গতিশক্তি বৃদ্ধি পায়-</div>",
-            "option1": "<div>(ক)$\\ \\ 60\\%$</div>",
-            "option2": "<div>(খ)$\\ \\ \\ 125\\%$</div>",
-            "option3": "<div>(গ)$\\ \\ 156\\%$</div>",
-            "option4": "<div>(ঘ)$\\ \\ \\ 160\\%$</div>",
+            "mcqQuestion": "<div>৫১. রৈখিক ভরবেগ 60% বাড়লে গতিশক্তি বৃদ্ধি পায়-</div>",
+            "option1": "<div>(ক)$\\ \\ 60%$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 125%$</div>",
+            "option3": "<div>(গ)$\\ \\ 156%$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 160%$</div>",
             "mcqAnswer": "c"
         },
         {
@@ -2736,10 +2736,10 @@
         },
         {
             "mcqQuestion": "<div>৫৮.একটি চলন্ত বস্ত সমান ভরের অপর এটি স্থির বস্তকে আঘাত করে থেমে গেল।গতিশক্তির যে অংশ স্থানান্তরিত হবে-</div>",
-            "option1": "<div>(ক)$\\ \\ 100\\%$</div>",
-            "option2": "<div>(খ)$\\ \\ \\ 50\\%$</div>",
-            "option3": "<div>(গ)$\\ \\ 0\\%$</div>",
-            "option4": "<div>(ঘ)$\\ \\ \\ 1\\%$</div>",
+            "option1": "<div>(ক)$\\ \\ 100%$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 50%$</div>",
+            "option3": "<div>(গ)$\\ \\ 0%$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 1%$</div>",
             "mcqAnswer": "a"
         },
         {

@@ -23,7 +23,7 @@
             "option3": "<div>(গ) $30\\ J$</div>",
             "option4": "<div>(ঘ) $40\\ J$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>3.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/3.webp"
         },
         {
             "mcqQuestion": "<div>৪. $0.01\\ m$ দৈর্ঘ্যের একটি ঘড়ির মিনিটের কাঁটার প্রান্তীয় বিন্দুর রৈখিকবেগের মান কত?</div>",
@@ -64,7 +64,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ)</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>8.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/8.webp"
         },
         {
             "mcqQuestion": "<div>৯. রৈখিক ভরবেগ $(P)$ ও $K$ গতিশক্তির মধ্যে সম্পর্ক কোনটি?</div>",
@@ -489,7 +489,7 @@
             "option3": "<div>(গ) ii ও iii</div>",
             "option4": "<div>(ঘ) i, ii ও iii</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>61.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/61.webp"
         },
         {
             "mcqQuestion": "<div>৬২. রকেটের গতির জন্য<br>i. আপেক্ষিক বেগ বৃদ্ধিতে ত্বরণ বৃদ্ধি পায়<br>ii. গ্যাস নির্গমনের হার বৃদ্ধিতে ত্বরণও বৃদ্ধি পায়<br>iii. রকেট যত উপরে যায় ত্বরণ তত কমে<br>নিচের কোনটি সঠিক?</div>",
@@ -538,7 +538,7 @@
             "option3": "<div>(গ) $I_1\\ :\\ I_1=4\\ :1$</div>",
             "option4": "<div>(ঘ) $I_1\\ :\\ I_1=1\\ :4$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>67.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/67.webp"
         },
         {
             "mcqQuestion": "<div>৬৮. চিত্র-খ চক্রগতির ব্যাসার্ধের মান-<br>নিচের কোনটি সঠিক?</div>",
@@ -563,7 +563,7 @@
             "option3": "<div>(গ)</div>",
             "option4": "<div>(ঘ)</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>70.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/70.webp"
         },
         {
             "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৭১ ও ৭২ নং প্রশ্নের উত্তর দাওঃ<br>একটি ঘড়ির সেকেন্ডের কাঁটার দৈর্ঘ্য $3\\ cm$.<br>৭১. সেকেন্ডের কাঁটার প্রান্তের রৈখিক বেগ --</div>",
@@ -588,7 +588,7 @@
             "option3": "<div>(গ) ${ML}^{-1}dx$</div>",
             "option4": "<div>(ঘ) $MLdx$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>73.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/73.webp"
         },
         {
             "mcqQuestion": "<div>৭৪. $PQ$ ঘূর্ণন অক্ষের সাপেক্ষে রডটির জড়তার ভ্রামকের সমাকলিত রূপ কোনটি?</div>",
@@ -605,7 +605,7 @@
             "option3": "<div>(গ) $r$</div>",
             "option4": "<div>(ঘ) $\\sqrt{\\frac{3}{2}}r$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>75.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/75.webp"
         },
         {
             "mcqQuestion": "<div>৭৬. অক্ষের সাপেক্ষে চাকতির জড়তার ভ্রামক কত হবে?</div>",
@@ -622,7 +622,7 @@
             "option3": "<div>(গ) সমবেগে</div>",
             "option4": "<div>(ঘ) অসমবেগে</div>",
             "mcqAnswer": "d",
-            "mcqImage": "<div>77.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/77.webp"
         },
         {
             "mcqQuestion": "<div>৭৮. $AC$ তলে নামার সময় বস্তুর উপর ক্রিয়াশীল বল কত?</div>",
@@ -639,7 +639,7 @@
             "option3": "<div>(গ) $5.83\\ {ms}^{-1}$</div>",
             "option4": "<div>(ঘ) $12.50\\ {ms}^{-1}$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>79.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/79.webp"
         },
         {
             "mcqQuestion": "<div>৮০. উপরোক্ত সংঘর্ষের ক্ষেত্রে --<br>i. ভরবেগ সংরক্ষিত হবে<br>ii. গতিশক্তি সংরক্ষিত হবে<br>iii. সংঘর্ষটি অস্থিতিস্থাপক হবে<br>নিচের কোনটি সঠিক?</div>",
@@ -656,7 +656,7 @@
             "option3": "<div>(গ) $6\\ {ms}^{-2}$</div>",
             "option4": "<div>(ঘ) $8\\ {ms}^{-2}$</div>",
             "mcqAnswer": "a",
-            "mcqImage": "<div>81.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/81.webp"
         },
         {
             "mcqQuestion": "<div>৮২. $T_1$ ও $T_2$ এর অনুপাত-</div>",
@@ -833,7 +833,7 @@
             "option3": "<div>(গ) ৩য় সূত্র</div>",
             "option4": "<div>(ঘ) ২য় ও ৩য় সূত্র</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>103.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/103.webp"
         },
         {
             "mcqQuestion": "<div>১০৪. চিরায়ত পদার্থবিজ্ঞানের শাখা কয়টি?</div>",
@@ -1586,7 +1586,7 @@
             "option3": "<div>(গ) $a_C$$\\mathrm{&gt;}$ $a_B$ $\\mathrm{&gt;}$ $a_A$</div>",
             "option4": "<div>(ঘ) $a_B$$\\mathrm{&gt;}$ $a_A$ $\\mathrm{&gt;}$ $a_C$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>197.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/197.webp"
         },
         {
             "mcqQuestion": "<div>১৯৮. একটি বস্তুর ত্বরণ থাকবে কতক্ষণ?</div>",
@@ -1763,7 +1763,7 @@
             "option3": "<div>(গ) সমান হবে</div>",
             "option4": "<div>(ঘ) নির্ণয় করা যায় না</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>219.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/219.webp"
         },
         {
             "mcqQuestion": "<div>২২০. একটি রড়ের ভারকেন্দ্রগামী দৈর্ঘ্যের সাথে লম্ব অক্ষ সাপেক্ষে চক্রগতিরব্যাসার্ধ কত?</div>",
@@ -1812,7 +1812,7 @@
             "option3": "<div>(গ) অসম কৌণিক ত্বরণে ঘুরছে</div>",
             "option4": "<div>(ঘ) ঘূর্ণনশীল নয়</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>225.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/225.webp"
         },
         {
             "mcqQuestion": "<div>২২৬. সমকৌণিক দ্রুতিতে একটি কণা একবার ঘুরে আসতে যে সময় লাগে তাকে বলা হয়-</div>",
@@ -1997,7 +1997,7 @@
             "option3": "<div>(গ) $R$</div>",
             "option4": "<div>(ঘ) $mg$</div>",
             "mcqAnswer": "b",
-            "mcqImage": "<div>248.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/248.webp"
         },
         {
             "mcqQuestion": "<div>২৪৯. $100\\ m$ ব্যাসার্ধের বৃত্তাকার পথে $16.67\\ m/sec$ বেগে গাড়ি চালাতে হলেপথকে কত কোণে আনত রাখতে হবে?</div>",
@@ -2198,7 +2198,7 @@
             "option3": "<div>(গ) 10 N</div>",
             "option4": "<div>(ঘ) 50 N</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>273.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/273.webp"
         },
         {
             "mcqQuestion": "<div>২৭৪. সস্তুটির মোট ভরবেগের পরিবর্তন কত?</div>",
@@ -2327,7 +2327,7 @@
             "option3": "<div>(গ) বস্তুদ্বয় স্থির থাকবে</div>",
             "option4": "<div>(ঘ) পরস্পর বিপরীত দিকে চলবে</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>289.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/289.webp"
         },
         {
             "mcqQuestion": "<div>২৯০. উদ্দীপকের বস্তুদয় যদি প্রারম্ভিক অবস্থায় একই দিকে চলত তাহলে বস্তুর বেগহবে---</div>",
@@ -2448,7 +2448,7 @@
             "option3": "<div>(গ) ৩য় সূত্র</div>",
             "option4": "<div>(ঘ) ২য় ও ৩য় সূত্র</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>304.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/304.webp"
         },
         {
             "mcqQuestion": "<div>৩০৫.বলের ভারসাম্য নির্দেশ করে---<br>নিচের কোনটি সঠিক?</div>",
@@ -2457,7 +2457,7 @@
             "option3": "<div>(গ) ii ও iii</div>",
             "option4": "<div>(ঘ) i, ii ও iii</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>305.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/305.webp"
         },
         {
             "mcqQuestion": "<div>৩০৬. নিউটনের গড়ির সূত্র থেকে আমরা জানতে পারি---<br>i. বস্তুর উপর বল ক্রিয়া করলে বস্তুটি ত্বরণ নিয়ে চলতে থাকে<br>ii. বস্তুর ত্বরণ প্রযুক্ত বলের বর্গের সমানুপাতিক<br>iii. বলের অভিমুখই ত্বরণের অভিমুখ<br>নিচের কোনটি সঠিক?</div>",
@@ -2861,10 +2861,10 @@
         },
         {
             "mcqQuestion": "<div>১৬. লিফট $3\\ m\\ s^{-2}$ ত্বরণে উপরে উঠলে লিফটে অবস্থিত ব্যক্তিরওজন---$\\left(g=10\\ m\\ s^{-2}\\right)$</div>",
-            "option1": "<div>(ক) 30\\% কমবে</div>",
-            "option2": "<div>(খ) 15\\% বাড়বে</div>",
-            "option3": "<div>(গ) 30\\% বাড়বে</div>",
-            "option4": "<div>(ঘ) 15\\% কমবে</div>",
+            "option1": "<div>(ক) 30% কমবে</div>",
+            "option2": "<div>(খ) 15% বাড়বে</div>",
+            "option3": "<div>(গ) 30% বাড়বে</div>",
+            "option4": "<div>(ঘ) 15% কমবে</div>",
             "mcqAnswer": "c"
         },
         {
@@ -2922,7 +2922,7 @@
             "option3": "<div>(গ) $11.536{}^\\circ $</div>",
             "option4": "<div>(ঘ) $21.55{}^\\circ $</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>23-25.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/23-25.webp"
         },
         {
             "mcqQuestion": "<div>২৪. ঐ স্থানে রাস্তার ব্যাংকিং কত হবে?</div>",
@@ -2995,7 +2995,7 @@
             "option3": "<div>(গ) কেন্দ্রমুখী 0.09 ${\\mathrm{\\pi }}^2$</div>",
             "option4": "<div>(ঘ) কেন্দ্রবিমুখী 0.09 ${\\mathrm{\\pi }}^2$</div>",
             "mcqAnswer": "c",
-            "mcqImage": "<div>23.webp"
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/23.webp"
         },
         {
             "mcqQuestion": "<div>২৪. 500 kg ভরের একটি গাড়ি 60 km/hr বেগে চলে। ব্রেক চেপে গাড়িটিকে 50 m দূরেথামানো হলো। যদি রাস্তার ঘর্ষণজনিত বল 100 N হয়, তবে ব্রেকজনিত বলের মান কত N?</div>",
