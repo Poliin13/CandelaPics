@@ -295,7 +295,7 @@
       "option2": "<div>(খ) $1\\ :2$</div>",
       "option3": "<div>(গ) $1\\ :4$</div>",
       "option4": "<div>(ঘ) $2\\ :1$</div>",
-      "mcqAnswer": "v",
+      "mcqAnswer": "b",
       "mcqImage": ""
     },
     {
@@ -749,7 +749,7 @@
       "mcqImage": ""
     },
     {
-      "mcqQuestion": "<div>৮৪. বৃত্তাকার পথে ঘূর্ণায়মান একটি কপার $3$ সেকেন্ডে কৌণিক বেগ $9\\pi \\{rads}^{-1}$ হলে কৌণিক বিস্তার কত?</div>",
+      "mcqQuestion": "<div>৮৪. বৃত্তাকার পথে ঘূর্ণায়মান একটি কপার $3$ সেকেন্ডে কৌণিক বেগ  $9\\ \\pi \\ {rads}^{-1}$ হলে কৌণিক বিস্তার কত?</div>",
       "option1": "<div>(ক) $3\\ \\pi $</div>",
       "option2": "<div>(খ) $\\frac{\\pi }{27}$</div>",
       "option3": "<div>(গ) $27\\ \\pi $</div>",
@@ -794,7 +794,7 @@
       "mcqImage": ""
     },
     {
-      "mcqQuestion": "<div>৮৯. একটি সরল ছন্দিত গতিসম্পন্ন কপার বিস্তার $5\\ cm$ এবং সর্বোচ্চ বেগ $5.32\\{cms}^{-1}$ হলে কপাটির পর্যায়কাল কত?</div>",
+      "mcqQuestion": "<div>৮৯. একটি সরল ছন্দিত গতিসম্পন্ন কপার বিস্তার $5\\ cm$ এবং সর্বোচ্চ বেগ $5.32{cms}^{-1}$ হলে কপাটির পর্যায়কাল কত?</div>",
       "option1": "<div>(ক) $3.9\\ s$</div>",
       "option2": "<div>(খ) $4.9\\ s$</div>",
       "option3": "<div>(গ) $5.9\\ s$</div>",
@@ -1231,7 +1231,7 @@
       "option2": "<div>(খ) i ও iii</div>",
       "option3": "<div>(গ) ii ও iii</div>",
       "option4": "<div>(ঘ) i - ii ও iii</div>",
-      "mcqAnswer": "v",
+      "mcqAnswer": "b",
       "mcqImage": ""
     },
     {
@@ -1240,7 +1240,7 @@
       "option2": "<div>(খ) $5\\ \\times \\ {10}^4\\ m$</div>",
       "option3": "<div>(গ) $5\\ \\times \\ {10}^{-4}\\ m$</div>",
       "option4": "<div>(ঘ) $5\\ \\times \\ {10}^{-2}\\ m$</div>",
-      "mcqAnswer": "v",
+      "mcqAnswer": "b",
       "mcqImage": ""
     },
     {
@@ -1672,7 +1672,7 @@
       "option2": "<div>(খ) বৃদ্ধি পাবে</div>",
       "option3": "<div>(গ) অপরিবর্তিত থাকবে</div>",
       "option4": "<div>(ঘ) পূর্বাপেক্ষা দ্বিগুণ হবে</div>",
-      "mcqAnswer": "",
+      "mcqAnswer": "c",
       "mcqImage": ""
     },
     {
