@@ -1850,8 +1850,8 @@
       "mcqQuestion": "<div>২০৬. সরল ছন্দিত স্পন্দনে স্পন্দিত কোন কণার বিস্তার A. এর সরণ কত হলে শক্তির অর্ধেক গতিশক্তি ও অর্ধেক স্থিতি শক্তি হবে?</div>",
       "option1": "<div>(ক) A/2</div>",
       "option2": "<div>(খ) A/3</div>",
-      "option3": "<div>(গ) A/$\\mathrm{\\sqrt{}}$2</div>",
-      "option4": "<div>(ঘ) A/2$\\mathrm{\\sqrt{}}$2</div>",
+      "option3": "<div>(গ) A/$\\mathrm{\\sqrt{2}}$</div>",
+      "option4": "<div>(ঘ) A/2$\\mathrm{\\sqrt{2}}$</div>",
       "mcqAnswer": "c",
       "mcqImage": ""
     },

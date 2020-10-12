@@ -973,7 +973,8 @@
             "option1": "<div>(ক) i ও ii</div>",
             "option2": "<div>(খ) ii ও iii</div>",
             "option3": "<div>(গ) i ও iii</div>",
-            "option4": "<div>(ঘ) i ও iii</div>"
+            "option4": "<div>(ঘ) ii ও iii</div>",
+            "mcqAnswer": "b"
         },
         {
             "mcqQuestion": "<div>27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রা ও স্বাভাবিক চাপে 4g নাইট্রোজেন গ্যাস আছে। উপরের তথ্যের আলোকে নিচের ১২২ ও ১২৩ নং প্রশ্নের উত্তর দাও:<br>১২২. নাইট্রোজেনের মোট গতিশক্তি --</div>",
