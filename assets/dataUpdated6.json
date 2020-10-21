@@ -4708,26 +4708,6 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.08.ModernPhysics/Ch.08.Icon.webp",
         "topicsData": [
           {
-            "topicName": "মাইকেলসন মরলি পরীক্ষা",
-            "dataForPage": [
-              {"dataForEachPage": [
-                {
-                  "titleText":"মাইকেলসন মরলি পরীক্ষা",
-                  "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_Law_1.webp",
-                  "textForPage_2" : "ধরে নেই, একটা মাধ্যমে d দুরত্বে দুটি আধান q1 ও q2 রাখা। যেহেতু, দূরত্বের তুলনায় তাদের আকার অনেক ছোট কাজেই তারা বিন্দু আধান। দুটি আধানই নিজেদের উপর F বল প্রয়োগ করবে।",
-                  "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_Law_2.webp"
-                },
-                {
-                  "titleText": "কুলম্বের সূত্রের গাণিতিক প্রকাশ",
-                  "imageName_1" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_law_equation.webp",
-                  "textForPage_2" : "K হচ্ছে সমানুপাতিক ধ্রুবক যা কুলম্ব ধ্রুবক (Coulomb's Constant) নামে পরিচিত। ধ্রুবকটি মাধ্যমের প্রকৃতি ও যথাক্রমে F, d, ও q এর এককের উপর নির্ভর করে। একে লেখা যায়\n",
-                  "imageName_2" : "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/k.webp",
-                  "textForPage_4" : "ε0 একটি ধ্রুব সংখ্যা। এর একটা বিশেষ নাম হল শূন্যস্থানের ভেদনযোগ্যতা (Permittivity of Free Space)।\nকুলম্ব বল মাধ্যমের প্রকৃতির উপর নির্ভর করে। কুলম্ব বল মাধ্যমের যে ধর্মের উপর নির্ভর করে তাই হল ভেদনযোগ্যতা। "
-                }
-              ]}
-            ]
-          },
-          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {"dataForEachPage": [
