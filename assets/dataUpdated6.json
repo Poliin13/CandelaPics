@@ -497,7 +497,7 @@
             ]
           },
           {
-            "topicName": "Hand Note",
+            "topicName": "হ্যান্ডনোট ভেক্টর",
             "dataForPage": [
               {
                 "dataForEachPage": [
@@ -4911,6 +4911,18 @@
                   {
                     "flipCardFront": "২. ১২µC ও ৮µC দুটি বিন্দুচার্জ পরস্পর থেকে ১০সেমি দূরে অবস্থিত। চার্জ দুটিকে ৬সেমি ব্যবধানে আনতে কত কাজ হবে?",
                     "flipCardBack": "উত্তরঃ ৫.৭৬ Joule"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "হ্যান্ডনোট স্থিরতড়িৎ",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteStaticElectricity.pdf"
                   }
                 ]
               }
