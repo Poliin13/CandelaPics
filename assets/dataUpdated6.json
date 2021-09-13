@@ -5115,6 +5115,18 @@
             ]
           },
           {
+            "topicName": "হ্যান্ডনোট জ্যামিতিক আলোকবিজ্ঞান",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteGeometricOptics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
             "dataForPage": [
               {
@@ -5145,6 +5157,18 @@
         "chapterName": "ভৌত আলোকবিজ্ঞান",
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.07.PhysicalOptics/Ch.07.Icon.webp",
         "topicsData": [
+          {
+            "topicName": "হ্যান্ডনোট ভৌত আলোকবিজ্ঞান",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnotePhysicalOptics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
