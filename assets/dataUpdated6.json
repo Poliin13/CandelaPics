@@ -5103,24 +5103,24 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.06.GeometricOptics/Ch.06.Icon.gif",
         "topicsData": [
           {
-            "topicName": "সৃজনশীল টেস্টপেপার",
-            "dataForPage": [
-              {
-                "dataForEachPage": [
-                  {
-                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Theory_compressed.pdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "topicName": "হ্যান্ডনোট জ্যামিতিক আলোকবিজ্ঞান",
             "dataForPage": [
               {
                 "dataForEachPage": [
                   {
                     "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteGeometricOptics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "সৃজনশীল টেস্টপেপার",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Theory_compressed.pdf"
                   }
                 ]
               }
@@ -5213,6 +5213,18 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.08.ModernPhysics/Ch.08.Icon.webp",
         "topicsData": [
           {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteModernPhysics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -5255,6 +5267,18 @@
         "chapterName": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.09.AtomicModel/Ch.09.Icon.gif",
         "topicsData": [
+          {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAtomicModel.pdf"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
@@ -5299,6 +5323,18 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.10.Electronics/Ch.10.Icon.gif",
         "topicsData": [
           {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteElectronics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -5341,6 +5377,18 @@
         "chapterName": "জ্যোতির্বিজ্ঞান",
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.11.Astronomy/Ch.11.Icon.gif",
         "topicsData": [
+          {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAstronomy.pdf"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
