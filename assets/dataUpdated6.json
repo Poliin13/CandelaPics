@@ -5017,6 +5017,18 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.04.Magnetism/Ch.04.Icon.webp",
         "topicsData": [
           {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh04_torit_probaher_choumbok_kriya.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -5059,6 +5071,18 @@
         "chapterName": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.05.MagneticInduction/Ch.05.Icon.webp",
         "topicsData": [
+          {
+            "topicName": "হ্যান্ডনোট",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh05_torit_chumbokiyo_abesh_o_dik_poriborti.pdf"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
