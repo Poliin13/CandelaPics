@@ -4777,12 +4777,7 @@
                     "flipCardBack": "উত্তরঃ 3.87N"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "topicName": "তড়িৎক্ষেত্র",
-            "dataForPage": [
+              },
               {
                 "dataForEachPage": [
                   {
@@ -4858,6 +4853,10 @@
                 ]
               }
             ]
+          },
+          {
+            "topicName": "তড়িৎক্ষেত্র",
+            "dataForPage": []
           },
           {
             "topicName": "তড়িৎ ক্ষেত্রের বিভব",
