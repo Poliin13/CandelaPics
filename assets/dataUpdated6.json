@@ -502,7 +502,7 @@
               {
                 "dataForEachPage": [
                   {
-                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/VectorHandnote.pdf"
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh02_Vector.pdf"
                   }
                 ]
               }
@@ -987,6 +987,18 @@
                   {
                     "flipCardFront": "৩। একটি গাড়ির চাকার ব্যাস 0.6m। গাড়িটি স্থিরবস্থা হতে সমতরণে চলে 4s শেষে 7.5m/s বেগ লাভ করে।চাকার কৌণিক তরণ ও ঊক্ত সময়ের ঘূর্ণ্ন সংখ্যা বের কর।",
                     "flipCardBack": "উত্তরঃ 6.25rad/s2 , 7.96rev "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "হ্যান্ডনোট গতিবিদ্যা",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh03_Dynamics.pdf"
                   }
                 ]
               }
@@ -1778,6 +1790,18 @@
             ]
           },
           {
+            "topicName": "হ্যান্ডনোট নিউটনিয়ান গতিবিদ্যা",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh04_NewtonianMechanics.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -2178,6 +2202,18 @@
                   {
                     "flipCardFront": "৮। 1kg ভরের পদার্থের রূপান্তরে কত ক্যালরি তাপশক্তি উৎপন্ন হবে?",
                     "flipCardBack": "উত্তরঃ 2.143×10^16 Cal"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "হ্যান্ডনোট কাজ,শক্তি ও ক্ষমতা",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh05_WorkEnergyPower.pdf"
                   }
                 ]
               }
@@ -2721,6 +2757,18 @@
                   {
                     "flipCardFront": "২. সূর্য হতে পৃথিবীর গড় দূরত্ব বর্তমান গড় দূরত্বের অর্ধেক হয়ে গেলে এক বছরে কত দিন হবে?",
                     "flipCardBack": "উত্তর: নিজে কর "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "হ্যান্ডনোট মহাকর্ষ ও অভিকর্ষ",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh06_Gravity.pdf"
                   }
                 ]
               }
@@ -3400,6 +3448,18 @@
             ]
           },
           {
+            "topicName": "হ্যান্ডনোট পদার্থের গাঠনিক ধর্ম",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh07_PhysicalPropertiesOfMatter.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -3737,6 +3797,18 @@
                   {
                     "flipCardFront": "৬। কোন স্প্রিং এর এক প্রান্তে একটি বস্তু ঝুলিয়ে বস্তুটিকে একটু ছেড়ে দিলে এটি a বিস্তারে স্পন্দিত হতে থাকে।কোথায় এর গতিশক্তি ও বিভবশক্তি সমান হবে?",
                     "flipCardBack": "ঊত্তরঃ 0.707a দূরে"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topicName": "হ্যান্ডনোট পর্যাবৃত্ত গতি ",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh08_SHM.pdf"
                   }
                 ]
               }
@@ -4279,6 +4351,18 @@
             ]
           },
           {
+            "topicName": "হ্যান্ডনোট তরঙ্গ",
+            "dataForPage": [
+              {
+                "dataForEachPage": [
+                  {
+                    "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh09_wave.pdf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "topicName": "সৃজনশীল টেস্টপেপার",
             "dataForPage": [
               {
@@ -4726,7 +4810,7 @@
         "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.02.Icon.webp",
         "topicsData": [
           {
-            "topicName": "Concept",
+            "topicName": "ধারণা-স্থির তড়িৎ",
             "dataForPage": [
               {
                 "dataForEachPage": [
