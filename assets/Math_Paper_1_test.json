@@ -1,0 +1,24 @@
+{
+  "subjectName": "Math 1st Paper",
+  "chapters": [
+    {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "chapterIcon": "https://github.com/Poliin13/CandelaPics/blob/master/images/Math1stPaper/1.Matrix.gif",
+      "topicsData": [
+        {
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/1,2.BasicFormulaMatrixandDeterminant_compressed_2.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
