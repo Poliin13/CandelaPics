@@ -115,7 +115,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/3.BasicFormulaVector_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/3.BasicFormulaVector_compressed_2.pdf"
                 }
               ]
             }
@@ -127,7 +127,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/3.HandnoteVector_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/3.HandnoteVector_compressed.pdf"
                 }
               ]
             }
@@ -206,7 +206,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/4a,4b.BasicFormulaStraightLine_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/4a,4b.BasicFormulaStraightLine_compressed_2.pdf"
                 }
               ]
             }
@@ -218,7 +218,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/4a.HandnoteCoordinates_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/4a.HandnoteCoordinates_compressed.pdf"
                 }
               ]
             }
@@ -230,7 +230,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/4b.HandnoteStraightLine_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/4b.HandnoteStraightLine_compressed.pdf"
                 }
               ]
             }
@@ -309,7 +309,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/5.BasicFormulaCircle_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/5.BasicFormulaCircle_compressed_2.pdf"
                 }
               ]
             }
@@ -321,7 +321,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/5.HandnoteCircle_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/5.HandnoteCircle_compressed.pdf"
                 }
               ]
             }
@@ -388,7 +388,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/6a,6b.BasicFormulaPermutationandCombination_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/6a,6b.BasicFormulaPermutationandCombination_compressed_2.pdf"
                 }
               ]
             }
@@ -400,7 +400,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/6a.HandnotePermutation_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/6a.HandnotePermutation_compressed.pdf"
                 }
               ]
             }
@@ -412,7 +412,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/6b.HandnoteCombination_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/6b.HandnoteCombination_compressed.pdf"
                 }
               ]
             }
@@ -479,7 +479,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/7.BasicFormulaTrigonometry_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/7.BasicFormulaTrigonometry_compressed_2.pdf"
                 }
               ]
             }
@@ -491,7 +491,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/7.HandnoteTrigonometry_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/7.HandnoteTrigonometry_compressed.pdf"
                 }
               ]
             }
@@ -594,7 +594,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/8.BasicFormulaFunction_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/8.BasicFormulaFunction_compressed_2.pdf"
                 }
               ]
             }
@@ -606,7 +606,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/8.HandnoteFunction_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/8.HandnoteFunction_compressed.pdf"
                 }
               ]
             }
@@ -673,7 +673,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/9.BasicFormulaDifferentiation_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/9.BasicFormulaDifferentiation_compressed_2.pdf"
                 }
               ]
             }
@@ -685,7 +685,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/9.HandnoteDifferentiation_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/9.HandnoteDifferentiation_compressed.pdf"
                 }
               ]
             }
@@ -752,7 +752,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/10.BasicFormulaIntegration_compressed_2.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/10.BasicFormulaIntegration_compressed_2.pdf"
                 }
               ]
             }
@@ -764,7 +764,7 @@
             {
               "dataForEachPage": [
                 {
-                  "mcqJsonFile": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/10a.HandnoteIntegrationVersion2_compressed.pdf"
+                  "pdfUrl": "https://github.com/Poliin13/CandelaPics/blob/master/assets/Math1stPaperPDF/HandnoteMath1stPaper/10a.HandnoteIntegrationVersion2_compressed.pdf"
                 }
               ]
             }
