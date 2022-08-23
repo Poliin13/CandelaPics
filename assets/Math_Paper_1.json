@@ -759,7 +759,19 @@
           ]
         },
         {
-          "topicName": "হ্যান্ডনোট যোগজীকরণ",
+          "topicName": "হ্যান্ডনোট যোগজীকরণ ১",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/b87889077812d2c291e7ff80d97ed0c2ecf0c28e/assets/Math1stPaperPDF/HandnoteMath1stPaper/10a.HandnoteIntegrationVersion1_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "হ্যান্ডনোট যোগজীকরণ ২",
           "dataForPage": [
             {
               "dataForEachPage": [
