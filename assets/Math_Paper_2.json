@@ -53,6 +53,18 @@
               ]
             }
           ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/1b.RealNumberChapterAnnex_compressed.pdf"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -92,6 +104,18 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch2_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/2b.LinearProgrammingChapterAnnex_compressed.pdf"
                 }
               ]
             }
@@ -152,6 +176,19 @@
             }
           ]
         }
+        ,
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/3b.ComplexNumberChapterannex_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -202,6 +239,18 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch4_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/4b.polynomialChapterAnnex_compressed.pdf"
                 }
               ]
             }
@@ -257,6 +306,18 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch5_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/5b.BinomialChapterAnnex_compressed.pdf"
                 }
               ]
             }
@@ -328,6 +389,18 @@
               ]
             }
           ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/6b.ConicsChapterAnnex_compressed.pdf"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -379,6 +452,18 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch7_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/7b.TrigonometryChapterAnnex_compressed.pdf"
                 }
               ]
             }
@@ -438,6 +523,18 @@
               ]
             }
           ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/8b.StaticsChapterAnnex_compressed.pdf"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -489,6 +586,18 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch9_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/9b.DynamicsChapterAnnex_compressed.pdf"
                 }
               ]
             }
@@ -548,7 +657,51 @@
               ]
             }
           ]
+        },
+        {
+          "topicName": "পরিশিষ্ট",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/10b.ProbabilityChapterAnnex_compressed.pdf"
+                }
+              ]
+            }
+          ]
         }
+      ]
+    },
+    {
+      "chapterNumber": "সংযুক্তি",
+      "chapterName": "প্রয়োজনীয় তথ্য",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math1stPaper/1.Matrix.gif",
+      "topicsData": [
+        {
+          "topicName": "সকল অধ্যায়ের প্রশ্নসমূহ",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/11b.CombinedChapterQuestions_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicName": "বোর্ডপ্রশ্ন ২০১৭-২০২১",
+          "dataForPage": [
+            {
+              "dataForEachPage": [
+                {
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/12b.BoardQuestionmath2nd2017-2021_compressed.pdf"
+                }
+              ]
+            }
+          ]
+        }
+        
       ]
     }
   ]
