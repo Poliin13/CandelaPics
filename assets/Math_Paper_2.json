@@ -175,8 +175,7 @@
               ]
             }
           ]
-        }
-        ,
+        },
         {
           "topicName": "পরিশিষ্ট",
           "dataForPage": [
@@ -573,7 +572,7 @@
             {
               "dataForEachPage": [
                 {
-                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch9_compressed.pdf"
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/926bb61175cae36056713cc9d07b4cecd19d810b/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch9_compressed.pdf"
                 }
               ]
             }
@@ -701,7 +700,6 @@
             }
           ]
         }
-        
       ]
     }
   ]
