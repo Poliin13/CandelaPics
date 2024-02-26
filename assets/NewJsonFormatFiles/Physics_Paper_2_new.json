@@ -8,22 +8,18 @@
       "topicsData": [
         {
           "topicName": "হ্যান্ডনোট তাপগতিবিদ্যা",
-          "topicUrl": "https://example.com/thermodynamics-handnotes",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/ThermodynamicsHandnote.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/thermodynamics-theory-test-paper",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/thermodynamics-math-problems-test-paper",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/thermodynamics-objective-test-paper",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Objective_compressed.pdf"
         }
       ]
@@ -40,22 +36,18 @@
         },
         {
           "topicName": "হ্যান্ডনোট স্থিরতড়িৎ",
-          "topicUrl": "",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteStaticElectricity.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Objective_compressed.pdf"
         }
       ]
@@ -68,22 +60,18 @@
       "topicsData": [
         {
           "topicName": "হ্যান্ডনোট চল তড়িৎ",
-          "topicUrl": "https://example.com/handnotes-current-electricity",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh02_cholo_torit.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-test-paper-current-electricity",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-test-paper-current-electricity",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-test-paper-current-electricity",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Objective_compressed.pdf"
         }
       ]
@@ -95,22 +83,18 @@
       "topicsData": [
         {
           "topicName": "হ্যান্ডনোট তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
-          "topicUrl": "https://example.com/electric-magnetism-handnote",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh04_torit_probaher_choumbok_kriya.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetism-creative-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetism-math-problems",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetism-objective-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Objective_compressed.pdf"
         }
       ]
@@ -122,22 +106,18 @@
       "topicsData": [
         {
           "topicName": "হ্যান্ডনোট তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
-          "topicUrl": "https://example.com/magnetic-induction-handnote",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh05_torit_chumbokiyo_abesh_o_dik_poriborti.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetic-induction-creative-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetic-induction-math-problems",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/magnetic-induction-objective-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Objective_compressed.pdf"
         }
       ]
@@ -149,22 +129,18 @@
       "topicsData": [
         {
           "topicName": "হ্যান্ডনোট জ্যামিতিক আলোকবিজ্ঞান",
-          "topicUrl": "https://example.com/geometric-optics-handnote",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteGeometricOptics.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/geometric-optics-creative-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Theory_compressed.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/geometric-optics-math-problems",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Math_compressed.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/geometric-optics-objective-test",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Objective_compressed.pdf"
         }
       ]
@@ -176,22 +152,18 @@
         "topicsData": [
           {
             "topicName": "হ্যান্ডনোট ভৌত আলোকবিজ্ঞান",
-            "topicUrl": "https://example.com/physical-optics-handnotes",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnotePhysicalOptics.pdf"
           },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
-            "topicUrl": "https://example.com/physical-optics-creative-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Theory_compressed.pdf"
           },
           {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-            "topicUrl": "https://example.com/physical-optics-math-problems-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Math_compressed.pdf"
           },
           {
             "topicName": "অবজেক্টিভ টেস্টপেপার",
-            "topicUrl": "https://example.com/physical-optics-objective-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Objective_compressed.pdf"
           }
         ]
@@ -203,22 +175,18 @@
         "topicsData": [
           {
             "topicName": "হ্যান্ডনোট আধুনিক পদার্থবিজ্ঞানের সূচনা",
-            "topicUrl": "https://example.com/modern-physics-handnotes",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteModernPhysics.pdf"
           },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
-            "topicUrl": "https://example.com/modern-physics-creative-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Theory_compressed.pdf"
           },
           {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-            "topicUrl": "https://example.com/modern-physics-math-problems-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Math_compressed.pdf"
           },
           {
             "topicName": "অবজেক্টিভ টেস্টপেপার",
-            "topicUrl": "https://example.com/modern-physics-objective-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Objective_compressed.pdf"
           }
         ]
@@ -230,22 +198,18 @@
         "topicsData": [
           {
             "topicName": "হ্যান্ডনোট পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
-            "topicUrl": "https://example.com/atomic-model-handnotes",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAtomicModel.pdf"
           },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
-            "topicUrl": "https://example.com/atomic-model-creative-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Theory_compressed.pdf"
           },
           {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-            "topicUrl": "https://example.com/atomic-model-math-problems-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Math_compressed.pdf"
           },
           {
             "topicName": "অবজেক্টিভ টেস্টপেপার",
-            "topicUrl": "https://example.com/atomic-model-objective-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Objective_compressed.pdf"
           }
         ]
@@ -257,22 +221,18 @@
         "topicsData": [
           {
             "topicName": "হ্যান্ডনোট সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
-            "topicUrl": "https://example.com/electronics-handnotes",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteElectronics.pdf"
           },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
-            "topicUrl": "https://example.com/electronics-creative-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Theory_compressed.pdf"
           },
           {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-            "topicUrl": "https://example.com/electronics-math-problems-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Math_compressed.pdf"
           },
           {
             "topicName": "অবজেক্টিভ টেস্টপেপার",
-            "topicUrl": "https://example.com/electronics-objective-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Objective_compressed.pdf"
           }
         ]
@@ -284,22 +244,18 @@
         "topicsData": [
           {
             "topicName": "হ্যান্ডনোট জ্যোতির্বিজ্ঞান",
-            "topicUrl": "https://example.com/astronomy-handnotes",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAstronomy.pdf"
           },
           {
             "topicName": "সৃজনশীল টেস্টপেপার",
-            "topicUrl": "https://example.com/astronomy-creative-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Theory_compressed.pdf"
           },
           {
             "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-            "topicUrl": "https://example.com/astronomy-math-problems-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Math_compressed.pdf"
           },
           {
             "topicName": "অবজেক্টিভ টেস্টপেপার",
-            "topicUrl": "https://example.com/astronomy-objective-test-paper",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Objective_compressed.pdf"
           }
         ]
@@ -311,22 +267,18 @@
         "topicsData": [
           {
             "topicName": "সকল সুত্রসমূহ",
-            "topicUrl": "https://example.com/2nd-paper-all-equations",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/AllEquations2ndPaper_compressed.pdf"
           },
           {
             "topicName": "বোর্ড প্রশ্নসমূহ",
-            "topicUrl": "https://example.com/2nd-paper-board-questions",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/BoardQuestion2ndPaper_compressed.pdf"
           },
           {
             "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
-            "topicUrl": "https://example.com/2nd-paper-board-objective-questions",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/BoardObjective2ndPaper_compressed.pdf"
           },
           {
             "topicName": "মডেল প্রশ্ন",
-            "topicUrl": "https://example.com/2nd-paper-model-questions",
             "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/ModelQuestion2ndPaper_compressed.pdf"
           }
         ]

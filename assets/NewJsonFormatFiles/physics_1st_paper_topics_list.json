@@ -8,23 +8,19 @@
       "topicsData": [
         {
           "topicName": "ত্রুটি পরিমাপ",
-          "topicUrl": "https://example.com/error-measurement",
-          "topicPdfUrl": "https://example.com/error-measurement.pdf"
+          "topicUrl": "https://example.com/error-measurement"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-test-paper",
-          "topicPdfUrl": "https://example.com/creative-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-test-paper",
-          "topicPdfUrl": "https://example.com/math-problems-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-test-paper",
-          "topicPdfUrl": "https://example.com/objective-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Objective.pdf"
         }
       ]
     },
@@ -50,28 +46,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট ভেক্টর",
-          "topicUrl": "https://example.com/handnote-vector",
-          "topicPdfUrl": "https://example.com/handnote-vector.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh02_RefinedVector.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-test-paper",
-          "topicPdfUrl": "https://example.com/creative-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-test-paper",
-          "topicPdfUrl": "https://example.com/math-problems-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-test-paper",
-          "topicPdfUrl": "https://example.com/objective-test-paper.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "https://example.com/mcq-quiz",
-          "topicPdfUrl": "https://example.com/mcq-quiz.pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter2Mcq.json"
         }
       ]
     },
@@ -189,28 +180,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট নিউটনিয়ান গতিবিদ্যা",
-          "topicUrl": "https://example.com/handwritten-newtonian-mechanics",
-          "topicPdfUrl": "https://example.com/handwritten-newtonian-mechanics.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh04_NewtonianMechanics.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-newtonian-mechanics-test",
-          "topicPdfUrl": "https://example.com/creative-newtonian-mechanics-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-newtonian-mechanics-test",
-          "topicPdfUrl": "https://example.com/math-problems-newtonian-mechanics-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-newtonian-mechanics-test",
-          "topicPdfUrl": "https://example.com/objective-newtonian-mechanics-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "https://example.com/mcq-quiz-newtonian-mechanics",
-          "topicPdfUrl": "https://example.com/mcq-quiz-newtonian-mechanics.pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter4Mcq.json"
         }
       ]
     },
@@ -246,28 +232,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট কাজ,শক্তি ও ক্ষমতা",
-          "topicUrl": "https://example.com/handwritten-work-energy-power",
-          "topicPdfUrl": "https://example.com/handwritten-work-energy-power.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh05_WorkEnergyPower.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-work-energy-power-test",
-          "topicPdfUrl": "https://example.com/creative-work-energy-power-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-work-energy-power-test",
-          "topicPdfUrl": "https://example.com/math-problems-work-energy-power-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-work-energy-power-test",
-          "topicPdfUrl": "https://example.com/objective-work-energy-power-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "https://example.com/mcq-quiz-work-energy-power",
-          "topicPdfUrl": "https://example.com/mcq-quiz-work-energy-power.pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter5Mcq.json"
         }
       ]
     },
@@ -318,28 +299,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট মহাকর্ষ ও অভিকর্ষ",
-          "topicUrl": "https://example.com/handwritten-gravity-and-gravitation",
-          "topicPdfUrl": "https://example.com/handwritten-gravity-and-gravitation.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh06_Gravity.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "https://example.com/creative-gravity-and-gravitation-test",
-          "topicPdfUrl": "https://example.com/creative-gravity-and-gravitation-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "https://example.com/math-problems-gravity-and-gravitation-test",
-          "topicPdfUrl": "https://example.com/math-problems-gravity-and-gravitation-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "https://example.com/objective-gravity-and-gravitation-test",
-          "topicPdfUrl": "https://example.com/objective-gravity-and-gravitation-test.pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "https://example.com/mcq-quiz-gravity-and-gravitation",
-          "topicPdfUrl": "https://example.com/mcq-quiz-gravity-and-gravitation.pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter6Mcq.json"
         }
       ]
     },
@@ -400,28 +376,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট পদার্থের গাঠনিক ধর্ম",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh07_PhysicalPropertiesOfMatter.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter7Mcq.json"
         }
       ]
     },
@@ -451,29 +422,24 @@
           "topicPdfUrl": "url_to_topic_pdf"
         },
         {
-          "topicName": "হ্যান্ডনোট পর্যাবৃত্ত গতি ",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicName": "হ্যান্ডনোট পর্যাবৃত্ত গতি",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh08_SHM.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter8Mcq.json"
         }
       ]
     },
@@ -519,28 +485,23 @@
         },
         {
           "topicName": "হ্যান্ডনোট তরঙ্গ",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh09_wave.pdf"
         },
         {
           "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Theory.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter9Mcq.json"
         }
       ]
     },
@@ -571,23 +532,19 @@
         },
         {
           "topicName": "হ্যান্ডনোট আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh10_IdealGas.pdf"
         },
         {
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Math.pdf"
         },
         {
           "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Objective.pdf"
         },
         {
           "topicName": "MCQ Quiz",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter10Mcq.json"
         }
       ]
     },
@@ -598,18 +555,15 @@
       "topicsData": [
         {
           "topicName": "সকল সুত্রসমূহ",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/AllFormulas1stPaper.pdf"
         },
         {
           "topicName": "বোর্ড প্রশ্নসমূহ",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
         },
         {
           "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
-          "topicUrl": "url_to_topic_page",
-          "topicPdfUrl": "url_to_topic_pdf"
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
         }
       ]
     }

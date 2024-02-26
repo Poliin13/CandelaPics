@@ -8,27 +8,22 @@
       "topicsData": [
         {
           "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/real-number-complex-number-formula",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/1,2.BasicFormulaRealNumber_ComplexNumber_compressed"
         },
         {
           "topicName": "হ্যান্ডনোট বাস্তব সংখ্যা ও অসমতা",
-          "topicUrl": "https://example.com/handnote-real-number-complex-number",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/1.HandnoteRealNumber_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/Math2ch1_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/Math2Ch1_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/chapter-1-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/1b.RealNumberChapterAnnex_compressed.pdf"
         }
       ]
@@ -39,23 +34,19 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/2.gif",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/linear-programming-formula",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/1,2.BasicFormulaRealNumber_ComplexNumber_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch2_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch2_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/chapter-2-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/2b.LinearProgrammingChapterAnnex_compressed.pdf"
         }
       ]
@@ -66,28 +57,23 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/3.gif",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/polynomial-binomial-formula",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/3,4.BasicFormulaPolynomialandBinomialEquation_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট জটিল সংখ্যা",
-          "topicUrl": "https://example.com/handnote-complex-number",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/2.HandnoteComplexNumber_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch3_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/math2ch3_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/chapter-3-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/3b.ComplexNumberChapterannex_compressed.pdf"
         }
       ]
@@ -98,28 +84,23 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/4.jpg",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/polynomial-binomial-formula",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/3,4.BasicFormulaPolynomialandBinomialEquation_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট বহুপদী ও বহুপদী সমীকরণ",
-          "topicUrl": "https://example.com/handnote-polynomial-binomial",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/3.HandnotePolynomial_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch4_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch4_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/chapter-4-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/4b.polynomialChapterAnnex_compressed.pdf"
         }
       ]
@@ -130,28 +111,23 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/5.webp",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/conics-formula",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/5.BasicFormulaConics_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট দ্বিপদী বিস্তৃতি",
-          "topicUrl": "https://example.com/handnote-binomial-theorem",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/4.HandnoteBinomialTheorem_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch5_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch5_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/chapter-5-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/5b.BinomialChapterAnnex_compressed.pdf"
         }
       ]
@@ -162,33 +138,27 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/6.gif",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/basic-formulas",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/6,7.BasicFormulaInverseTrigonometricFunctionandTrigonometricEquation_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট কনিক ৫(ক)",
-          "topicUrl": "https://example.com/handnotes-conics-1",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/5a.HandnoteConics-1_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট কনিক ৫(খ)",
-          "topicUrl": "https://example.com/handnotes-conics-2",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/5b.HandnoteConics-2_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch6_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch6_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/conics-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/6b.ConicsChapterAnnex_compressed.pdf"
         }
       ]
@@ -199,28 +169,23 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/7.webp",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/basic-formulas",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/6,7.BasicFormulaInverseTrigonometricFunctionandTrigonometricEquation_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট বিপরীত ত্রিকোণমিতিক ফাংশন ও ত্রিকোণমিতিক সমীকরণ",
-          "topicUrl": "https://example.com/handnotes-inverse-trig",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/6,7.HandnoteInverseTrigonometricFunctionandTrigonometricEquation_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch7_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch7_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/trigonometry-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/7b.TrigonometryChapterAnnex_compressed.pdf"
         }
       ]
@@ -231,28 +196,23 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Math2ndPaper/8.png",
       "topicsData": [
         {
-          "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/basic-formulas",
+          "topicName": "বেসিক ফর্মুলা",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/8.BasicFormulaStatics_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট স্থিতিবিদ্যা",
-          "topicUrl": "https://example.com/handnotes-statics",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/8.HandnoteStatics_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch8_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch8_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/statics-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/8b.StaticsChapterAnnex_compressed.pdf"
         }
       ]
@@ -264,27 +224,22 @@
       "topicsData": [
         {
           "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/basic-formulas",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/9.BasicFormulaDynamics_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট সমতলে বস্তুকণার গতি",
-          "topicUrl": "https://example.com/handnotes-dynamics",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote9.HandnoteDynamics_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/926bb61175cae36056713cc9d07b4cecd19d810b/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch9_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch9_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/dynamics-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/9b.DynamicsChapterAnnex_compressed.pdf"
         }
       ]
@@ -296,27 +251,22 @@
       "topicsData": [
         {
           "topicName": "বেসিক ফরমুলা",
-          "topicUrl": "https://example.com/basic-formulas",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2BasicFormula/10.BasicFormulaDispersionandProbability_compressed.pdf"
         },
         {
           "topicName": "হ্যান্ডনোট বিস্তার পরিমাপ ও সম্ভাবনা",
-          "topicUrl": "https://example.com/handnotes-probability",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2Handnote/10.HandnoteProbability_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার বই",
-          "topicUrl": "https://example.com/asimkumar-book",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/1e24fd0c349ab954dd0b423a1c7d4ccdffbc58ee/assets/Math2ndPaperPDF/Math2BookAsimKumar/math2ch10_compressed.pdf"
         },
         {
           "topicName": "অসীমকুমার সমাধান",
-          "topicUrl": "https://example.com/asimkumar-solution",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/6826fc98c277864addfb2decbc1306fc9864a2fa/assets/Math2ndPaperPDF/Math2SolutionAsimKumar/math2ch10_compressed.pdf"
         },
         {
           "topicName": "পরিশিষ্ট",
-          "topicUrl": "https://example.com/probability-annex",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/10b.ProbabilityChapterAnnex_compressed.pdf"
         }
       ]
@@ -328,12 +278,10 @@
       "topicsData": [
         {
           "topicName": "সকল অধ্যায়ের প্রশ্নসমূহ",
-          "topicUrl": "https://example.com/all-chapter-questions",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/11b.CombinedChapterQuestions_compressed.pdf"
         },
         {
           "topicName": "বোর্ডপ্রশ্ন ২০১৭-২০২১",
-          "topicUrl": "https://example.com/board-questions-2017-2021",
           "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/867b321d2cfdf9e10dcaae9ac7a914d587fc0f0a/assets/Math2ndPaperPDF/Annex/12b.BoardQuestionmath2nd2017-2021_compressed.pdf"
         }
       ]
