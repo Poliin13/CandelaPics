@@ -1,0 +1,35 @@
+[
+
+  {
+
+    "subjectName": "PT Table 1",
+
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/PtTable1.json"
+
+  },
+
+  {
+
+    "subjectName": "PT Table 2",
+
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/PtTable2.json"
+
+  },
+
+  {
+
+    "subjectName": "Squad Drill",
+
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/SquadDrill.json"
+
+  },
+
+  {
+
+    "subjectName": "Platoon Drill",
+
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/PlatoonDrill.json"
+
+  } 
+
+]
