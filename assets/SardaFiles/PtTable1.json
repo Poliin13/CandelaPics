@@ -1,30 +1,28 @@
 {
-  "subjectName": "Physics 1st Paper",
+  "subjectName": "PT Table 1",
   "chapters": [
     {
       "chapterNumber": "প্রথম অধ্যায়",
-      "chapterName": "ভৌত জগত ও পরিমাপ",
+      "chapterName": "Marching & Running",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
       "topicsData": [
         {
-          "topicName": "ত্রুটি পরিমাপ",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html",
-          "math_solutions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataMath.html",
-          "objective_questions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataObjective.html",
-          "subjective_questions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/ErrorsInMeasurement.html"
+          "topicName": "Heel Raise",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
-          "topicName": "সৃজনশীল টেস্টপেপার",
-          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+          "topicName": "Quick March Bending Knee",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
-          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Math.pdf"
+          "topicName": "Left-Up Right-Up",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
-          "topicName": "অবজেক্টিভ টেস্টপেপার",
-          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Objective.pdf"
+          "topicName": "Walking on Heel",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         }
+        
       ]
     },
     {
