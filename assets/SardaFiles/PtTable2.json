@@ -7,6 +7,10 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
       "topicsData": [
         {
+          "topicName": "PT Table 2 Chart",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTable2.html"
+        },
+        {
           "topicName": "কুইক থেকে ডবল, ডবল থেকে হল্ট (সাবধান থেকে শুরু)",
           "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
@@ -201,7 +205,7 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
       "topicsData": [
         {
-          "topicName": "All PT Chart",
+          "topicName": "PT Table 2 Chart",
           "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTable2.html"
         }
       
