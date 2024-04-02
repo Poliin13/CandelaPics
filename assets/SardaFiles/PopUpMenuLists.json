@@ -1,43 +1,26 @@
 [
-
   {
-
     "subjectName": "PT Table 1",
-
     "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PtTable1.json"
-
   },
-
   {
-
     "subjectName": "PT Table 2",
-
     "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PtTable2.json"
-
   },
-
   {
-
+    "subjectName": "Foot Drills",
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/FootDrills.json"
+  },
+  {
     "subjectName": "Squad Drill",
-
     "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill.json"
-
   },
-
   {
-
     "subjectName": "Platoon Drill",
-
     "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill.json"
-
   },
-  
   {
-
     "subjectName": "Weapons Tactics",
-
     "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics.json"
-
-  } 
-
+  }
 ]
