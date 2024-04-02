@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,23 +8,23 @@
   <title>Candela Background</title>
   <style>
     body {
+      margin: 0;
+      padding: 0;
       display: flex;
       justify-content: center;
       align-items: center;
-
+      height: 100vh; /* Use full viewport height */
     }
 
+    iframe {
+      width: 100%; /* Take full width */
+      height: 100%; /* Take full height */
+    }
   </style>
 </head>
 
 <body>
-  <iframe width="315" height="560" 
-src="https://youtube.com/embed/thXpy3gdqpg" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-gyroscope; picture-in-picture;
-web-share"
-allowfullscreen></iframe>
+  <iframe src="https://youtube.com/embed/thXpy3gdqpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </body>
 
 </html>
