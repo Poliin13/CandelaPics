@@ -26,7 +26,6 @@
           "topicName": "Walking on Heel",
           "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         }
-        
       ]
     },
     {
@@ -46,12 +45,11 @@
         },
         {
           "topicName": "সাবধান পজিশন ৬ মোশন",
-          "topicUrl": "https://example.com/vector-calculus",
-          "topicPdfUrl": "https://example.com/vector-calculus.pdf"
+          "topicUrl": "https://example.com/vector-calculus"
         },
         {
           "topicName": "৩ ফুট পা খোলা কোমর হাত, কোমন ডানে বামে ঘোরানো",
-          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh02_RefinedVector.pdf"
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PtTable1Files/Introductory-4.html"
         },
         {
           "topicName": "সাইড জাম্প করা",
@@ -199,7 +197,6 @@
           "topicName": "PT Table 1 Chart",
           "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTable1.html"
         }
-      
       ]
     }
   ]
