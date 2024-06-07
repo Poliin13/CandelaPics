@@ -518,18 +518,6 @@
               ]
             }
           ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter2Mcq.json"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1010,18 +998,6 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Objective.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter3Mcq.json"
                 }
               ]
             }
@@ -1811,18 +1787,6 @@
               ]
             }
           ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter4Mcq.json"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -2225,18 +2189,6 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Objective.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter5Mcq.json"
                 }
               ]
             }
@@ -2780,18 +2732,6 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Objective.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter6Mcq.json"
                 }
               ]
             }
@@ -3469,18 +3409,6 @@
               ]
             }
           ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter7Mcq.json"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -3820,18 +3748,6 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Objective.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter8Mcq.json"
                 }
               ]
             }
@@ -4372,18 +4288,6 @@
               ]
             }
           ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter9Mcq.json"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -4669,18 +4573,6 @@
               "dataForEachPage": [
                 {
                   "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Objective.pdf"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "topicName": "MCQ Quiz",
-          "dataForPage": [
-            {
-              "dataForEachPage": [
-                {
-                  "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter10Mcq.json"
                 }
               ]
             }
