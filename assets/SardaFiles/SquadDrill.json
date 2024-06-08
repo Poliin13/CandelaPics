@@ -1,9 +1,10 @@
 {
-  "subjectName": "PT Table 1",
+  "subjectName": "Squad Drill",
   "chapters": [
     {
       "chapterNumber": "প্রথম অধ্যায়",
       "chapterName": "Squad Formations",
+      "chapterIconName": "SQUAD\nDRILL",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
       "topicsData": [
         {
