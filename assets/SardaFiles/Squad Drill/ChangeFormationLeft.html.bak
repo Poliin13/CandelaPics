@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Squad Drill Formations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: transparent;
+        }
+        h1 {
+            font-size: 48px;
+        }
+        h3 {
+            font-size: 32px;
+        }
+        p, ol {
+            font-size: 24px;
+        }
+        h4 {
+            font-size: 28px;
+        }
+        img {
+            border: 2px solid;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Squad Drill Formations</h1>
+    <h3>Squad</h3>
+    <p>A squad is a small group of people, often 8-14 in number, organized for a specific purpose, such as military operations, law enforcement, sports, or business projects.</p>
+    <h3>Squad Formations</h3>
+    <ol>
+        <li><b>Squad In Line Formation</b></li>
+        <li><b>Squad In Threes Formation</b></li>
+    </ol>
+    <h4>Squad In Line Formation</h4>
+    <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Squad%20Drill/assets/squadInLine.png" alt="Squad In Line Formation">
+    <h4>Squad In Threes Formation</h4>
+    <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Squad%20Drill/assets/squadInThrees.png" alt="Squad In Threes Formation">
+    <p><b>N.B. The Red Triangle is the Guide.</b></p>
+</body>
+</html>
