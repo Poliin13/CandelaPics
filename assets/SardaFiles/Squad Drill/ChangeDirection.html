@@ -8,29 +8,28 @@
             font-family: Arial, sans-serif;
             background: transparent;
             margin: 0;
-            padding: 0 2vw;
-            font-size: 2vw; /* Base font size is now relative to the viewport width */
+            padding: 0 10px;
         }
         h1 {
-            font-size: 3em; /* 3 times the base font size */
+            font-size: 48px;
             max-width: 100%;
         }
         h3 {
-            font-size: 2.5em; /* 2.5 times the base font size */
+            font-size: 32px;
             max-width: 100%;
         }
         p, ol {
-            font-size: 1.2em; /* 1.2 times the base font size */
+            font-size: 24px;
             max-width: 100%;
         }
         h4 {
-            font-size: 1.4em; /* 1.4 times the base font size */
+            font-size: 28px;
             max-width: 100%;
         }
         img {
             border: 2px solid;
             width: 100%;
-            max-width: 60vw; /* Max width is 60% of the viewport width */
+            max-width: 600px;
             height: auto;
             display: block;
             margin: 0 auto;
@@ -39,20 +38,46 @@
             max-width: 100%;
             margin: 0 auto;
         }
+        .font-controls {
+            text-align: right;
+            margin: 10px 0;
+        }
+        .font-controls button {
+            padding: 10px;
+            margin: 5px;
+            font-size: 16px;
+            border: none;
+            background: none;
+            cursor: pointer;
+        }
     </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        function changeFontSize(increase) {
+            const elements = document.querySelectorAll('h1, h3, p, ol, h4');
+            elements.forEach(el => {
+                const currentSize = parseFloat(window.getComputedStyle(el, null).getPropertyValue('font-size'));
+                el.style.fontSize = increase ? (currentSize + 2) + 'px' : (currentSize - 2) + 'px';
+            });
+        }
+    </script>
 </head>
 <body>
     <div class="content">
-        <h1>Directon Change</h1>
-        <h3>Squad Directon Change</h3>
+        <div class="font-controls">
+            <button onclick="changeFontSize(true)"><i class="fas fa-plus"></i></button>
+            <button onclick="changeFontSize(false)"><i class="fas fa-minus"></i></button>
+        </div>
+        <h1>Direction Change</h1>
+        <h3>Squad Direction Change</h3>
         <ol>
-            <li><b>Change Directon on the Right</b></li>
-            <li><b>Change Directon on the Left</b></li>
+            <li><b>Change Direction on the Right</b></li>
+            <li><b>Change Direction on the Left</b></li>
         </ol>
-        <h4>Change Directon on the Left</h4>
+        <h4>Change Direction on the Left</h4>
         <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Squad%20Drill/assets/ChangeDirectionLeft.gif" alt="Change Direction on the Left">
         <p><b><em>Command</em>: Squad, by the left, change direction left, left form.</b></p>
-        <h4>Change Directon on the Right</h4>
+        <h4>Change Direction on the Right</h4>
         <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Squad%20Drill/assets/ChangeDirectionRight.gif" alt="Change Direction on the Right">
         <p><b><em>Command</em>: Squad, by the right, change direction right, right form.</b></p>
     </div>
