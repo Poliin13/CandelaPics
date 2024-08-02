@@ -9,19 +9,19 @@
       "topicsData": [
         {
           "topicName": "Squad Formations",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.html"
         },
         {
           "topicName": "Change Formation Commands",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.html"
         },
         {
           "topicName": "Change Direction Commands",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.html"
         },
         {
           "topicName": "Diagonal Formation",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         }
       ]
     },
@@ -32,27 +32,27 @@
       "topicsData": [
         {
           "topicName": "Right Turning(From Inline)\nSquad, Move to the right in 3's, Right Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
           "topicName": "Right Turning(from In3s)\nSquad, will advance into line, Right Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
           "topicName": "Left Turning(From Inline)\nSquad, Move to the left in 3's, Left Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
           "topicName": "Left Turning(From In3s)\nSquad, will advance into line, Left Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
           "topicName": "About Turn(From Inline)\nSquad, will advance into line, About Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         },
         {
           "topicName": "About Turn(From In3s)\nSquad, About Turn",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
         }
       ]
     },
@@ -63,12 +63,12 @@
       "topicsData": [
         {
           "topicName": "Squad, by the right, change direction right, right form",
-          "topicUrl": "https://example.com/newtons-formulas",
+          "topicHtmlUrl": "https://example.com/newtons-formulas",
           "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
         },
         {
           "topicName": "Squad, by the left, change direction left, left form",
-          "topicUrl": "https://example.com/falling-objects",
+          "topicHtmlUrl": "https://example.com/falling-objects",
           "topicPdfUrl": "https://example.com/falling-objects.pdf"
         }
       ]
@@ -80,12 +80,12 @@
       "topicsData": [
         {
           "topicName": "Squad, by the right, at the halt, change direction right, right form. Quick March.",
-          "topicUrl": "https://example.com/concept-of-force",
+          "topicHtmlUrl": "https://example.com/concept-of-force",
           "topicPdfUrl": "https://example.com/concept-of-force.pdf"
         },
         {
           "topicName": "Squad, by the left, at the halt, change direction left, left form. Quick March.",
-          "topicUrl": "https://example.com/newtons-formulas",
+          "topicHtmlUrl": "https://example.com/newtons-formulas",
           "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
         }
       ]
@@ -97,12 +97,12 @@
       "topicsData": [
         {
           "topicName": "Squad, threes by the right, on the right, form squad.",
-          "topicUrl": "https://example.com/work",
+          "topicHtmlUrl": "https://example.com/work",
           "topicPdfUrl": "https://example.com/work.pdf"
         },
         {
           "topicName": "Squad, threes by the left, on the left, form squad.",
-          "topicUrl": "https://example.com/nature-of-energy",
+          "topicHtmlUrl": "https://example.com/nature-of-energy",
           "topicPdfUrl": "https://example.com/nature-of-energy.pdf"
         }
       ]
@@ -114,12 +114,12 @@
       "topicsData": [
         {
           "topicName": "Squad, threes by the right, at the Halt, on the right, form squad. Quick March.",
-          "topicUrl": "https://example.com/gravity-force",
+          "topicHtmlUrl": "https://example.com/gravity-force",
           "topicPdfUrl": "https://example.com/gravity-force.pdf"
         },
         {
           "topicName": "Squad, threes by the left, at the Halt, on the left, form squad. Quick March.",
-          "topicUrl": "https://example.com/gravity-strength-and-potential",
+          "topicHtmlUrl": "https://example.com/gravity-strength-and-potential",
           "topicPdfUrl": "https://example.com/gravity-strength-and-potential.pdf"
         }
       ]
@@ -131,20 +131,20 @@
       "topicsData": [
         {
           "topicName": "Squad Reform from InLine",
-          "topicUrl": "url_to_topic_page"
+          "topicHtmlUrl": "url_to_topic_page"
         },
         {
           "topicName": "Squad, by the right, advance in single file from the right, quick march",
-          "topicUrl": "url_to_topic_page"
+          "topicHtmlUrl": "url_to_topic_page"
         },
 
         {
           "topicName": "Squad Reform from In3s",
-          "topicUrl": "url_to_topic_page"
+          "topicHtmlUrl": "url_to_topic_page"
         },
         {
           "topicName": "Squad, threes by the left, advance in single file from the left, quick march",
-          "topicUrl": "url_to_topic_page"
+          "topicHtmlUrl": "url_to_topic_page"
         }
       ]
     },
@@ -155,17 +155,17 @@
       "topicsData": [
         {
           "topicName": "সাবধান পজিশনে অর্ধেক বসা লাফ দেওয়া ও সোজা হওয়া",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         },
         {
           "topicName": "হ্যান্ড কিকিং",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         },
         {
           "topicName": "লং জাম্প ৩ জাম্প ডাবল হল্ট",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         }
       ]
@@ -177,7 +177,7 @@
       "topicsData": [
         {
           "topicName": "৩ ফুট পা খোলা হাত প্রসারিত করে পাতা উল্টনো",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         }
       ]
@@ -189,12 +189,12 @@
       "topicsData": [
         {
           "topicName": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুঠি খোলা",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         },
         {
           "topicName": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন",
-          "topicUrl": "url_to_topic_page",
+          "topicHtmlUrl": "url_to_topic_page",
           "topicPdfUrl": "url_to_topic_pdf"
         }
       ]
@@ -206,7 +206,7 @@
       "topicsData": [
         {
           "topicName": "All PT Chart",
-          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTableImage.html"
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTableImage.html"
         }
       
       ]
