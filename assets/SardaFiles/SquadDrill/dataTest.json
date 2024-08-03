@@ -2,13 +2,12 @@
             {
               "data": [
                 {
-                  "titleText": "স্লাইড ক্যালিপার্স(Slide Calipers)",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                  "title": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
                 },
                 {
-                  "titleText": "স্ফেরোমিটার (Spherometer)",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
-                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                  "title": "স্ফেরোমিটার (Spherometer)",
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif"
                 }
               ]
             }
