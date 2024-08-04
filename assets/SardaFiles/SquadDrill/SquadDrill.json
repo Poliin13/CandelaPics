@@ -10,15 +10,15 @@
       "topicsData": [
         {
           "topicName": "Squad Formations",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.json"
         },
         {
           "topicName": "Change Formation Commands",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.json"
         },
         {
           "topicName": "Change Direction Commands",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
         },
         {
           "topicName": "Diagonal Formation",
