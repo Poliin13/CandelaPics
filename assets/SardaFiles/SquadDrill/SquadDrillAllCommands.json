@@ -2,19 +2,8 @@
   "data": [
     {
       "title": "Command Topic: Turning All Directions\n",
-      "text": "
-'1. Command: Right Turning(From Inline)\n'
-'   Description: Squad, Move to the right in 3\'s, Right Turn\n\n'
-'2. Command: Right Turning(from In3s)\n'
-'   Description: Squad, will advance into line, Right Turn\n\n'
-'3. Command: Left Turning(From Inline)\n'
-'   Description: Squad, Move to the left in 3\'s, Left Turn\n\n'
-'4. Command: Left Turning(From In3s)\n'
-'   Description: Squad, will advance into line, Left Turn\n\n'
-'5. Command: About Turn(From Inline)\n'
-'   Description: Squad, will advance into line, About Turn\n\n'
-'6. Command: About Turn(From In3s)\n'
-'   Description: Squad, About Turn\n'"
+      "text":
+      " 1. Command: Right Turning(From Inline)\\n\n              Description: Squad, Move to the right in 3's, Right Turn\\n\\n\n           2. Command: Right Turning(from In3s)\\n\n              Description: Squad, will advance into line, Right Turn\\n\\n\n           3. Command: Left Turning(From Inline)\\n\n              Description: Squad, Move to the left in 3's, Left Turn\\n\\n\n           4. Command: Left Turning(From In3s)\\n\n              Description: Squad, will advance into line, Left Turn\\n\\n\n           5. Command: About Turn(From Inline)\\n\n              Description: Squad, will advance into line, About Turn\\n\\n\n           6. Command: About Turn(From In3s)\\n\n              Description: Squad, About Turn\\n"
     },
     {
       "text": ""
