@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "title": "Turning All Directions\n",
-      "text": "1. Command: Right Turning(From Inline)\n   Description: Squad, Move to the right in 3's, Right Turn\n\n2. Command: Right Turning(from In3s)\n   Description: Squad, will advance into line, Right Turn\n\n3. Command: Left Turning(From Inline)\n   Description: Squad, Move to the left in 3's, Left Turn\n\n4. Command: Left Turning(From In3s)\n   Description: Squad, will advance into line, Left Turn\n\n5. Command: About Turn(From Inline)\n   Description: Squad, will advance into line, About Turn\n\n6. Command: About Turn(From In3s)\n   Description: Squad, About Turn\n"
+      "title": "Turning All Directions",
+      "text": "1. Command: Right Turning(From Inline)\nDescription: Squad, Move to the right in 3's, Right Turn\n\n2. Command: Right Turning(from In3s)\nDescription: Squad, will advance into line, Right Turn\n\n3. Command: Left Turning(From Inline)\nDescription: Squad, Move to the left in 3's, Left Turn\n\n4. Command: Left Turning(From In3s)\nDescription: Squad, will advance into line, Left Turn\n\n5. Command: About Turn(From Inline)\nDescription: Squad, will advance into line, About Turn\n\n6. Command: About Turn(From In3s)\nDescription: Squad, About Turn\n"
     },
     {
       "title": "Changing Formation From InLine",
