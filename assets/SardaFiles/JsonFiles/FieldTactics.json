@@ -1,0 +1,216 @@
+{
+  "subjectName": "Squad Drill",
+  "chapters": [
+    {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "Squad Drill",
+
+      "chapterIconName": "SQUAD\nDRILL",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad Formations",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.json"
+        },
+        {
+          "topicName": "Change Formation Commands",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.json"
+        },
+        {
+          "topicName": "Change Direction Commands",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
+        },
+        {
+          "topicName": "All Squad Drill Commands",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadDrillAllCommands.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "Turning All Directions",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Right Turning(From Inline)\nSquad, Move to the right in 3's, Right Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "Right Turning(from In3s)\nSquad, will advance into line, Right Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "Left Turning(From Inline)\nSquad, Move to the left in 3's, Left Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "Left Turning(From In3s)\nSquad, will advance into line, Left Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "About Turn(From Inline)\nSquad, will advance into line, About Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "About Turn(From In3s)\nSquad, About Turn",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "Changing Formation From InLine",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/DynamicsIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad, by the right, change direction right, right form",
+          "topicHtmlUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        },
+        {
+          "topicName": "Squad, by the left, change direction left, left form",
+          "topicHtmlUrl": "https://example.com/falling-objects",
+          "topicPdfUrl": "https://example.com/falling-objects.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "Changing Formation From InLine at the Halt",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/chapterFourIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad, by the right, at the halt, change direction right, right form. Quick March.",
+          "topicHtmlUrl": "https://example.com/concept-of-force",
+          "topicPdfUrl": "https://example.com/concept-of-force.pdf"
+        },
+        {
+          "topicName": "Squad, by the left, at the halt, change direction left, left form. Quick March.",
+          "topicHtmlUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "Changing Formation From In3s",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/ChapterFiveIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad, threes by the right, on the right, form squad.",
+          "topicHtmlUrl": "https://example.com/work",
+          "topicPdfUrl": "https://example.com/work.pdf"
+        },
+        {
+          "topicName": "Squad, threes by the left, on the left, form squad.",
+          "topicHtmlUrl": "https://example.com/nature-of-energy",
+          "topicPdfUrl": "https://example.com/nature-of-energy.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "Changing Formation From In3s at the Halt",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/GravityIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad, threes by the right, at the Halt, on the right, form squad. Quick March.",
+          "topicHtmlUrl": "https://example.com/gravity-force",
+          "topicPdfUrl": "https://example.com/gravity-force.pdf"
+        },
+        {
+          "topicName": "Squad, threes by the left, at the Halt, on the left, form squad. Quick March.",
+          "topicHtmlUrl": "https://example.com/gravity-strength-and-potential",
+          "topicPdfUrl": "https://example.com/gravity-strength-and-potential.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "Squad Reform in Single Line",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SpringIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad Reform from InLine",
+          "topicHtmlUrl": "url_to_topic_page"
+        },
+        {
+          "topicName": "Squad, by the right, advance in single file from the right, quick march",
+          "topicHtmlUrl": "url_to_topic_page"
+        },
+
+        {
+          "topicName": "Squad Reform from In3s",
+          "topicHtmlUrl": "url_to_topic_page"
+        },
+        {
+          "topicName": "Squad, threes by the left, advance in single file from the left, quick march",
+          "topicHtmlUrl": "url_to_topic_page"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "Jumping & Bouldering",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/PeriodicMotionIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "সাবধান পজিশনে অর্ধেক বসা লাফ দেওয়া ও সোজা হওয়া",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হ্যান্ড কিকিং",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "লং জাম্প ৩ জাম্প ডাবল হল্ট",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "Final Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/ChapterNineIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা হাত প্রসারিত করে পাতা উল্টনো",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "Corrective Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/10.Gas/GasIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুঠি খোলা",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন",
+          "topicHtmlUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "All PT Chart",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
+      "topicsData": [
+        {
+          "topicName": "All PT Chart",
+          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTableImage.html"
+        }
+      
+      ]
+    }
+  ]
+}
