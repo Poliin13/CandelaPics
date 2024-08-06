@@ -27,6 +27,34 @@
       ]
     },
     {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "Platoon Drill",
+      "chapterIconName": "PLATOON\nDRILL",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Platoon Formations",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadFormation.json"
+        },
+        {
+          "topicName": "Inline to other Formations",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadDrillAllCommands.json"
+        },
+        {
+          "topicName": "In Threes to other formation Commands",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeFormation.json"
+        },
+        {
+          "topicName": "Column of Section to Other formations",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
+        },
+        {
+          "topicName": "All Platoon Drill Commands",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadDrillAllCommands.json"
+        }
+      ]
+    },
+    {
       "chapterNumber": "দ্বিতীয় অধ্যায়",
       "chapterName": "Turning All Directions",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
