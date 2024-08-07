@@ -1,24 +1,24 @@
 {
   "data": [
     {
-      "title": "1",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+      "title": "Command 1",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1.gif"
     },
     {
-      "title": "1-node",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+      "title": "Command 1-Node",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1-node.gif"
     },
     {
-      "title": "3a",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+      "title": "Command 3a",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3a.gif"
     },
     {
-      "title": "3b",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInThrees.png"
+      "title": "Command 3b",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3b.gif"
     },
     {
-      "title": "4",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+      "title": "Command 4",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd4.gif"
     }
   ]
 }
