@@ -1,19 +1,27 @@
 {
   "data": [
     {
-      "title": "Squad",
-      "text": "A squad is a small group of people, often 8-14 in number, organized for a specific purpose, such as military operations, law enforcement, sports, or business projects."
+      "title": "Platoon",
+      "text": "A military unit consisting of two or more squads or sections. Most police works are done by platoon. For example, Crowd controlling."
     },
     {
-      "text": "Squad Formartions can be 2 types-"
+      "text": "Platoon Formartions can be 4 types-"
     },
     {
-      "title": "1. Squad In-Line Formation",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+      "title": "1. Platoon In-Line Formation",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInLine.png"
     },
     {
-      "title": "2. Squad In-Threes Formation",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInThrees.png"
+      "title": "2. Platoon In-Threes Formation",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInThrees.png"
+    },
+    {
+      "title": "3. Platoon In-Line of Section in Threes",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInLineOfSectionInThrees.png"
+    },
+    {
+      "title": "4. Platoon In Column of Sections",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/ColumnOfSectionsFormation.png"
     }
   ]
 }
