@@ -6,6 +6,7 @@
     },
     {
       "title": "Command 1-Node",
+      "text": "Node commands are used to return to previous position.",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1-node.gif"
     },
     {
@@ -13,20 +14,17 @@
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd2.gif"
     },
     {
-      "title": "Command 3",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3.gif"
-    },
-    {
-      "title": "Command 3-Node",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3-node.gif"
-    },
-    {
-      "title": "Command 3a",
+      "title": "Command 3a(On the move)",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3a.gif"
     },
     {
-      "title": "Command 3b",
+      "title": "Command 3b(At the Halt)",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3b.gif"
+    },
+    {
+      "title": "Command 3-Node",
+      "text": "Node commands are used to return to previous position.",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3-node.gif"
     },
     {
       "title": "Command 4",
