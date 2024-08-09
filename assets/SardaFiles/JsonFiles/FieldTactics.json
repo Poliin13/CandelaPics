@@ -21,6 +21,10 @@
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
         },
         {
+          "topicName": "Single Line Forming",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
+        },
+        {
           "topicName": "All Squad Drill Commands",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SquadDrillAllCommands.json"
         }
@@ -59,6 +63,7 @@
         }
       ]
     },
+
     {
       "chapterNumber": "3rd অধ্যায়",
       "chapterName": "Parades",
@@ -75,9 +80,10 @@
         }
       ]
     },
+
     {
       "chapterNumber": "4th chapter",
-      "chapterName": "Turning All Directions",
+      "chapterName": "Weapons Tactics",
       "chapterIconName": "Weapons\nTactics",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
