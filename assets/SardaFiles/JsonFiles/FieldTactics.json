@@ -26,6 +26,7 @@
         }
       ]
     },
+  
     {
       "chapterNumber": "2nd অধ্যায়",
       "chapterName": "Platoon Drill",
@@ -59,33 +60,70 @@
       ]
     },
     {
-      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterNumber": "3rd অধ্যায়",
+      "chapterName": "Parades",
+      "chapterIconName": "PARADES",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Thana Inspection Parade",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/ThanaInspection.json"
+        },
+        {
+          "topicName": "Funeral Drill(মুর্দা সালামি)",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/FuneralDrill.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "4th chapter",
       "chapterName": "Turning All Directions",
+      "chapterIconName": "Weapons\nTactics",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
         {
-          "topicName": "Right Turning(From Inline)\nSquad, Move to the right in 3's, Right Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "Rifle Exercise",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         },
         {
-          "topicName": "Right Turning(from In3s)\nSquad, will advance into line, Right Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "Hand Guns",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         },
         {
-          "topicName": "Left Turning(From Inline)\nSquad, Move to the left in 3's, Left Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "Rifle",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         },
         {
-          "topicName": "Left Turning(From In3s)\nSquad, will advance into line, Left Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "SMGs",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         },
         {
-          "topicName": "About Turn(From Inline)\nSquad, will advance into line, About Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "Secure Weapon",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         },
         {
-          "topicName": "About Turn(From In3s)\nSquad, About Turn",
-          "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+          "topicName": "Change weapon",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "ASOTA",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "Aim and Fire",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "Firing positions",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "Tactical Firing",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "Ammunition",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
         }
       ]
     },
