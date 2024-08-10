@@ -22,7 +22,7 @@
         },
         {
           "topicName": "Single Line Forming",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/ChangeDirection.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/SingleLineFormation.json"
         },
         {
           "topicName": "All Squad Drill Commands",
@@ -88,48 +88,44 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
         {
+          "topicName": "Weapons Introduction",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+        },
+        {
           "topicName": "Rifle Exercise",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "Hand Guns",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Weapon Stance",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "Rifle",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Quick Draw",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "SMGs",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Marksmanship",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "Secure Weapon",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Problems in Shooting",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "Change weapon",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Weapon Safety",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
-          "topicName": "ASOTA",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
-        },
-        {
-          "topicName": "Aim and Fire",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
-        },
-        {
-          "topicName": "Firing positions",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicName": "Weapon Handling",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
           "topicName": "Tactical Firing",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
           "topicName": "Ammunition",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/PlatoonFormation.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         }
       ]
     },
