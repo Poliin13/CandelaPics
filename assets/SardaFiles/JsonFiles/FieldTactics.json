@@ -88,6 +88,10 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
         {
+          "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/MakeSafe.json"
+        },
+        {
           "topicName": "Weapons Introduction",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
