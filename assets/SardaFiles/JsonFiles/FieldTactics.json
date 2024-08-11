@@ -130,8 +130,9 @@
       ]
     },
     {
-      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterNumber": "5th",
       "chapterName": "Changing Formation From InLine",
+      "chapterIconName": "PMO",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/DynamicsIcon.gif",
       "topicsData": [
         {
@@ -149,6 +150,7 @@
     {
       "chapterNumber": "চতুর্থ অধ্যায়",
       "chapterName": "Changing Formation From InLine at the Halt",
+      "chapterIconName": "Self\nImprovement",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/chapterFourIcon.gif",
       "topicsData": [
         {
