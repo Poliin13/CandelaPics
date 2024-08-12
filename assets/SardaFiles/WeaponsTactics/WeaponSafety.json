@@ -2,10 +2,10 @@
   "data": [
     {
       "title": "Basic Safety Rules(ASOTA)"
-    }, 
+    },
     {
       "text": "1. Always loaded:\nAlways consider all firearms as LOADED\nসদাসর্বদা সকল আগ্নেয়াস্ত্রকে লোডেড বিবেচনা করতে হবে।\nসবসময় মনে রাখুন, যে কোন আগ্নেয়াস্ত্রই লোডেড হতে পারে। তাই ব্যবহারের আগে অথবা নীতি অনুযায়ী প্রয়োগের সময় এটি নিশ্চিত করুন।"
-    }, 
+    },
     {
       "text": "2. Safe direction:\nAlways keep your weapon pointed in a safe direction until you intend to shoot\nকেবল শ্যুট করার ক্ষেত্র ব্যতীত সকল অস্ত্রকে সর্বদা নিরাপদ দিকে নির্দেশ করতে হবে।\nঅস্ত্রকে এমনভাবে রাখুন যাতে সেটি নিরাপদ দিকে নির্দেশিত থাকে, যেহেতু অস্ত্রটি শ্যুট করার জন্য প্রস্তুত নয়।"
     },
@@ -23,7 +23,6 @@
     },
     {
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/gunSafety.jpg"
-    }    
+    }
   ]
 }
-
