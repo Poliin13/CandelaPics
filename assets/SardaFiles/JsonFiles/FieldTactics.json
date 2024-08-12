@@ -88,6 +88,10 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
         {
+          "topicName": "Weapon Safety",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+        },
+        {
           "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/MakeSafe.json"
         },
@@ -100,10 +104,6 @@
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/RifleExercise.json"
         },
         {
-          "topicName": "Weapon Stance",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
-        },
-        {
           "topicName": "Quick Draw",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
@@ -113,10 +113,6 @@
         },
         {
           "topicName": "Problems in Shooting",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
-        },
-        {
-          "topicName": "Weapon Safety",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
