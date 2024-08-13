@@ -8,7 +8,10 @@
       "text": "(1) Active Guard(অ্যাকটিভ গার্ড)\n(2) Low Readyলো রেডি)\n(3) Open Magazine(ওপেন ম্যাগাজিন)\n(4) Safety Off(সেফটি অফ)\n(5) Slide Lock(স্লাইড লক)\n(6) Visual Check(ভিজুয়াল চেক)\n(7) Physical Check(ফিজিক্যাল চেক)\n(8) Release Slide(রিলিজ স্লাইড)\n(9) Rack Twice(রেক টুআইস)\n(10) Safe Direction(সেফ ডিরেকশন)\n(11) Fire(ফায়ার)\n(12) Safety On(সেফটি অন)\n(13) Close Magazine(ক্লোজ ম্যাগজিন)\n(14) Low Ready / Holster(লো রেডি / হোলস্টার)."
     },
     {
-      "text": "Rack Meaning– To pull back sharply and then quickly release the cocking handle/slide of the firearm. This will eject a misfired round, which could be a possible cause of the stoppage, and to chamber the next round. Bang/Go – aiming and firing the firearm again.",
+      "text": "N.B. পিস্তলে সেফটি অফ না করে স্লাইড লক করা যায় না। তাই আগে সেফটি অফ করে নিতে হয়।"
+    },
+    {
+      "text": "Rack Meaning– To pull back sharply and then quickly release the cocking handle/slide of the firearm(অস্ত্রের স্লাইড পিছনে টেনে ছেড়ে দেওয়া). This will eject a misfired round, which could be a possible cause of the stoppage, and to chamber the next round. Bang/Go – aiming and firing the firearm again.",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/MakeSafePullingSlide.jpg"
     },
     {
@@ -16,6 +19,9 @@
     },
     {
       "text": "(1) Active Guard\n(2) Low Ready\n(3) Slide Lock\n(4) Open Magazine\n(5) Visual Check\n(6) Physical Check\n(7) Release Slide\n(8) Rack to Eyes\n(9) Safety Off\n(10) Safe Direction\n11) Fire\n(12) Safety On\n13) Close Magazine\n(14) Side Low / Rest."
+    },
+    {
+      "text": "N.B. ম্যাগাজিন খুললে স্লাইড লক হয় না। তাই আগে স্লাইড লক করে ম্যাগাজিন খুলতে হয়।"
     },
     {
       "title": "SMG/SMT: Making Safe",
