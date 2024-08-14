@@ -107,28 +107,25 @@
           "topicName": "Quick Draw",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
+      
         {
-          "topicName": "Marksmanship",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+          "topicName": "1. Stance(Marksmanship)",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Stance.json"
         },
         {
-          "topicName": "Marksmanship - 1.Stance",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship-Stance.json"
-        },
-        {
-          "topicName": "Marksmanship - 2.Grip",
+          "topicName": "2. Grip(Marksmanship)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Grip.json.json"
         },
         {
-          "topicName": "Marksmanship - 3.Sight Alignment",
+          "topicName": "3. Sight Alignment(Marksmanship)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/SightAlignment.json"
         },
         {
-          "topicName": "Marksmanship - 4.Trigger Control",
+          "topicName": "4. Trigger Control(Marksmanship)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/TriggerControl.json"
         },
         {
-          "topicName": "Marksmanship - 5.Breathe Control",
+          "topicName": "5. Breathe Control(Marksmanship)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/BreatheControl.json"
         },
         {

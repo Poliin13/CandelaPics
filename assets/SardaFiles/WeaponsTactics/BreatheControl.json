@@ -1,66 +1,9 @@
 {
   "data": [
-    {
-      "title": "Weapon Stance",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/b87889077812d2c291e7ff80d97ed0c2ecf0c28e/assets/Math1stPaperPDF/BasicFormulaMath1stpaper/6a,6b.BasicFormulaPermutationandCombination_compressed_2.pdf"
-    },
-    {
-      "title": "Grip",
-      "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.png"
-    },
-    {
-      "title": "Sight Alignment",
-      "text": "নিচের ছবি থেকে সাইট কিভাবে ঠিক করতে হবে বুঝা যায়-",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight1.jpg"
-    },
-    {
-      "text": "3 Dot Sight Alignment-",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight2.jpg"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight-alignment-problems.jpg"
-    },
-    {
-      "text": "Sight Focus:",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightFocus.jpg"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightFocus2.jpg"
-    },
-    {
-      "text": "Sight Rifle:",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightRifle.gif"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight_picture-center.gif"
-    },
-    {
-      "text": "Alignment Problems:",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightProblems.jpg"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight-alignment-problems.jpg"
-    },
-    {
-      "title": "Trigger Pressing",
-      "text": "১. আঙ্গুলের সঠিক অংশ দিয়ে চাপ দিতে হবে।",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/TriggerFinger.jpg"
-    },
-    {
-      "text": "২.সুষম ভাবে চাপ দিতে হবে। হঠাৎ করে চাপ দেয়া যাবে না।",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/triggerPressureGraph.png"
-    },
-    {
-      "text": "৩. আঙ্গুল সরাসরি পেছনে টানতে হবে।",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/triggerPull2.jpg"
-    },
-    {
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/Trigger-Finger-3.jpg"
-    },
+    
     {
       "title": "Breathe Control(শ্বাস প্রশ্বাস নিয়ন্ত্রন)",
-      "text": "শ্বাস ধরে রেখে শুট করতে হয়। কিন্তু ৮ সেকেন্ড এর বেশি ধরে রাখা ঠিক নয়। শ্বাস নিয়ন্ত্রন এর উদ্দেশ্য(শরীরকে স্থির রাখা) ব্যাহত হয়।",
+      "text": "শ্বাস ধরে রেখে শুট করতে হয়। কিন্তু ৮ সেকেন্ড এর বেশি ধরে রাখা ঠিক নয়। এতে শ্বাস নিয়ন্ত্রন এর উদ্দেশ্য(শরীরকে স্থির রাখা) ব্যাহত হয়।",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/breatheControl.png"
     }
   ]
