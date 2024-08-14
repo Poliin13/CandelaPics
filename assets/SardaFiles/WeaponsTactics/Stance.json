@@ -34,7 +34,7 @@
     },
     {
       "title": "Kneeling Stance",
-      "text": "There are lot of kneeling stances. Some of them are-\n\t1.High Kneeling Stance\n\t2.Low kneeling Stance\n\t3.Tactical kneeling Stance"
+      "text": "There are lot of kneeling stances. These 2 are taught in Sarda-\n\t1.Tactical kneeling\n\t2.Low kneeling"
     },
     {
       "text": "Kneeling Stance",
@@ -47,6 +47,7 @@
     },
     {
       "title": "Prone Stance",
+      "text": "There are lot of kneeling stances. These 2 are taught in Sarda-\n\t1.Front Prone\n\t2.Weaver Prone",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/ProneStance.jpg"
 
     },

@@ -112,6 +112,10 @@
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
+          "topicName": "Stance",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Stance.json"
+        },
+        {
           "topicName": "Problems in Shooting",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
