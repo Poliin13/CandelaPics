@@ -132,6 +132,10 @@
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/QuickDraw.json"
         },
         {
+          "topicName": "অস্ত্র খোলা-জোড়া(Disassambling weapon)",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/DisassamblingWeapon.json"
+        },
+        {
           "topicName": "Firearms related Laws",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Laws.json"
         }
