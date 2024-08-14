@@ -1,7 +1,14 @@
 {
   "data": [
     {
-      "title": "Sight Alignment",
+      "title": "Sight Alignment"
+    },
+    {
+      "text": "Find your dominant eye and use it to shoot-",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/DominantEye.png"
+    },
+    {
+      "title": "",
       "text": "নিচের ছবি থেকে সাইট কিভাবে ঠিক করতে হবে বুঝা যায়-",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight1.jpeg"
     },
@@ -35,4 +42,3 @@
     }
   ]
 }
-

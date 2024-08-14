@@ -2,22 +2,40 @@
   "data": [
     {
       "title": "Types of Bullet-",
-      "text": "1. Change Direction on the Left\n2. Change Direction on the Right"
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/allBullets.jpeg"
     },
     {
-      "text": "Structure of a bullet"
+      "text": ""
     },
     {
-      "title": "9mm bullets",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionLeft.gif"
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletTypes.jpeg"
     },
     {
-      "title": "7.62mm",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionRight.gif"
+      "text": "7.62mm & 9mm bullets -",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bullet9mm7.62.jpeg"
     },
     {
-      "title": "Change Direction Right at the Halt",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/changeDirectionRightAtHalt.png"
+      "text": ""
+    },
+    {
+      "text": "Anatomy of a bullet -",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletStructure.jpeg"
+    },
+    {
+      "text": "Shotgun shell -",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/shotgunShell.jpg"
+    },
+    {
+      "text": "Bullet in chamber-",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletInChambre.jpeg"
+    },
+    {
+      "text": ""
+    },
+    {
+      "text": "Bullet fired-",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletFired.jpeg"
     }
   ]
 }
+
