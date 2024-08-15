@@ -4,7 +4,6 @@
     {
       "chapterNumber": "প্রথম অধ্যায়",
       "chapterName": "Squad Drill",
-
       "chapterIconName": "SQUAD\nDRILL",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
       "topicsData": [
@@ -30,7 +29,6 @@
         }
       ]
     },
-  
     {
       "chapterNumber": "2nd অধ্যায়",
       "chapterName": "Platoon Drill",
@@ -63,7 +61,6 @@
         }
       ]
     },
-
     {
       "chapterNumber": "3rd অধ্যায়",
       "chapterName": "Parades",
@@ -80,7 +77,6 @@
         }
       ]
     },
-
     {
       "chapterNumber": "4th chapter",
       "chapterName": "Weapons Tactics",
@@ -88,26 +84,21 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
       "topicsData": [
         {
-          "topicName": "Weapon Safety",
+          "topicName": "Weapons Introduction",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+        },
+        {
+          "topicName": "Ammunition",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Ammunition.json"
+        },
+        {
+          "topicName": "Safety Rules - (ASOTA)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
         },
         {
           "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/MakeSafe.json"
         },
-        {
-          "topicName": "Weapons Introduction",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
-        },
-        {
-          "topicName": "Rifle Exercise",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/RifleExercise.json"
-        },
-        {
-          "topicName": "Quick Draw",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
-        },
-      
         {
           "topicName": "1. Stance(Marksmanship)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Stance.json"
@@ -130,19 +121,19 @@
         },
         {
           "topicName": "Problems in Shooting",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/ProblemsInShooting.json"
         },
         {
-          "topicName": "Weapon Handling",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+          "topicName": "Quick Draw",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/QuickDraw.json"
         },
         {
           "topicName": "Tactical Firing",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Marksmanship.json"
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/TacticalFiring.json"
         },
         {
-          "topicName": "Ammunition",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Ammunition.json"
+          "topicName": "Rifle Exercise",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/RifleExercise.json"
         }
       ]
     },
@@ -229,7 +220,6 @@
           "topicName": "Squad, by the right, advance in single file from the right, quick march",
           "topicHtmlUrl": "url_to_topic_page"
         },
-
         {
           "topicName": "Squad Reform from In3s",
           "topicHtmlUrl": "url_to_topic_page"
@@ -300,7 +290,6 @@
           "topicName": "All PT Chart",
           "topicHtmlUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTableImage.html"
         }
-      
       ]
     }
   ]
