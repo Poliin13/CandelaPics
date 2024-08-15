@@ -74,6 +74,10 @@
         {
           "topicName": "Funeral Drill(মুর্দা সালামি)",
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/FuneralDrill.json"
+        },
+        {
+          "topicName": "Rifle Exercise Parade",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/RifleExercise.json"
         }
       ]
     },
@@ -128,12 +132,8 @@
           "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/QuickDraw.json"
         },
         {
-          "topicName": "Tactical Firing",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/TacticalFiring.json"
-        },
-        {
-          "topicName": "Rifle Exercise",
-          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/RifleExercise.json"
+          "topicName": "Firearms related Laws",
+          "topicJsonUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/Laws.json"
         }
       ]
     },
