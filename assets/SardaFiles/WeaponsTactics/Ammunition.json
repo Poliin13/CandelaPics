@@ -19,11 +19,14 @@
     },
     {
       "text": "Anatomy of a bullet -",
-      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletStructure.jpeg"
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletStructure.jpg"
     },
     {
       "text": "Shotgun shell -",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/shotgunShell.jpg"
+    },
+    {
+      "text": ""
     },
     {
       "text": "Bullet in chamber-",
@@ -36,6 +39,7 @@
       "text": "Bullet fired-",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletFired.jpeg"
     }
+    
   ]
 }
 
