@@ -1,9 +1,7 @@
 {
   "data": [
     {
-      "title": "Platoon"
-    },
-    {
+      "title": "Platoon",
       "text": "A military unit consisting of two or more squads or sections. Most police works are done by platoon. For example, Crowd controlling."
     },
     {
@@ -13,9 +11,7 @@
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInLine.png"
     },
     {
-      "title": "Platoon In-Threes Formation"
-    },
-    {
+      "title": "Platoon In-Threes Formation",
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInThrees.png"
     },
     {

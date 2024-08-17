@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "title": "Weapon Stance(\u09ad\u0999\u09cd\u0997\u09bf)"
+      "title": "Weapon Stance(ভঙ্গি)"
     },
     {
       "text": "There are three mainly 3 types of stances. They are-\n\t1. Standing Stance\n\t2. Kneeling Stance\n\t3. Prone Stance"
@@ -82,7 +82,7 @@
       "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/ProneStance.jpg"
     },
     {
-      "text": "N.B. Each stance type serves specific purposes depending on the terrain, shooting distance, and the shooter\u2019s objectives. The choice of stance can significantly affect the shooter\u2019s stability, accuracy, and overall effectiveness in different shooting scenarios."
+      "text": "N.B. Each stance type serves specific purposes depending on the terrain, shooting distance, and the shooter’s objectives. The choice of stance can significantly affect the shooter’s stability, accuracy, and overall effectiveness in different shooting scenarios."
     }
   ]
 }
