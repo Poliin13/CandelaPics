@@ -1002,15 +1002,15 @@
                     "topicName": "2. Grip(Marksmanship)",
                     "contentData": [
                         {
-                          "title": "Grip"
+                            "title": "Grip"
                         },
                         {
-                          "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।"
+                            "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।"
                         },
                         {
-                          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
+                            "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
                         }
-                      ]
+                    ]
                 },
                 {
                     "topicName": "3. Sight Alignment(Marksmanship)",
@@ -1204,47 +1204,67 @@
             "topicsData": [
                 {
                     "topicName": "Marching & Running",
-                    "contentData": "PT-Table-1/ThanaInspection.json"
+                    "contentData": [
+                        {
+                            "title": "Grip"
+                        },
+                        {
+                            "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।"
+                        },
+                        {
+                            "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
+                        }
+                    ]
                 },
                 {
                     "topicName": "Introductory",
-                    "contentData": "PT-Table-1/FuneralDrill.json"
+                    "contentData": [
+                        {
+                            "title": "Grip"
+                        },
+                        {
+                            "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।"
+                        },
+                        {
+                            "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
+                        }
+                    ]
                 },
                 {
                     "topicName": "Heaving",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Lateral",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Balance",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Abdominal",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Dorsal",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Jumping & Bouldering",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Final Exercise",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "Corrective Exercise",
-                    "contentData": "PT-Table-1/RifleExercise.json"
+                    "contentData": []
                 },
                 {
                     "topicName": "All PT Chart",
-                    "topicUrl": "PT-Table-1/AllPtTable1.html"
+                    "contentData": []
                 }
             ]
         }
