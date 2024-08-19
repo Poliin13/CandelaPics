@@ -1,0 +1,197 @@
+{
+  "subjectName": "Field Tactics",
+  "chapters": [
+    {
+      "chapterName": "Squad Drill",
+      "chapterIconName": "SQUAD\nDRILL",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Squad Formation",
+          "contentData": "SquadDrillConverted/SquadFormation.json"
+        },
+        {
+          "topicName": "Change Formation Commands",
+          "contentData": "SquadDrillConverted/ChangeFormation.json"
+        },
+        {
+          "topicName": "Change Direction Commands",
+          "contentData": "SquadDrillConverted/ChangeDirection.json"
+        },
+        {
+          "topicName": "Single Line Forming",
+          "contentData": "SquadDrillConverted/SingleLineFormation.json"
+        },
+        {
+          "topicName": "All Squad Drill Commands",
+          "contentData": "SquadDrillConverted/SquadDrillConvertedAllCommands.json"
+        }
+      ]
+    },
+    {
+      "chapterName": "Platoon Drill",
+      "chapterIconName": "PLATOON\nDRILL",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Platoon Formations",
+          "contentData": "PlatoonDrill/PlatoonFormation.json"
+        },
+        {
+          "topicName": "Inline to other Formations",
+          "contentData": "PlatoonDrill/InlineToOtherFormations.json"
+        },
+        {
+          "topicName": "In Threes to other formation Commands",
+          "contentData": "PlatoonDrill/InThreesToOtherFormations.json"
+        },
+        {
+          "topicName": "Column of Section to Other formations",
+          "contentData": "PlatoonDrill/ColumnOfSectionsToOtherFormations.json"
+        },
+        {
+          "topicName": "All Platoon Drills",
+          "contentData": "PlatoonDrill/AllPlatoonDrills.json"
+        },
+        {
+          "topicName": "All Platoon Drill Commands",
+          "contentData": "PlatoonDrill/AllPlatoonDrillCommands.json"
+        }
+      ]
+    },
+    {
+      "chapterName": "Parades",
+      "chapterIconName": "PARADES",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Thana Inspection Parade",
+          "contentData": "Parades/ThanaInspection.json"
+        },
+        {
+          "topicName": "Funeral Drill(মুর্দা সালামি)",
+          "contentData": "Parades/FuneralDrill.json"
+        },
+        {
+          "topicName": "Rifle Exercise Parade",
+          "contentData": "WeaponsTactics/RifleExercise.json"
+        }
+      ]
+    },
+    {
+      "4th chapter",
+      "chapterName": "Weapons Tactics",
+      "chapterIconName": "Weapons\nTactics",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Weapons Introduction",
+          "contentData": "WeaponsTactics/WeaponsIntroduction.json"
+        },
+        {
+          "topicName": "Ammunition",
+          "contentData": "WeaponsTactics/Ammunition.json"
+        },
+        {
+          "topicName": "Safety Rules - (ASOTA)",
+          "contentData": "WeaponsTactics/WeaponSafety.json"
+        },
+        {
+          "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
+          "contentData": "WeaponsTactics/MakeSafe.json"
+        },
+        {
+          "topicName": "Weapons used in Sarda",
+          "contentData": "WeaponsTactics/WeaponsSarda.json"
+        },
+        {
+          "topicName": "অস্ত্র খোলা-জোড়া(Disassambling weapon)",
+          "contentData": "WeaponsTactics/DisassamblingWeapon.json"
+        },
+        {
+          "topicName": "1. Stance(Marksmanship)",
+          "contentData": "WeaponsTactics/Stance.json"
+        },
+        {
+          "topicName": "2. Grip(Marksmanship)",
+          "contentData": "WeaponsTactics/Grip.json.json"
+        },
+        {
+          "topicName": "3. Sight Alignment(Marksmanship)",
+          "contentData": "WeaponsTactics/SightAlignment.json"
+        },
+        {
+          "topicName": "4. Trigger Control(Marksmanship)",
+          "contentData": "WeaponsTactics/TriggerControl.json"
+        },
+        {
+          "topicName": "5. Breathe Control(Marksmanship)",
+          "contentData": "WeaponsTactics/BreatheControl.json"
+        },
+        {
+          "topicName": "Problems in Shooting",
+          "contentData": "WeaponsTactics/ProblemsInShooting.json"
+        },
+        {
+          "topicName": "Quick Draw",
+          "contentData": "WeaponsTactics/QuickDraw.json"
+        },
+        {
+          "topicName": "Firearms related Laws",
+          "contentData": "WeaponsTactics/Laws.json"
+        }
+      ]
+    },
+    {
+      "chapterName": "PT Table 1",
+      "chapterIconName": "PT\nTable-1",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "Marching & Running",
+          "contentData": "PT-Table-1/ThanaInspection.json"
+        },
+        {
+          "topicName": "Introductory",
+          "contentData": "PT-Table-1/FuneralDrill.json"
+        },
+        {
+          "topicName": "Heaving",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Lateral",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Balance",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Abdominal",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Dorsal",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Jumping & Bouldering",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Final Exercise",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "Corrective Exercise",
+          "contentData": "PT-Table-1/RifleExercise.json"
+        },
+        {
+          "topicName": "All PT Chart",
+          "topicUrl": "PT-Table-1/AllPtTable1.html"
+        }
+      ]
+    }
+  ]
+}
