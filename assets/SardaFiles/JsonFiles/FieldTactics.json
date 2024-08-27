@@ -30,7 +30,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInThrees.png"
                         }
-                    ]
+                    ],
+                    "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
                 },
                 {
                     "topicName": "Change Formation Commands",
@@ -59,7 +60,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/OnTheRIght.gif"
                         }
-                    ]
+                    ],
+                    "id": "f386ade8-372d-4858-9586-d185786deb0b"
                 },
                 {
                     "topicName": "Change Direction Commands",
@@ -91,7 +93,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/changeDirectionRightAtHalt.png"
                         }
-                    ]
+                    ],
+                    "id": "35cf320c-d41b-4fc9-97af-b0854069319e"
                 },
                 {
                     "topicName": "Single Line Forming",
@@ -114,7 +117,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/InLineFormingSingleFileFromTheHalt.png"
                         }
-                    ]
+                    ],
+                    "id": "a9814edb-4c12-441e-a6cd-0a8a512a62a2"
                 },
                 {
                     "topicName": "All Squad Drill Commands",
@@ -155,9 +159,11 @@
                         {
                             "text": "1. Squad Reform from InLine\n2. Squad, by the right, advance in single file from the right, quick march\n3. Squad Reform from In3s\n4. Squad, threes by the left, advance in single file from the left, quick march\n"
                         }
-                    ]
+                    ],
+                    "id": "08f24631-3c00-49b0-be80-10d56ad374d2"
                 }
-            ]
+            ],
+            "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
         },
         {
             "chapterName": "Platoon Drill",
@@ -190,7 +196,8 @@
                         {
                             "text": "N.B. Use Dark Mode for better view."
                         }
-                    ]
+                    ],
+                    "id": "60e4c718-7235-49b1-b22a-bce9ad1ee708"
                 },
                 {
                     "topicName": "Inline to other Formations",
@@ -216,7 +223,8 @@
                             "title": "Command 4",
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd4.gif"
                         }
-                    ]
+                    ],
+                    "id": "c5a12050-01bf-4cf4-8ef4-02754a390bee"
                 },
                 {
                     "topicName": "In Threes to other formation Commands",
@@ -233,7 +241,8 @@
                             "title": "Command 10",
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd10.gif"
                         }
-                    ]
+                    ],
+                    "id": "42faa26f-b86d-40db-8c82-40da52ac7efd"
                 },
                 {
                     "topicName": "Column of Section to Other formations",
@@ -259,7 +268,8 @@
                             "title": "Command 8",
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8.gif"
                         }
-                    ]
+                    ],
+                    "id": "d9a34333-fdd6-4eb6-834c-1581efb94a43"
                 },
                 {
                     "topicName": "All Platoon Drills",
@@ -322,7 +332,8 @@
                             "title": "Command 10",
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd10.gif"
                         }
-                    ]
+                    ],
+                    "id": "1c712b5b-ff65-4640-837b-2ec95f8c13b1"
                 },
                 {
                     "topicName": "All Platoon Drill Commands",
@@ -379,9 +390,11 @@
                             "title": "Command 10",
                             "text": "(At the Halt)\nPlatoon threes by the left, at the halt, facing left, form column of seciton.\nNo.1 section left turn.\nNo.2 section left turn.\n\n(On the move)\nPlatoon threes by the left, facing left, advance in column of section.\nNo.1 section left turn.\nNo.2 section left turn.\n\nDir: Column by the right."
                         }
-                    ]
+                    ],
+                    "id": "d25b565e-8231-4e2c-a5e9-fe252a5f98af"
                 }
-            ]
+            ],
+            "id": "beb3ed3c-de11-4570-8042-4480ff04d8af"
         },
         {
             "chapterName": "Parades",
@@ -412,7 +425,8 @@
                         {
                             "text": "পরিদর্শন শেষে অনুমতি নিয়ে প্যারেড শেষঃ\nপরিদর্শন প্যারেড বিরতি করবে, প্যারেড শেষ।"
                         }
-                    ]
+                    ],
+                    "id": "37353f45-a2c7-4b71-ae17-8d0cb47d41f9"
                 },
                 {
                     "topicName": "Funeral Drill(মুর্দা সালামি)",
@@ -442,7 +456,8 @@
                         {
                             "text": "প্যারেড শেষ করার অনুমতি গ্রহণঃ\nপ্যারেড শেষ করার অনুমতি প্রার্থী, স্যার।\nঅনারগার্ড, প্যারেড বিরতি করবে, প্যারেড শেষ।"
                         }
-                    ]
+                    ],
+                    "id": "95644fbd-730e-4204-96b5-931837726cd9"
                 },
                 {
                     "topicName": "Rifle Exercise Parade",
@@ -495,9 +510,11 @@
                         {
                             "text": "কাধে অস্ত্র(Sholder Arms):\nCommand: প্লাটুন, কাধে অস্ত্র নেবে, কাধে অস্ত্র"
                         }
-                    ]
+                    ],
+                    "id": "ecb04bce-dd57-4f1c-97c3-5c4e585d64b0"
                 }
-            ]
+            ],
+            "id": "c566e677-8913-42a6-9b72-cd3d33a49cf3"
         },
         {
             "chapterName": "Weapons Tactics",
@@ -600,7 +617,8 @@
                         {
                             "text": ""
                         }
-                    ]
+                    ],
+                    "id": "3ee1c74b-1519-4104-88cb-c9e8d1f4db65"
                 },
                 {
                     "topicName": "Ammunition",
@@ -653,7 +671,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletFired.jpeg"
                         }
-                    ]
+                    ],
+                    "id": "782b063f-65ce-4fd8-8799-653042fdea6c"
                 },
                 {
                     "topicName": "Safety Rules - (ASOTA)",
@@ -682,7 +701,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/gunSafety.jpg"
                         }
-                    ]
+                    ],
+                    "id": "c841f24f-6471-4df1-a982-d38ddc79bfce"
                 },
                 {
                     "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
@@ -723,7 +743,8 @@
                         {
                             "text": "১. ম্যাগাজিন খুলে নিতে হবে।\n২. সেফটি ক্যাচ অফ (OFF) করতে হবে।\n৩. স্লাইডটি পিছনে টানতে হবে এবং বুলেট চেম্বার পরিদর্শনের জন্য খুলতে হবে। স্লাইড স্টপ লিভার থাকলে স্লাইডটিকে পিছনে লক করতে হবে।\n৪. চেম্বার চাক্ষুষ পরীক্ষা (Visual Check) ও বাস্তব পরীক্ষা (Physical Check) করতে হবে।\n৬. স্লাইড রিলিজ করতে হবে এবং অস্ত্রটিকে দুইবার রেক(Rack) করতে হবে (চেম্বারের ভিতর লক্ষ্য করতে হবে, স্লাইড নয়)।\n৭. নিরাপদ দিকে রেখে ট্রিগার টানতে হবে।"
                         }
-                    ]
+                    ],
+                    "id": "fe79eefa-a91d-4d3f-9157-582f927d57ce"
                 },
                 {
                     "topicName": "Weapons used in Sarda",
@@ -818,7 +839,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/shotgunDetails.jpg"
                         }
-                    ]
+                    ],
+                    "id": "ab19a400-2b90-4c7e-b532-9554520afb59"
                 },
                 {
                     "topicName": "অস্ত্র খোলা-জোড়া(Disassambling weapon)",
@@ -907,7 +929,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/LMG.jpg"
                         }
-                    ]
+                    ],
+                    "id": "e1bb445a-bb25-4f3c-8ab9-591c6d6d34a5"
                 },
                 {
                     "topicName": "1. Stance(Marksmanship)",
@@ -996,7 +1019,8 @@
                         {
                             "text": "N.B. Each stance type serves specific purposes depending on the terrain, shooting distance, and the shooter’s objectives. The choice of stance can significantly affect the shooter’s stability, accuracy, and overall effectiveness in different shooting scenarios."
                         }
-                    ]
+                    ],
+                    "id": "bb5f993e-c9b1-45ec-a2df-a0704a0fc97c"
                 },
                 {
                     "topicName": "2. Grip(Marksmanship)",
@@ -1010,7 +1034,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
                         }
-                    ]
+                    ],
+                    "id": "24da5240-051c-454c-8eca-db190674c41f"
                 },
                 {
                     "topicName": "3. Sight Alignment(Marksmanship)",
@@ -1069,7 +1094,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight-alignment-problems.jpg"
                         }
-                    ]
+                    ],
+                    "id": "cb1a599f-3a02-47c9-91e8-2f64556c426e"
                 },
                 {
                     "topicName": "4. Trigger Control(Marksmanship)",
@@ -1098,7 +1124,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/Trigger-Finger-3.jpg"
                         }
-                    ]
+                    ],
+                    "id": "5340efc0-b08c-45e5-ab64-920250d1809f"
                 },
                 {
                     "topicName": "5. Breathe Control(Marksmanship)",
@@ -1112,7 +1139,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/breatheControl.png"
                         }
-                    ]
+                    ],
+                    "id": "4e1a8cd9-ef22-42dc-a9aa-8698cf30c0dc"
                 },
                 {
                     "topicName": "Problems in Shooting",
@@ -1141,7 +1169,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/ProblemsInShooting/solutions.jpeg"
                         }
-                    ]
+                    ],
+                    "id": "f842ec92-4229-4f69-89e6-1be92388e138"
                 },
                 {
                     "topicName": "Quick Draw",
@@ -1182,7 +1211,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/Reholstering.jpg"
                         }
-                    ]
+                    ],
+                    "id": "f6027034-8501-431b-9733-e3f103752f67"
                 },
                 {
                     "topicName": "Firearms related Laws",
@@ -1193,9 +1223,11 @@
                         {
                             "text": "পেশাগত কারণে একজন পুলিশ কর্মকর্তাকে প্রায়শঃই আগ্নেয়াস্ত্র বহন ও ব্যবহার করতে হয়। আগ্নেয়াস্ত্রের আইনানুগ ব্যবহারের মাধ্যমে নিজের ও অন্যের জানমাল রক্ষা করা সম্ভব হয়। দন্ডবিধি, ফৌজদারী কার্যবিধি ও পিআরবিতে একজন পুলিশ কর্মকর্তা যে সকল ক্ষেত্রে আগ্নেয়াস্ত্র ব্যবহার করতে পারেন তা নিম্নে বর্ণনা করা হলোঃ\n\n. ব্যক্তিগত আত্মরক্ষার জন্য কৃত কোন কিছুই অপরাধ নয় (দঃ বিঃ ৯৬)। ব্যক্তিগত আত্মরক্ষার প্রয়োজনে মৃত্যু পর্যন্ত ঘটানো যায়। পুলিশ কর্মকর্তার প্রতি যদি এমন আক্রমণ হয় যাতে মৃত্যু বা গুরুতর আঘাতের সম্ভাবনা তৈরি হয় সেক্ষেত্রে আক্রমণকারীর মৃত্যু পর্যন্ত ঘটানো যেতে পারে (দঃ বিঃ ১০০)।\n\n২. দস্যুতা, রাত্রিবেলায় অপথে গৃহ প্রবেশ, বাসগৃহ বা সম্পত্তিতে অগ্নিসংযোগের মতো অপরাধের ক্ষেত্রে কিংবা উক্ত অপরাধ সংঘটনকালে যদি কোনো ব্যক্তির প্রাণহানি বা গুরুতর জখম হবার সম্ভাবনা থাকে সেক্ষেত্রে উক্ত অপরাধীর মৃত্যু পর্যন্ত ঘটানো যায় (দঃ বিঃ ১০৩)।\n৩. কোনো ব্যক্তি বলপূর্বক আইনানুগ গ্রেফতারের চেষ্টায় বাধা দিলে বা গ্রেফতার এড়ানোর চেষ্টা করলে এবং উক্ত অপরাধী মৃত্যুদন্ড বা যাবজ্জীবন কারাদন্ডযোগ্য হলে তাকে গ্রেফতার করার ক্ষেত্রে আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে, এমনকি গ্রেফতার কার্যকরী করার জন্য মৃত্যু পর্যন্তও ঘটানো যেতে পারে (ফৌঃ কাঃ বিঃ ৪৬)।\n\n৪. বেআইনী সমাবেশ ম্যাজিস্ট্রেট বা পুলিশ অফিসার কর্তৃক ছত্রভঙ্গ হবার নির্দেশ দেওয়ার পরও যদি ছত্রভঙ্গ না হয় তাহলে নির্বাহী ম্যাজিস্ট্রেট বা ভারপ্রাপ্ত কর্মকর্তার নিম্নে নন এমন পুলিশ কর্মকর্তার নির্দেশে বেআইনী সমাবেশ ছত্রভঙ্গ করার জন্য আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে (ফৌঃ কাঃ বিঃ ১২৮)। তবে প্রয়োজনের অতিরিক্ত শক্তি প্রয়োগ করা যাবে না। পিআরবি প্রবিধান-১৫৩ অনুযায়ী ব্যক্তিগত আত্মরক্ষা বা সম্পত্তি রক্ষার অধিকার প্রয়োগের জন্য, ফৌজদারী কার্যবিধির বিধান সাপেক্ষে বেআইনী সমাবেশ ছত্রভঙ্গ করার জন্য এবং গ্রেফতার এড়ানোর চেষ্টারত ব্যক্তিকে গ্রেফতার করার জন্য আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে।\n\n৫. পিআরবি প্রবিধান-১৫৪ অনুযায়ী একজন পুলিশ অফিসার গুলিবর্ষণের পূর্বে বা গুলির আদেশ দানের পূর্বে যেভাবেই সম্ভব সতর্কবাণী প্রদান করবেন। গুলি সকল সময়ে নিয়ন্ত্রিত হবে ও নির্ধারিত লক্ষ্যবস্তুর প্রতি পরিচালিত হতে হবে। অপরিহার্য ক্ষেত্র ছাড়া কোনো বড় রকমের ক্ষতি সাধন করা যাবে না এবং উদ্দেশ্য সাধিত হবার সঙ্গে সঙ্গে গুলিবর্ষণ বন্ধ করতে হবে।\n\n৬. পিআরবি প্রবিধান-১৫৬ অনুযায়ী পুলিশ আগ্নেয়াস্ত্র ব্যবহার করার পর অধিনায়ক নিহত ব্যক্তির মরদেহ শবাগারে ও আহতদের হাসপাতালে প্রেরণের ব্যবস্থা করবেন, গুলির খোসা সংগ্রহ করবেন ও ইস্যুকৃত রাউন্ডের সংখ্যার সাথে মিলিয়ে দেখবেন। ম্যাজিস্ট্রেট উপস্থিত থাকলে ঘটনা সম্পর্কে নিখুঁত ও সংক্ষিপ্ত প্রতিবেদন প্রস্তুত করবেন ও প্রতিবেদনের অনুলিপি যত দ্রুত সম্ভব ঊর্ধ্বতন কর্তৃপক্ষকে প্রেরণ করবেন।"
                         }
-                    ]
+                    ],
+                    "id": "208abbca-614c-4dba-a9e1-ad9e1fab220d"
                 }
-            ]
+            ],
+            "id": "7962cb45-2f19-4f74-a4ac-f8db9f7f0eaf"
         },
         {
             "chapterName": "PT Table 1",
@@ -1214,7 +1246,8 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
                         }
-                    ]
+                    ],
+                    "id": "0882ee34-6964-4e64-bba1-a0f042b41b78"
                 },
                 {
                     "topicName": "Introductory",
@@ -1228,45 +1261,56 @@
                         {
                             "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
                         }
-                    ]
+                    ],
+                    "id": "63fe607f-06ec-410d-813a-63dc2aea097e"
                 },
                 {
                     "topicName": "Heaving",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "4cc5df81-f30c-4563-b242-ed498ad5742b"
                 },
                 {
                     "topicName": "Lateral",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "7f655479-d580-4f91-98e3-2e987fc86bb1"
                 },
                 {
                     "topicName": "Balance",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "0c271376-dc6a-4bb9-9ddc-064240ff77fa"
                 },
                 {
                     "topicName": "Abdominal",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "1ba17b79-2921-482c-91c2-385435d02af0"
                 },
                 {
                     "topicName": "Dorsal",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "e36346e4-6352-4065-b4e9-fcf776a999d7"
                 },
                 {
                     "topicName": "Jumping & Bouldering",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "263fa05a-8bef-4b13-9537-7efa12d1035e"
                 },
                 {
                     "topicName": "Final Exercise",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "f487ab6b-ddd4-4bdf-85f4-3ccca84cbce0"
                 },
                 {
                     "topicName": "Corrective Exercise",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "6dd72f0d-ef9a-43a6-b94d-a940267eff70"
                 },
                 {
                     "topicName": "All PT Chart",
-                    "contentData": []
+                    "contentData": [],
+                    "id": "79c7babf-64e6-4132-9468-22c4b3ae6a16"
                 }
-            ]
+            ],
+            "id": "0d8c24d7-f9dc-41c0-8068-96de8ea23c5b"
         }
     ]
 }
