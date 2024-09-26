@@ -162,6 +162,18 @@
               "text": "1. Squad Reform from InLine\n2. Squad, by the right, advance in single file from the right, quick march\n3. Squad Reform from In3s\n4. Squad, threes by the left, advance in single file from the left, quick march\n"
             }
           ]
+        },
+        {
+          "id": "08f24631-3c00-49b0-be80-10d56ad374d2",
+          "topicName": "Html Test",
+          "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/ErrorsInMeasurement.html"
+          
+        },
+        {
+          "id": "08f24631-3c00-49b0-be80-10d56ad374d2",
+          "topicName": "Pdf Test",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh03_Dynamics.pdf"
+          
         }
       ]
     },
