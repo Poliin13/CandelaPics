@@ -122,7 +122,7 @@
           ]
         },
         {
-          "id": "08f24631-3c00-49b0-be80-10d56ad374d2",
+          "id": "08f24631-3c00-49b0-be80-10fd56ad374d2",
           "topicName": "All Squad Drill Commands",
           "contentData": [
             {
@@ -164,16 +164,16 @@
           ]
         },
         {
-          "id": "08f24631-3c00-49b0-be80-10d56ad374d2",
+          "id": "08f24631-3c00-49b0-be80-10d56ad37f4d2",
           "topicName": "Html Test",
           "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/ErrorsInMeasurement.html",
-          "contentData": []
+         
         },
         {
-          "id": "08f24631-3c00-49b0-be80-10d56ad374d2",
+          "id": "08f24631-3c00-49b0-be80-10df56ad374d2",
           "topicName": "Pdf Test",
           "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh03_Dynamics.pdf",
-          "contentData": []
+         
         }
       ]
     },
