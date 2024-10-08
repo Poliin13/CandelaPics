@@ -7,19 +7,7 @@
       "chapterIconName": "MPS\n101",
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squad_drill.png",
       "topicsData": [
-        {
-          "id": "08f24631-3c00-49b0-be80-10d56ad37f4d2",
-          "topicName": "Html Test",
-          "contentData": [],
-          "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/ErrorsInMeasurement.html"
-        },
-        {
-          "id": "1727794030651",
-          "topicName": "Jurisprudece Html Test",
-          "contentData": [],
-          "pdfLink": null,
-          "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/refs/heads/master/assets/SardaFiles/MPS/Jurisprudence%20101/Jurisprudence.html"
-        },
+      
         {
           "id": "1727794499718",
           "topicName": "Jurisprudence - Polin",
