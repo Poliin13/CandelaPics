@@ -41,7 +41,7 @@
     {
       "id": "1728046008211",
       "chapterName": "The Penal Code",
-      "chapterIconName": "PENAL CODE",
+      "chapterIconName": "PENAL\nCODE",
       "chapterIcon": "A",
       "topicsData": [
         {
@@ -113,7 +113,7 @@
     {
       "id": "1728142234302",
       "chapterName": "Mid Term Exam",
-      "chapterIconName": "Mid Term",
+      "chapterIconName": "Mid\nTerm",
       "chapterIcon": "s",
       "topicsData": [
         {
@@ -163,7 +163,7 @@
     {
       "id": "1728142616271",
       "chapterName": "Financial Rules",
-      "chapterIconName": "Financial Rules",
+      "chapterIconName": "Financial\nRules",
       "chapterIcon": "a",
       "topicsData": [
         {
@@ -191,8 +191,8 @@
     },
     {
       "id": "1728142679762",
-      "chapterName": "Monthly test",
-      "chapterIconName": "Monthly",
+      "chapterName": "Monthly Test",
+      "chapterIconName": "Monthly\nTest",
       "chapterIcon": "a",
       "topicsData": [
         {
