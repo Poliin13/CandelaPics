@@ -4,8 +4,7 @@
     {
       "id": "1728045965501",
       "chapterName": "CrPC",
-      "chapterIconName": "CrPc",
-      "chapterIcon": "a",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_CrPC.png",
       "topicsData": [
         {
           "id": "1728046049735",
@@ -19,8 +18,7 @@
     {
       "id": "1728045984436",
       "chapterName": "Evidence Act",
-      "chapterIconName": "EA",
-      "chapterIcon": "a",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_EvidenceAct.png",
       "topicsData": [
         {
           "id": "1728046107065",
@@ -41,8 +39,7 @@
     {
       "id": "1728046008211",
       "chapterName": "The Penal Code",
-      "chapterIconName": "PENAL\nCODE",
-      "chapterIcon": "A",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_PenalCode.png",
       "topicsData": [
         {
           "id": "1728046198964",
