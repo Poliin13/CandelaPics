@@ -67,8 +67,7 @@
     {
       "id": "1728046025875",
       "chapterName": "Public Order Management",
-      "chapterIconName": "POM",
-      "chapterIcon": "A",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/POM/assets/POM_logo.webp",
       "topicsData": [
         {
           "id": "1728046347124",
