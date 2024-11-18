@@ -1236,6 +1236,18 @@
       "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_Table_1/PT_Table_1_logo.webp",
       "topicsData": [
         {
+          "id": "1731936390573",
+          "topicName": "draft",
+          "contentData": [
+            {
+              "text": "অস্ত্র নামানো(Order Arms):\nCommand: প্লাটুন, অস্ত্র নামাবে, অস্ত্র নামা"
+            },
+            {
+              "ytVideo": "https://youtube.com/embed/CZPs9QP6zLg?"
+            }
+          ]
+        },
+        {
           "id": "0882ee34-6964-4e64-bba1-a0f042b41b78",
           "topicName": "Marching & Running",
           "contentData": [],
