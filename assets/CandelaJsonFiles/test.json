@@ -10,18 +10,20 @@
         {
           "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
           "topicName": "ত্রুটি পরিমাপ",
-          "pdfLink": "",
-          "htmlLink": "",
           "cardList": [
             {
               "cardData": [
                 {
-                  "title": "স্লাইড ক্যালিপার্স(Slide Calipers)",
+                  "title": "স্লাইড ক্যালিপার্স(Slide Calipers)"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
                 },
                 {
-                  "title": "স্ফেরোমিটার (Spherometer)",
-                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif",
+                  "title": "স্ফেরোমিটার (Spherometer)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif"
                 },
                 {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
@@ -31,11 +33,18 @@
             {
               "cardData": [
                 {
-                  "title": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)",
+                  "title": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
                 },
                 {
-                  "title": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)",
+                  "title": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)"
+                },
+                {
+                  "ytVideo": "https://www.youtube.com/watch?v=w6EGyFAGpXU"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
                 }
               ]
@@ -43,31 +52,45 @@
             {
               "cardData": [
                 {
-                  "text": "উদাহরন ১",
+                  "text": "উদাহরন ১"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(1).webp"
                 },
                 {
-                  "text": "উদাহরন ২",
+                  "text": "উদাহরন ২"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(2).webp"
                 },
                 {
-                  "text": "উদাহরন ৩",
+                  "text": "উদাহরন ৩"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(3).webp"
                 },
                 {
-                  "text": "উদাহরন ৪",
+                  "text": "উদাহরন ৪"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(4).webp"
                 },
                 {
-                  "text": "উদাহরন ৫",
+                  "text": "উদাহরন ৫"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(5).webp"
                 },
                 {
-                  "text": "উদাহরন ৬",
+                  "text": "উদাহরন ৬"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(6).webp"
                 },
                 {
-                  "text": "উদাহরন ৭",
+                  "text": "উদাহরন ৭"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(7).webp"
                 }
               ]
@@ -75,7 +98,9 @@
             {
               "cardData": [
                 {
-                  "text": "ত্রুটি পরিমাপের সুত্রসমুহ",
+                  "text": "ত্রুটি পরিমাপের সুত্রসমুহ"
+                },
+                {
                   "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ErrorCalculationFormulas.webp"
                 },
                 {
@@ -112,12 +137,13 @@
           "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
           "topicName": "সৃজনশীল টেস্টপেপার",
           "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf",
-          "htmlLink": ""
+          "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+
         },
         {
           "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
           "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
-          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Math.pdf"
+          "htmlLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Math.pdf"
         },
         {
           "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
@@ -126,5 +152,6 @@
         }
       ]
     }
+    
   ]
 }
