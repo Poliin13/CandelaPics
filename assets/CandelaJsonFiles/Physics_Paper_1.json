@@ -771,7 +771,7 @@
         {
           "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
           "topicName": "গাণিতিক সমস্যাবলী",
-          "McqList": [
+          "mcqList": [
             {
               "mcqAnswer": "b",
               "mcqQuestion": "<div>১. গ্যাসের গতিতত্ত্ব অনুসারে কোনটি সঠিক?</div>",
