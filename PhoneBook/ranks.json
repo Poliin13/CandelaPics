@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Inspector General of Police (IGP)",
+    "abbreviation": "IGP",
+    "icon": "igp.png"
+  },
+  {
+    "id": 2,
+    "name": "Additional IG",
+    "abbreviation": "Addl. IGP",
+    "icon": "additional_igp.png"
+  },
+  {
+    "id": 3,
+    "name": "Deputy Inspector General of Police (DIG)",
+    "abbreviation": "DIG",
+    "icon": "dig.png"
+  },
+  {
+    "id": 4,
+    "name": "Additional DIG",
+    "abbreviation": "Addl. DIG",
+    "icon": "additional_dig.png"
+  },
+  {
+    "id": 5,
+    "name": "Superintendent of Police (SP)",
+    "abbreviation": "SP",
+    "icon": "sp.png"
+  },
+  {
+    "id": 6,
+    "name": "Additional SP",
+    "abbreviation": "Addl. SP",
+    "icon": "additional_sp.png"
+  },
+  {
+    "id": 7,
+    "name": "Assistant Superintendent of Police (ASP)",
+    "abbreviation": "ASP",
+    "icon": "asp.png"
+  },
+  {
+    "id": 8,
+    "name": "Assistant Superintendent of Police (ASP)",
+    "abbreviation": "ASP",
+    "icon": "asp.png"
+  },
+  {
+    "id": 9,
+    "name": "Inspector",
+    "abbreviation": "Insp.",
+    "icon": "inspector.png"
+  },
+  {
+    "id": 10,
+    "name": "Sub Inspector",
+    "abbreviation": "SI",
+    "icon": "sub_inspector.png"
+  },
+  {
+    "id": 11,
+    "name": "Assistant Sub-Inspector (ASI)",
+    "abbreviation": "ASI",
+    "icon": "asis_sub_inspector.png"
+  },
+  {
+    "id": 12,
+    "name": "other",
+    "abbreviation": "Other",
+    "icon": "other.png"
+  },
+  {
+    "id": 13,
+    "name": "Traffic Inspector",
+    "abbreviation": "TI",
+    "icon": "inspector.png"
+  },
+  {
+    "id": 14,
+    "name": "sergeant",
+    "abbreviation": "Sgt.",
+    "icon": "sergeant.png"
+  }
+]
